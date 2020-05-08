@@ -1,0 +1,2104 @@
+url,app_id,name
+https://github.com/jdmonin/anstop,An.stop,Anstop
+https://github.com/jroal/a2dpvolume,a2dp.Vol,A2DP Volume
+https://github.com/aarddict/android,aarddict.android,Aard
+https://github.com/anthonycr/Lightning-Browser,acr.browser.barebones,Lightning
+https://github.com/andviane/moon,akk.astro.droid.moonphase,Moon Phase
+https://github.com/chelovek84/mBrowser,am.zoom.mbrowser,mBrowser
+https://github.com/chelovek84/mLauncher,am.zoom.mlauncher,mLauncher
+https://github.com/andraus/BluetoothHidEmu,andraus.bluetoothhidemu,Bluetooth Input Emulator
+https://github.com/gryphius/androdns,androdns.android.leetdreams.ch.androdns,AndroDNS
+https://github.com/antlersoft/android-vnc-viewer,android.androidVNC,androidVNC
+https://github.com/valerio-bozzolan/AcrylicPaint,anupam.acrylic,Acrylic Paint
+https://github.com/CosimoSguanci/Material-File-Manager,app.android.com.materialfilemanager,Material File Manager
+https://github.com/cernekee/EasyToken,app.easytoken,Easy Token
+https://github.com/milesmcc/LibreNews-Android,app.librenews.io.librenews,LibreNews
+https://github.com/cernekee/ics-openconnect,app.openconnect,OpenConnect
+https://github.com/zikalify/StoicReading,app.reading.stoic.stoicreading,Stoic Reading
+https://github.com/aminecmi/ReaderforSelfoss,apps.amine.bou.readerforselfoss,Reader for Selfoss
+https://github.com/queler/sharetobrowser,aq.com.sharetobrowser,ShareToBrowser
+https://github.com/martinchodev/Diaspora-Native-WebApp,ar.com.tristeslostrestigres.diasporanativewebapp,Diaspora Native WebApp
+https://github.com/martinchodev/RedPanal-Android-WebApp,ar.com.tristeslostrestigres.redpanal,RedPanal
+https://github.com/raulhaag/MiMangaNu,ar.rulosoft.mimanganu,Mi Manga Nu
+https://github.com/bitfireAT/cadroid,at.bitfire.cadroid,CAdroid
+https://github.com/MirakelX/davdroid,at.bitfire.davdroid.mirakel,DAVdroid-mirakel
+https://github.com/rfc2822/GfxTablet,at.bitfire.gfxtablet,GfxTablet
+https://github.com/HaarigerHarald/android-youtubeExtractor,at.huber.sampleDownload,YouTube Download
+https://github.com/linuxtage/glt-companion,at.linuxtage.companion,GLT Companion
+https://github.com/mauimauer/cheapcast,at.maui.cheapcast,CheapCast
+https://github.com/TomTasche/OpenDocument.droid,at.tomtasche.reader,OpenDocument Reader
+https://github.com/fmetzger/android-sensorium,at.univie.sensorium,Sensorium
+https://github.com/johnzweng/bankomatinfos,at.zweng.bankomatinfos,Bankomat Card Infos
+https://github.com/adavari/Todoer,atitel.com.todoer,Todoer
+https://github.com/mattkwan/android-xserver,au.com.darkside.XServer,X Server
+https://github.com/micwallace/reddinator,au.com.wallaceit.reddinator,Reddinator
+https://github.com/micolous/metrodroid,au.id.micolous.farebot,Metrodroid
+https://github.com/alt236/Android-Drawables---Android,aws.apps.androidDrawables,Android Resources
+https://github.com/alt236/USB-Device-Info---Android,aws.apps.usbDeviceEnumerator,USB Device Info
+https://github.com/axxapy/apkExtractor,axp.tool.apkextractor,Apk Extractor
+https://github.com/bparmentier/APKShare,be.brunoparmentier.apkshare,APKShare
+https://github.com/bparmentier/DNSSetter,be.brunoparmentier.dnssetter,DNSSetter
+https://github.com/bparmentier/OpenBikeSharing,be.brunoparmentier.openbikesharing.app,OpenBikeSharing
+https://github.com/bparmentier/WiFiKeyShare,be.brunoparmentier.wifikeyshare,WiFiKeyShare
+https://github.com/cbeyls/fosdem-companion-android,be.digitalia.fosdem,FOSDEM Companion
+https://github.com/geecko86/QuickLyric,be.geecko.QuickLyric,QuickLyric
+https://github.com/Mygod/VPNHotspot,be.mygod.vpnhotspot,VPN Hotspot
+https://github.com/litrik/be.norio.randomapp,be.norio.randomapp,Random App
+https://github.com/ppareit/Shutdown,be.ppareit.shutdown,Shutdown
+https://github.com/ppareit/swiftp,be.ppareit.swiftp_free,FTP Server
+https://github.com/Kent1/Manille,be.quentinloos.manille,Manille
+https://github.com/BramBonne/privacypolice,be.uhasselt.privacypolice,Wi-Fi Privacy Police
+https://github.com/cw/svg-viewer-android,biz.codefuture.svgviewer,SVG viewer
+https://github.com/danielgimenes/NasaPic,br.com.dgimenes.nasapic,NasaPic
+https://github.com/TheFakeMontyOnTheRun/knightsofalentejo,br.odb.knights,The Knights of Alentejo
+https://github.com/m45t3r/retrobreaker,br.usp.ime.retrobreaker,Retro Breaker
+https://github.com/abrensch/brouter,btools.routingapp,BRouter
+https://github.com/budowski/budoist,budo.budoist,Budoist
+https://github.com/rafi-kamal/Bangla-Dictionary,buet.rafi.dictionary,Ridmik Dictionary
+https://github.com/AliceCA/Overchan-Android,bus.chio.wishmaster,Overchan (fork)
+https://github.com/dillbyrne/Bodha-Converter,byrne.utilities.converter,Bodha Converter
+https://github.com/dillbyrne/HashPass,byrne.utilities.hashpass,HashPass
+https://github.com/dillbyrne/PasteeDroid,byrne.utilities.pasteedroid,Pastee Droid
+https://github.com/pR0Ps/LocationShare,ca.cmetcalfe.locationshare,Location Share
+https://github.com/pR0Ps/DisableBatteryWarnings,ca.cmetcalfe.xposed.disablebatterywarnings,Disable Battery Warnings
+https://github.com/pR0Ps/FlatConnectivityIcons,ca.cmetcalfe.xposed.flatconnectivityicons,Flat Connectivity Icons
+https://github.com/Cbsoftware/pressureNET,ca.cumulonimbus.barometernetwork,pressureNET
+https://github.com/daryldy/Heart,ca.ddaly.android.heart,Heart Observe
+https://github.com/graham22/Classic,ca.farrelltonsolar.classic,Classic
+https://github.com/corcoran/Hangar,ca.mimic.apphangar,Hangar
+https://github.com/mudar/Fairphone,ca.mudar.fairphone.peaceofmind,Peace of Mind+
+https://github.com/pR0Ps/Entrust-IdentityGuard-Unblocker,ca.pr0ps.xposed.entrustunblocker,Entrust IdentityGuard Unblocker
+https://github.com/caarmen/FRCAndroidWidget,ca.rmen.android.frenchcalendar,French Calendar
+https://github.com/caarmen/network-monitor,ca.rmen.android.networkmonitor,Network Monitor
+https://github.com/caarmen/poet-assistant,ca.rmen.android.poetassistant,Poet Assistant
+https://github.com/caarmen/scrumchatter,ca.rmen.android.scrumchatter,Scrum Chatter
+https://github.com/caarmen/nounours-android,ca.rmen.nounours,Nounours
+https://github.com/cacafogo/CheckBalanceAndroid,cacafogo.software.touchBalance,Balance
+https://github.com/konklone/campyre,campyre.android,Campyre
+https://github.com/jordhi/CineCat,cat.jordihernandez.cinecat,CineCat
+https://github.com/mvmike/min-cal-widget,cat.mvmike.minimalcalendarwidget,MinCal Widget
+https://github.com/NyaaPantsu/NyaaPantsu-android-app,cat.pantsu.nyaapantsu,NyaaPantsu
+https://github.com/OEP/rainwave-android,cc.rainwave.android,Rainwave
+https://github.com/cgeo/cgeo,cgeo.geocaching,c:geo
+https://github.com/abertschi/ad-free,ch.abertschi.adfree,Ad Free
+https://github.com/bailuk/AAT,ch.bailu.aat,AAT
+https://github.com/adrian-bl/APN-Switch,ch.blinkenlights.android.apnswitch,ApnSwitch
+https://github.com/vanilla-music/vanilla,ch.blinkenlights.android.vanilla,Vanilla Music
+https://github.com/vanilla-music/vanilla-headphone-detector,ch.blinkenlights.android.vanillaplug,Headphone detector for Vanilla Music
+https://github.com/adrian-bl/bl-battstatus-android,ch.blinkenlights.battery,Battery Circle
+https://github.com/CiTuX/TD,ch.citux.td,TD
+https://github.com/arminha/worldclockwidget,ch.corten.aha.worldclock,World Clock & Weather
+https://github.com/LawnchairLauncher/Lawnchair,ch.deletescape.lawnchair.plah,
+https://github.com/Dissem/Drupal-Editor,ch.dissem.android.drupal,Drupal Editor
+https://github.com/rorist/Cowsay-android,ch.fixme.cowsay,Cowsay
+https://github.com/fixme-lausanne/MyHackerspace,ch.fixme.status,MyHackerspace
+https://github.com/hgdev-ch/toposuite-android,ch.hgdev.toposuite,TopoSuite
+https://github.com/tom-and-jerry/eyeCam,ch.hsr.eyecam,eyeCam
+https://github.com/pascalfree/calendar-color,ch.ihdg.calendarcolor,Calendar Color
+https://github.com/jiikuy/velocitycalculator,ch.jiikuy.velocitycalculator,Velocity Calculator
+https://github.com/reloZid/android-anuto,ch.logixisland.anuto,Anuto TD
+https://github.com/phcoder/SGit,ch.phcoder.jigit,Forker
+https://github.com/Waboodoo/Status-Bar-Tachometer,ch.rmy.android.statusbar_tacho,Status Bar Tachometer
+https://github.com/rrelmy/BatteryLevel,ch.rrelmy.android.batterymanager,Battery Level
+https://github.com/rrelmy/LocationCacheMap,ch.rrelmy.android.locationcachemap,Location Cache Map
+https://github.com/bamless/chromium-swe-updater,chromiumupdater.bamless.com.chromiumsweupdater,Chromium SWE Updater
+https://github.com/no-go/UART-Smartwatch,click.dummer.UartSmartwatch,UART Smartwatch
+https://github.com/no-go/FunPhonePuppet,click.dummer.funphonepuppet,Fun Phone Puppet
+https://github.com/no-go/RickApp,click.dummer.rickapp,Rick App
+https://github.com/no-go/TextThing,click.dummer.textthing,Retro Text Editor
+https://github.com/louboco/Icicle,co.loubo.icicle,Icicle for Freenet
+https://github.com/veniosg/JustSearch,co.pxhouse.sas,Just Search
+https://github.com/Proplex/Leaf,co.wakarimasen.ceredux,Leaf
+https://github.com/wakarimasenco/ChanExplorer,co.wakarimasen.chanexplorer,ChanExplorer
+https://github.com/FireFart/Permissions,com.FireFart.Permissions2,Permissions
+https://github.com/marcosdiez/shareviahttp,com.MarcosDiez.shareviahttp,Share via HTTP
+https://github.com/nbenm/ImapNote2,com.Pau.ImapNotes2,ImapNotes2
+https://github.com/SecUpwN/Android-IMSI-Catcher-Detector,com.SecUpwN.AIMSICD,Android IMSI-Catcher Detector
+https://github.com/Sparker0i/Weather,com.a5corp.weather,Simple Weather
+https://github.com/aaronjwood/PortAuthority,com.aaronjwood.portauthority,Port Authority
+https://github.com/abcdjdj/RootVerifier-APP,com.abcdjdj.rootverifier,Root Verifier
+https://github.com/abitsinc/AB-ITS-Inc-Flashlight-Android,com.abitsinc.andr,Flashlight
+https://github.com/AChep/AcDisplay,com.achep.acdisplay,AcDisplay
+https://github.com/AChep/JellyBeanClock,com.achep.widget.jellyclock,Jelly Clock
+https://github.com/activems/clipcaster,com.actisec.clipcaster,ClipCaster
+https://github.com/Acvarium/TasClock,com.acvarium.tasclock,TasClock
+https://github.com/tgwizard/sls,com.adam.aslfms,Simple Last.fm Scrobbler
+https://github.com/AdguardTeam/ContentBlocker,com.adguard.android.contentblocker,AdGuard Content Blocker
+https://github.com/Adonai/Man-Man,com.adonai.manman,Man Man
+https://github.com/adstro/launch-app-ops,com.adstrosoftware.launchappops,Launch App Ops
+https://github.com/afollestad/cabinet,com.afollestad.cabinet,Cabinet Beta
+https://github.com/afollestad/impression,com.afollestad.impression,${appName}
+https://github.com/afollestad/nock-nock,com.afollestad.nocknock,
+https://github.com/agateau/cat-avatar-generator-app,com.agateau.catgenerator,Cat Avatar Generator
+https://github.com/agnibho/solarcompass,com.agnibho.android.solarcompass,Solar Compass
+https://github.com/aidin36/simpletextcrypt,com.aidinhut.simpletextcrypt,SimpleTextCrypt
+https://github.com/0xe1f/Spark360,com.akop.bach,Spark 360
+https://github.com/alaskalinuxuser/app_critical_velocity,com.alaskalinuxuser.criticalvelocity,Critical Velocity
+https://github.com/alaskalinuxuser/app_hourglass,com.alaskalinuxuser.hourglass,Hourglass
+https://github.com/Papuh/PapuhWalls,com.alexcruz.papuhwalls,Papuh
+https://github.com/AlexKang/blue-chat,com.alexkang.bluechat,BlueChat
+https://github.com/AlexKang/loopboard,com.alexkang.loopboard,LoopBoard
+https://github.com/AlexKang/simple-matrix,com.alexkang.x3matrixcalculator,Matrix Calc
+https://github.com/Alexxz/Hawkingquotes,com.alexxz.hawkingquotes,Stephen Hawking quotes
+https://github.com/allan-simon/verbiste-android,com.allansimon.verbisteandroid,Verbiste Android
+https://github.com/almalence/OpenCamera,com.almalence.opencam,A Better Camera
+https://github.com/Amabyte/vtu-cs-lab-manual,com.amabyte.vtucslabmanual,VTU CS Lab Manual
+https://github.com/TeamAmaze/AmazeFileManager,com.amaze.filemanager,Amaze
+https://github.com/andviane/google-books-android-viewer,com.ames.books,BookList
+https://github.com/Amphoras/TPT-Helper,com.amphoras.tpthelper,TPT Helper
+https://github.com/andDevW/getChromium,com.anddevw.getchromium,getChromium
+https://github.com/snufflesrea/TotalZero,com.andreasgift.totalzero,Total Zero
+https://github.com/CyanogenMod/android_packages_apps_Apollo,com.andrew.apollo,Apollo
+https://github.com/talklittle/reddit-is-fun,com.andrewshu.android.reddit,reddit is fun
+https://github.com/Androguide/Universal-init.d,com.androguide.universal.init.d,Universal Init.d
+https://github.com/CyanogenMod/android_packages_apps_Browser,com.android.browser,Browser
+https://github.com/bpellin/keepassdroid,com.android.keepass,KeePassDroid
+https://github.com/jackpal/glesquake,com.android.quake,Quake
+https://github.com/try2codesecure/ShellMS,com.android.shellms,ShellMS
+https://github.com/google/talkback,com.android.talkback,TalkBack
+https://github.com/Xlythe/android_packages_apps_Calculator,com.android2.calculator3,Calculator
+https://github.com/Pretz/SNesoid,com.androidemu.snes,SNesoid
+https://github.com/jondwillis/ElectricSleep,com.androsz.electricsleepbeta,ElectricSleep
+https://github.com/andreynovikov/Androzic,com.androzic,Androzic
+https://github.com/andybotting/tramhunter,com.andybotting.tramhunter,Tram Hunter
+https://github.com/nilesr/United4,com.angryburg.uapp,la/u/ncher
+https://github.com/kraigs-android/kraigsandroid,com.angrydoughnuts.android.alarmclock,Alarm Klock
+https://github.com/madmanteam/QDict,com.annie.dictionary,QDict
+https://github.com/aNNiMON/MinizipAndroid,com.annimon.minizipandroid,Minizip Android
+https://github.com/Anthony-Reboul/AndroidDeepL,com.anthony.deepl.openl,
+https://github.com/pi3ch/ssh_anysoftkeyboard,com.anysoftkeyboard.languagepack.SSH,SSH for AnySoftKeyboard
+https://github.com/AnySoftKeyboard/LanguagePack,com.anysoftkeyboard.languagepack.afrikaans,AnySoftKeyboard - Afrikaans Language Pack
+https://github.com/Stichoza/AnySoftKeyboardLanguagePackGeorgian,com.anysoftkeyboard.languagepack.georgian.fdroid,Georgian (full) for AnySoftKeyboard
+https://github.com/rhornig/anysoftkeyboard-hungarian,com.anysoftkeyboard.languagepack.hungarian,AnySoftKeyboard - Hungarian Language Pack
+https://github.com/kertase/neo_anysoftkeyboard,com.anysoftkeyboard.languagepack.neo,neo2 for AnySoftKeyboard
+https://github.com/pi3ch/persian_anysoftkeyboard,com.anysoftkeyboard.languagepack.persian,Persian for AnySoftKeyboard
+https://github.com/romanbb/AOKP_Backup,com.aokp.backup,AOKP Backup
+https://github.com/rumboalla/apkupdater,com.apkupdater,APKUpdater
+https://github.com/ngbvol/Zensuren,com.app.Zensuren,Zensuren
+https://github.com/httpdispatch/MissedNotificationsReminder,com.app.missednotificationsreminder,MissedNotificationsReminder
+https://github.com/452/USBHIDTerminal,com.appspot.usbhidterminal,USB HID Terminal
+https://github.com/aragaer/jtt_android,com.aragaer.jtt,Japanese Traditional Time
+https://github.com/evilrobot69/code,com.ariwilson.seismowallpaper,Seismo Wallpaper
+https://github.com/uberspot/AnagramSolver,com.as.anagramsolver,AnagramSolver
+https://github.com/aselalee/sl-train-schedule,com.aselalee.trainschedule,Train Schedule
+https://github.com/asksven/BetterBatteryStats,com.asksven.betterbatterystats,BBS
+https://github.com/asksven/BetterWifiOnOff,com.asksven.betterwifionoff,Better Wifi on/off
+https://github.com/lpar/RPN,com.ath0.rpn,RPN
+https://github.com/ATryder/TEdit,com.atr.tedit,TEdit
+https://github.com/thasmin/Podax,com.axelby.podax,Podax
+https://github.com/deltachat/deltachat-android,com.b44t.messenger,Delta Chat
+https://github.com/banasiak/CoinFlip,com.banasiak.coinflip,Coin Flip
+https://github.com/banasiak/CoinFlipExtExample,com.banasiak.coinflipext.example,Coin Flip Example Add-on
+https://github.com/ekx/GitLabAndroid,com.bd.gitlab,GitLab
+https://github.com/OpenLauncherTeam/openlauncher,com.benny.openlauncher,OpenLauncher
+https://github.com/yuriykulikov/AlarmClockAndroidStudio,com.better.alarm,Simple Alarm Clock
+https://github.com/adventuregamestudio/ags,com.bigbluecup.android.launcher,AGS
+https://github.com/BiglySoftware/BiglyBT-Android,com.biglybt.android.client,BiglyBT
+https://github.com/BijoySingh/Scarlet-Notes,com.bijoysingh.quicknote,Material Notes
+https://github.com/blanyal/Remindly,com.blanyal.remindly,Remindly
+https://github.com/jonasbleyl/Recurrence,com.bleyl.recurrence,Recurrence
+https://github.com/blippex/blippex_android_app,com.blippex.app,blippex
+https://github.com/baolongnt/EmailPopup,com.blntsoft.emailpopup,Email Popup
+https://github.com/MarioBoehmer/NFCProfile,com.blogspot.marioboehmer.nfcprofile,NFC Profile
+https://github.com/TheUberCatman/crates-io-android,com.bmco.cratesiounofficial,Crates.io unofficial
+https://github.com/charbgr/Anagram-Solver,com.bmpak.anagramsolver,Anagram Solver
+https://github.com/ccomeaux/boardgamegeek4android,com.boardgamegeek,BoardGameGeek
+https://github.com/bobbyrne01/howfardoyouswim-android,com.bobbyrne01.howfardoyouswim,How far do you swim
+https://github.com/seamusphelan/ProfileSwitcher,com.bonelazy.profileswitcher,ProfileSwitcher
+https://github.com/boombuler/Shift,com.boombuler.games.shift,Shift
+https://github.com/boombuler/piraten_map_app,com.boombuler.piraten.map,Piraten Karte
+https://github.com/boombuler/scrollablecontacts,com.boombuler.widgets.contacts,Contact Widget
+https://github.com/borneq/HereGPSLocation,com.borneq.heregpslocation,Here GPS Location
+https://github.com/jyio/botbrew-gui,com.botbrew.basil,BotBrew Basil
+https://github.com/dennischen/dailymoney2017,com.bottleworks.dailymoney,DailyMoney
+https://github.com/boztalay/PuppyFrame,com.boztalay.puppyframeuid,PuppyFrame
+https://github.com/jbardera/RoamingInfo,com.brapeba.roaminginfo,Roaming Info
+https://github.com/hwki/SimpleBitcoinWidget,com.brentpanther.bitcoincashwidget,Simple Bitcoin Cash Widget
+https://github.com/bretternst/urlazy,com.bretternst.URLazy,URLazy
+https://github.com/horn3t/android_packages_apps_PerformanceControl,com.brewcrewfoo.performance,Performance Control
+https://github.com/NightlyNexus/Color-Clock,com.brianco.colorclock,
+https://github.com/mofosyne/NFCMessageBoard,com.briankhuu.nfcmessageboard,NFCMessageBoard
+https://github.com/brillenheini/DeepScratch,com.brillenheini.deepscratch.free,Deep Scratch
+https://github.com/brosmike/AirPush-Detector,com.brosmike.airpushdetector,AirPush Detector
+https://github.com/btcontract/wallet,com.btcontract.wallet,Bitcoin
+https://github.com/btmura/rbb,com.btmura.android.reddit,falling for reddit
+https://github.com/bvalosek/cpuspy,com.bvalosek.cpuspy,CPU Spy
+https://github.com/ebraminio/DroidPersianCalendar,com.byagowi.persiancalendar,Persian Calendar
+https://github.com/Fortyseven/ToneDef,com.bytestemplar.tonedef,ToneDef
+https://github.com/KernelCrap/android-dlna,com.cajor.dk.dlna,Slick UPnP
+https://github.com/riul88/call-recorder-for-android,com.callrecorder.android,Call recorder for Android
+https://github.com/chibibi/simpleDeadlines,com.casimirlab.simpleDeadlines,Simple Deadlines
+https://github.com/heruoxin/Clip-Stack,com.catchingnow.tinyclipboardmanager,Clip Stack
+https://github.com/carltonwhitehead/material-hash-android,com.cebesius.materialhash,Material Hash
+https://github.com/carltonwhitehead/wifi-auto-forget,com.cebesius.wifiautoforget,Wi-Fi AutoForget
+https://github.com/cgogolin/library,com.cgogolin.library,Library
+https://github.com/grzegorznittner/chanu,com.chanapps.four.activity,Chanu
+https://github.com/crazyhitty/minx,com.chdev.ks.minx,MinX
+https://github.com/eldarerathis/Simple-Chess-Clock,com.chessclock.android,Simple Chess Clock
+https://github.com/chmod0/Manpages,com.chmod0.manpages,Manpages
+https://github.com/cheald/FlexAuth,com.chrisheald.flexauth,FlexAuth
+https://github.com/kaputnikGo/LittleSirEcho,com.cityfreqs.littlesirecho,Little Sir Echo
+https://github.com/CityZenApp/Android-Development,com.cityzen.cityzen,CityZen
+https://github.com/claha/movianremote,com.claha.showtimeremote,Movian Remote
+https://github.com/Cleveroad/PlayWidget,com.cleveroad.sample,sample
+https://github.com/davidbain/BasicRadioAndroid,com.clickgostudio.air1072,AIR 107.2
+https://github.com/SrpMtt/DeadPixel,com.code61.deadpixel,DeadPixel
+https://github.com/codebutler/farebot,com.codebutler.farebot,FareBot
+https://github.com/coinbase/coinbase-android,com.coinbase.android,Coinbase
+https://github.com/kaytdek/ColorNamer,com.color.colornamer,Color Namer
+https://github.com/CommonsLab/CommonsLab,com.commonslab.commonslab,CommonsLab
+https://github.com/jdeslip/arxiv-mobile,com.commonsware.android.arXiv,arXiv mobile
+https://github.com/concentricsky/android-viewer-for-khan-academy,com.concentricsky.android.khan,Viewer for Khan Academy
+https://github.com/shakalaca/BeautyClockLiveWallpaper,com.corner23.android.beautyclocklivewallpaper,Beauty Clock
+https://github.com/corphish/NightLight,com.corphish.nightlight.generic,Night Light
+https://github.com/wizmer/syncorg,com.coste.syncorg,SyncOrg
+https://github.com/cr5315/countdown-for-dashclock,com.cr5315.cfdc,Countdown for DashClock
+https://github.com/iitc-project/ingress-intel-total-conversion,com.cradle.iitc_mobile,IITC Mobile
+https://github.com/crazyhitty/Munch,com.crazyhitty.chdev.ks.munch,Munch
+https://github.com/hanspeide/dashclock-yr-extension,com.ctrlplusz.dashclock.yr,Dashclock Yr Extension
+https://github.com/mcrosson/android_packages_apps_CMFileManager,com.cyanogenmod.filemanager.ics,File Manager
+https://github.com/CyanogenMod/android_packages_apps_LockClock,com.cyanogenmod.lockclock,cLock
+https://github.com/cybro/PalmCalc,com.cybrosys.palmcalc,PalmCalc
+https://github.com/dacer/SimplePomodoro,com.dacer.simplepomodoro,Simple Pomodoro
+https://github.com/Tyde/TuCanMobile,com.dalthed.tucan,TuCanMobile
+https://github.com/dkim0419/SoundRecorder,com.danielkim.soundrecorder,Sound Recorder
+https://github.com/danielme-com/Muspy-for-Android,com.danielme.muspyforandroid,Muspy for Android
+https://github.com/velazcod/Tinfoil-Facebook,com.danvelazco.fbwrapper,Tinfoil for Facebook
+https://github.com/ercanpinar/app-android,com.darknessmap,Darkness Map
+https://github.com/darshan-/Battery-Indicator-Free,com.darshancomputing.BatteryIndicator,BatteryBot
+https://github.com/darshan-/Battery-Indicator-Pro,com.darshancomputing.BatteryIndicatorPro,BatteryBot
+https://github.com/kamegami13/MonsterHunter4UDatabase,com.daviancorp.android.mh4udatabase,MH4U Database
+https://github.com/dbooga/MonsterHunter3UDatabase,com.daviancorp.android.monsterhunter3udatabase,Monster Hunter 3U Database
+https://github.com/linux-colonel/AdminControl,com.davidshewitt.admincontrol,AdminControl
+https://github.com/losttime/cooper,com.dconstructing.cooper,Cooper
+https://github.com/uberspot/DebianDroid,com.debian.debiandroid,DebianDroid
+https://github.com/derekcsm/hubble_gallery,com.derek_s.hubble_gallery,Hubble Gallery
+https://github.com/JasonCromer/CSHelper,com.dev.cromer.jason.cshelper,CSHelper
+https://github.com/shubhamchaudhary/wordpowermadeeasy,com.developfreedom.wordpowermadeeasy,Word Power Made Easy
+https://github.com/dftec-es/planetcon,com.dftec.planetcon,PlanetCon
+https://github.com/luarca84/Caramelos,com.dfzlv.gjjlt.caramelos,Caramelos
+https://github.com/dgmltn/android-MorphClock,com.dgmltn.morphclock.app,MorphClock
+https://github.com/diegocarloslima/ByakuGallery,com.diegocarloslima.byakugallery,ByakuGallery
+https://github.com/LibreShift/OpenShift,com.digitalfishfun.openshift,LibreShift
+https://github.com/okey666/NiceCompass,com.digitallizard.nicecompass,Nice Compass
+https://github.com/dimtion/Shaarlier,com.dimtion.shaarlier,Shaarlier
+https://github.com/aperifons/Wa-Tor,com.dirkgassen.wator,Wa-Tor
+https://github.com/duncanje/android-open-wifi-network-remover,com.dje.openwifinetworkremover,Open WiFi Cleaner
+https://github.com/dkanada/Chip8,com.dkanada.chip,Chip8
+https://github.com/dkanada/frost,com.dkanada.icecons,Frost
+https://github.com/dkanada/OpenAPK,com.dkanada.openapk,OpenAPK
+https://github.com/dngames/mobilewebcam-android,com.dngames.mobilewebcam,MobileWebCam
+https://github.com/DF1E/SimpleExplorer,com.dnielfe.manager,Simple Explorer
+https://github.com/Doctoror/Pure-File-Manager,com.docd.purefm,Pure File Manager
+https://github.com/MrDoomy/OverFlow,com.doomy.overflow,OverFlow
+https://github.com/MrDoomy/Torch,com.doomy.torch,Torch
+https://github.com/Doplgangr/Secrecy_fDroid,com.doplgangr.secrecy,Secrecy
+https://github.com/adolfintel/chromiumUpdater,com.dosse.chromiumautoupdater,Auto Updater for Chromium
+https://github.com/dougkeen/BartRunnerAndroid,com.dougkeen.bart,BART Runner
+https://github.com/dozingcat/AsciiCam,com.dozingcatsoftware.asciicam,AsciiCam
+https://github.com/dozingcat/Vector-Pinball,com.dozingcatsoftware.bouncy,Vector Pinball
+https://github.com/dozingcat/CamTimer,com.dozingcatsoftware.cameratimer,CamTimer
+https://github.com/iFixit/iFixitAndroid,com.dozuki.ifixit,Dozuki
+https://github.com/darshanparajuli/LogcatReader,com.dp.logcatapp,Logcat Reader
+https://github.com/dririan/ringydingydingy,com.dririan.RingyDingyDingy,RingyDingyDingy
+https://github.com/jmyrland/DriSMo,com.drismo,DriSMo
+https://github.com/drodin/TuxRider,com.drodin.tuxrider,Tux Rider
+https://github.com/drodin/ZXdroid,com.drodin.zxdroid,ZXdroid
+https://github.com/apps4av/avare,com.ds.avare,Avare
+https://github.com/duckduckgo/Android,com.duckduckgo.mobile.android,DuckDuckGo
+https://github.com/dinosaurwithakatana/lastcaller,com.dwak.lastcall,LastCaller
+https://github.com/keverets/tweetings,com.dwdesign.tweetings,Tweetings
+https://github.com/dynamitetuning/com.dynamite.heaterrc,com.dynamite.heaterrc,HeaterRC
+https://github.com/Earthblood/Toe,com.earthblood.tictactoe,Tic Tac Toe
+https://github.com/easytargetmixel/micopi_android,com.easytarget.micopi,Micopi Pico
+https://github.com/ebaschiera/TripleCamel,com.ebaschiera.triplecamel,TripleCamel
+https://github.com/ecuamobi/deck-wallet,com.ecuamobi.deckwallet,Deck Wallet
+https://github.com/edwardoyarzun/diccionariochilenoandroid,com.edwardoyarzun.diccionario,Diccionario Chileno
+https://github.com/Eibriel/RedDot,com.eibriel.reddot,Red Dot
+https://github.com/einmalfel/PodListen,com.einmalfel.podlisten,PodListen
+https://github.com/varlesh/theia-icon-theme,com.elementarytoday.theia,Theia Icon Theme
+https://github.com/eleybourn/Book-Catalogue,com.eleybourn.bookcatalogue,Book Catalogue
+https://github.com/miracle2k/android-autostarts,com.elsdoerfer.android.autostarts,Autostarts
+https://github.com/elsewhat/com.elsewhat.android.currentwallpaper,com.elsewhat.android.currentwallpaper,Current Wallpaper
+https://github.com/emartynov/UrlSetter,com.emartynov.android.app.urlsetter,Link Setter
+https://github.com/emmaguy/clean-status-bar,com.emmaguy.cleanstatusbar,Clean Status Bar
+https://github.com/EmmanuelMess/Simple-Accounting,com.emmanuelmess.simpleaccounting,Simple Accounting
+https://github.com/endeepak/dotsnsquares,com.endeepak.dotsnsquares,Dots & Squares
+https://github.com/urtxintxa/HexColorTime,com.eneko.hexcolortimewallpaper,HexColorTime Wallpaper
+https://github.com/enricocid/Battery-Live,com.enrico.earthquake.batterysimplysolid,Battery Live
+https://github.com/enricocid/Simply-Solid,com.enrico.earthquake,Simply Solid
+https://github.com/enricocid/Storage-USB,com.enrico.filemanager,Storage & USB
+https://github.com/enricocid/Color-picker-library,com.enrico.sample,Sample
+https://github.com/eolwral/OSMonitor,com.eolwral.osmonitor,OS Monitor
+https://github.com/ghackett/AppAlarm,com.episode6.android.appalarm.pro,AppAlarm Pro
+https://github.com/etesync/android,com.etesync.syncadapter,EteSync
+https://github.com/evancharlton/android-mileage,com.evancharlton.mileage,Mileage
+https://github.com/e-venement/eve-control,com.evenement.encapsulation,Eve-control
+https://github.com/sergstetsuk/CosyDVR,com.example.CosyDVR,CosyDVR
+https://github.com/romannurik/Android-MonthCalendarWidget,com.example.android.monthcalendarwidget,Month Calendar Widget
+https://github.com/kas70/SAnd,com.example.lukas.app,SAnd
+https://github.com/igoralmeida/muzei-apod,com.example.muzei.muzeiapod,NASA APOD for Muzei
+https://github.com/ars3niy/openpass,com.example.openpass,OpenPass
+https://github.com/WIStudent/FreifunkAutoConnectApp,com.example.tobiastrumm.freifunkautoconnect,Freifunk Auto Connect
+https://github.com/PrXenon/fcoin,com.f.coin,Fcoin
+https://github.com/F0x06/EddyMalou,com.f0x.eddymalou,Eddy Malou
+https://github.com/f2prateek/Device-Frame-Generator,com.f2prateek.dfg,Device Frame Generator
+https://github.com/WeAreFairphone/android_packages_apps_ClockWidget,com.fairphone.clock,Clock widget
+https://github.com/WeAreFairphone/android_packages_apps_MyContactsWidget,com.fairphone.mycontacts,My Contacts
+https://github.com/kaeptmblaubaer1000/android-torchlight,com.fake.android.torchlight,Torchlight
+https://github.com/TheRealFalcon/Prestissimo,com.falconware.prestissimo,Prestissimo
+https://github.com/farmerbb/Notepad,com.farmerbb.notepad,${appName}
+https://github.com/farmerbb/SecondScreen,com.farmerbb.secondscreen.free,${appName}
+https://github.com/farmerbb/Taskbar,com.farmerbb.taskbar,${appName}
+https://github.com/thermatk/FastHub-Libre,com.fastaccess.github.libre,FastHub-Libre
+https://github.com/k0shk0sh/FastHub,com.fastaccess.github,FastHub
+https://github.com/fasteque/rgb-tool,com.fastebro.androidrgbtool,RGB Tool
+https://github.com/fadelakin/SFM,com.fisheradelakin.interactivestory,Interactive Story
+https://github.com/fadelakin/vortex,com.fisheradelakin.vortex,Vortex
+https://github.com/fivasim/Antikythera-Simulation,com.fivasim.antikythera,Antikythera Simulation
+https://github.com/forrestguice/SuntimesWidget,com.forrestguice.suntimeswidget,Suntimes
+https://github.com/abartmatozu/forum-fiend-osp,com.forum.fiend.osp,Forum Fiend OSP
+https://github.com/foxykeep/lifecounter,com.foxykeep.lifecounter,Life Counter
+https://github.com/fr3ts0n/AndrOBD-Plugin,com.fr3ts0n.androbd.plugin.mqtt,MqttPublisher Plugin
+https://github.com/fr3ts0n/AndrOBD,com.fr3ts0n.ecu.gui.androbd,AndrOBD
+https://github.com/fr3ts0n/StageFever,com.fr3ts0n.stagefever,StageFever
+https://github.com/FreeRDP/FreeRDP,com.freerdp.afreerdp,aFreeRDP
+https://github.com/blitzprog/anime-release-notifier-android,com.freezingwind.animereleasenotifier,Anime Release Notifier
+https://github.com/frostwire/frostwire-android,com.frostwire.android,FrostWire
+https://github.com/Frozen-Developers/android-cache-cleaner,com.frozendevs.cache.cleaner,Cache Cleaner
+https://github.com/Frozen-Developers/android-periodic-table,com.frozendevs.periodictable,Periodic Table
+https://github.com/frrahat/Quran-For-My-Android,com.frrahat.quransimple,Quran For My Android
+https://github.com/scoute-dich/K9-MailClient,com.fsck.k9.material,K9 Material (unofficial)
+https://github.com/k9mail/k-9,com.fsck.k9,K-9 Mail
+https://github.com/renancunha33/DiolinuxApp,com.fullscreen,Diolinux
+https://github.com/tilal6991/HoloIRC,com.fusionx.lightirc,HoloIRC
+https://github.com/futurice/meeting-room-tablet,com.futurice.android.reservator,Reservator
+https://github.com/gabm/FancyPlaces,com.gabm.fancyplaces,Fancy Places
+https://github.com/gabm/TapAndTurn,com.gabm.screenrotationcontrol,Tap 'n' Turn
+https://github.com/Leszek111/ReLaunchX,com.gacode.relaunchx,ReLaunchX
+https://github.com/JanSvoboda/aeonsend-randomizer,com.games.boardgames.aeonsend,Aeon's End
+https://github.com/QuickLyric/QuickLyric,com.geecko.QuickLyric,QuickLyric
+https://github.com/AEFeinstein/mtg-familiar,com.gelakinetic.mtgfam,MTG Familiar
+https://github.com/genonbeta/TrebleShot,com.genonbeta.TrebleShot,TrebleShot
+https://github.com/GermainZ/Identiconizer,com.germainz.identiconizer,Identiconizer!
+https://github.com/slapperwan/gh4a,com.gh4a,OctoDroid
+https://github.com/ghisguth/sunlight,com.ghisguth.sun,Your very own Sun!
+https://github.com/gatheringhallstudios/MHGenDatabase,com.ghstudios.android.mhgendatabase,MHGen Database
+https://github.com/ajlyon/zandy,com.gimranov.zandy.app,Zandy
+https://github.com/ginkel/hashit,com.ginkel.hashit,Hash It!
+https://github.com/alijc/CricketsAlarm,com.github.alijc.cricketsalarm,Cricket's Alarm
+https://github.com/AndlyticsProject/andlytics,com.github.andlyticsproject,Andlytics
+https://github.com/Pansanel/cetoolbox,com.github.cetoolbox,CEToolbox
+https://github.com/gstraube/cythara,com.github.cythara,Cythara
+https://github.com/darthjoey91/Hangman-Android,com.github.darthjoey91.hangman,Hangman
+https://github.com/gsantner/dandelion,com.github.dfa.diaspora_android,${appName}
+https://github.com/chemicalappspace/Isotopes,com.github.egonw.isotopes,Isotopes
+https://github.com/funkyg/funkytunes,com.github.funkyg.funkytunes,Funkytunes
+https://github.com/gianluca-nitti/android-expr-eval,com.github.gianlucanitti.expreval,ExprEval
+https://github.com/grimpy/Botifier,com.github.grimpy.botifier,Botifier
+https://github.com/jtjj222/Sudbury-Transit,com.github.jtjj222.sudburytransit,Greater Sudbury Transit
+https://github.com/MarmaladeSky/aRevelation,com.github.marmalade.aRevelation,aRevelation
+https://github.com/github/android,com.github.mobile,GitHub
+https://github.com/mofosyne/instantReadmeApp,com.github.mofosyne.instantreadme,Instant Readme Demo
+https://github.com/mofosyne/tagdrop,com.github.mofosyne.tagdrop,tagdrop
+https://github.com/moko256/twitlatte,com.github.moko256.twitlatte,twitlatte
+https://github.com/nicolassmith/urlevaluator,com.github.nicolassmith.urlevaluator,Short URL Evaluator
+https://github.com/notizklotz/derbund-downloader,com.github.notizklotz.derbunddownloader,Der Bund ePaper
+https://github.com/Nutomic/control-dlna,com.github.nutomic.controldlna,ControlDLNA
+https://github.com/OneTimePass/OneTimePass,com.github.onetimepass,OneTimePass
+https://github.com/ooz/HeyMeditation,com.github.ooz.heymeditation,Hey! Meditation
+https://github.com/pires/android-obd-reader,com.github.pires.obd.reader,Android OBD-II Reader
+https://github.com/pockethub/PocketHub,com.github.pockethub.android,
+https://github.com/premnirmal/StockTicker,com.github.premnirmal.tickerwidget,StockTicker
+https://github.com/quarck/CalendarNotification,com.github.quarck.calnotify,Calendar Notifications
+https://github.com/ruleant/getback_gps,com.github.ruleant.getback_gps,GetBack GPS
+https://github.com/sryze/wirebug,com.github.sryze.wirebug,Wirebug
+https://github.com/timnew/AndroidInfrared,com.github.timnew.smartremotecontrol,Smart Remote Control
+https://github.com/wakhub/tinyclock,com.github.wakhub.tinyclock,1x1 clock
+https://github.com/wdkapps/FillUp,com.github.wdkapps.fillup,FillUp
+https://github.com/xloem/qrstream,com.github.xloem.qrstream,QRStream
+https://github.com/yeriomin/DumbphoneAssistant,com.github.yeriomin.dumbphoneassistant,Dumbphone Assistant
+https://github.com/yeriomin/SmsScheduler,com.github.yeriomin.smsscheduler,SMS Scheduler
+https://github.com/yeriomin/WorkoutLog,com.github.yeriomin.workoutlog,WorkoutLog
+https://github.com/yeriomin/YalpStore,com.github.yeriomin.yalpstore,Yalp Store
+https://github.com/GeorgijK/swj,com.gk.simpleworkoutjournal,SWJournal
+https://github.com/Chluverman/android-gltron,com.glTron,GL TRON
+https://github.com/hwmrocker/tictactoe,com.gladis.tictactoe,TicTacToe
+https://github.com/nebulon42/beepme,com.glanznig.beepme,BeepMe
+https://github.com/amir/HNdroid,com.gluegadget.hndroid,HNdroid
+https://github.com/afonsotrepa/PocketGopher,com.gmail.afonsotrepa.pocketgopher,Pocket Gopher
+https://github.com/taky/effy,com.gmail.altakey.effy,Scribbler
+https://github.com/jerickson314/sdscanner,com.gmail.jerickson314.sdscanner,SD Scanner
+https://github.com/mugcupsoup/SimpleReflectedLightMeter,com.gmail.mugcuposup.android,Simple Reflected Light Meter
+https://github.com/walles/batterylogger,com.gmail.walles.johan.batterylogger,Battery Logger
+https://github.com/gokhanmoral/STweaks,com.gokhanmoral.stweaks.app,STweaks
+https://github.com/mo271/guessaday,com.goltzkiste.guessaday,Guessaday
+https://github.com/google/google-authenticator-android,com.google.android.apps.authenticator2,Authenticator
+https://github.com/google/iosched,com.google.android.apps.iosched,Google I/O 2013
+https://github.com/IvanVolosyuk/diskusage,com.google.android.diskusage,DiskUsage
+https://github.com/microg/android_packages_apps_UnifiedNlp,com.google.android.gms,microG UnifiedNlp
+https://github.com/sky-map-team/stardroid,com.google.android.stardroid,Sky Map
+https://github.com/pfalcon/apps2org,com.google.code.apps2org,Apps2Org
+https://github.com/zxing/zxing,com.google.zxing.client.android,Barcode Scanner
+https://github.com/damonkohler/sl4a,com.googlecode.android_scripting,SL4A
+https://github.com/kostmo/chartdroid,com.googlecode.chartdroid,ChartDroid Core
+https://github.com/aelmahmoudy/gogodroid,com.googlecode.gogodroid,GogoDroid
+https://github.com/Yakoo63/GTalkSMS,com.googlecode.gtalksms,GTalkSMS
+https://github.com/pragma-/networklog,com.googlecode.networklog,Network Log
+https://github.com/Zukero/andors-trail,com.gpl.rpg.AndorsTrail,Andor's Trail
+https://github.com/feelinglucky/Presentation,com.gracecode.android.presentation,Presentation
+https://github.com/benjymous/dashclock-k-9,com.grapefruitopia.dashclock.k9,K-9 unread count for Dashclock
+https://github.com/Grarak/KernelAdiutor,com.grarak.kerneladiutor,Kernel Adiutor
+https://github.com/greenaddress/abcore,com.greenaddress.abcore,ABCore
+https://github.com/greenaddress/GreenBits,com.greenaddress.greenbits_android_wallet.testnet,GreenBits
+https://github.com/GWlodarek/TorontoTransit,com.gregorywlodarek.torontotransit.torontotransit,Toronto Transit
+https://github.com/Somethingweirdhere/Secure-Photo-Viewer,com.gtp.showapicturetoyourfriend,Secure photo viewer
+https://github.com/gsingh93/hacker-live-wallpaper,com.gulshansingh.hackerlivewallpaper,Hacker Live Wallpaper
+https://github.com/GunshipPenguin/open_flood,com.gunshippenguin.openflood,Open Flood
+https://github.com/guvery/NotifyMe,com.guvery.notifyme,Notify
+https://github.com/haha01haha01/HaRail_Android,com.haha01haha01.harail,HaRail
+https://github.com/yiselieren/ReLaunch,com.harasoft.relaunch,ReLaunch
+https://github.com/Kestutis-Z/World-Weather,com.haringeymobile.ukweather,World Weather
+https://github.com/harleensahni/media-button-router,com.harleensahni.android.mbr,Media Button Router
+https://github.com/h42i/d00r-app,com.hasi.hasid00r,D00R
+https://github.com/seizonsenryaku/HayaiLauncher,com.hayaisoftware.launcher,Hayai Launcher
+https://github.com/oliexdev/openScale,com.health.openscale,openScale
+https://github.com/pipakin/Android-Bluetooth-Reprap,com.hermit.btreprap,Bluetooth RepRap
+https://github.com/kenkendk/android-bluez-ime,com.hexad.bluezime,Bluez IME
+https://github.com/HexAirbot/HexNanoController_Android,com.hexairbot.hexmini,Flexbot
+https://github.com/lithium/Pomodoro,com.hlidskialf.android.pomodoro,Pomodoro
+https://github.com/queler/holokenmod,com.holokenmod,HoloKenMod
+https://github.com/HoraApps/LeafPic,com.horaapps.leafpic,LeafPic
+https://github.com/howeyc/spipedmobile,com.howeyc.spiped,Spiped
+https://github.com/htruong/sophia_oss,com.htruong.inputmethod.latin,Sophia keyboard
+https://github.com/gregko/TtsPlus-FBReader,com.hyperionics.fbreader.plugin.tts_plus,FBReader TTS+ Plugin
+https://github.com/iamtrk/Device-Explorer,com.iamtrk.androidexplorer,Android Explorer
+https://github.com/elboza/footguy,com.iazasoft.footguy,Footguy
+https://github.com/icechen1/Notable,com.icechen1.notable.pro,Notable Plus
+https://github.com/icecondor/android,com.icecondor.nest,IceCondor
+https://github.com/ankidroid/Anki-Android,com.ichi2.anki,AnkiDroid
+https://github.com/ideasfrombrain/search-based-launcher-v2,com.ideasfrombrain.search_based_launcher_v2,
+https://github.com/idunnololz/igo,com.idunnololz.igo,igo
+https://github.com/raydac/AndroidPirateDice,com.igormaznitsa.piratedice,PirateDice
+https://github.com/GiorgioRegni/Binaural-Beats,com.ihunda.android.binauralbeat,Binaural Beats Therapy
+https://github.com/Phantast/smartnavi,com.ilm.sandwich,SmartNavi
+https://github.com/OSRSHelper/OSRSHelper,com.infonuascape.osrshelper,OSRS Helper
+https://github.com/grennis/MongoExplorer,com.innodroid.mongobrowser,Mongo Explorer
+https://github.com/intervigilium/MicDroid,com.intervigil.micdroid,MicDroid
+https://github.com/intrications/browser-intercept,com.intrications.android.sharebrowser,Browser Intercept - Share URL
+https://github.com/invano/AmbientWeatherDashClockExtension,com.invano.ambientweather,Ambient Weather DashClock Extension
+https://github.com/rahulaga/WorldClock,com.irahul.worldclock,World Clock
+https://github.com/p0isonra1n/Doze-Settings-Editor,com.isaacparker.dozesettingseditor,Doze Editor
+https://github.com/IsaNexusDev/androidcpg,com.isanexusdev.androidcpg,AndroidCPG
+https://github.com/evankale/TriRose,com.isdp.trirose,Tri Rose
+https://github.com/sandsmark/QuasselDroid,com.iskrembilen.quasseldroid,Quasseldroid
+https://github.com/itds-consulting/android-silent-ping-sms,com.itds.sms.ping,SMS Ping
+https://github.com/IvanVolosyuk/share-to-browser,com.ivanvolosyuk.sharetobrowser,Send to Computer
+https://github.com/enricocid/iven-feed-reader,com.iven.lfflfeedreader,Iven News Reader
+https://github.com/enricocid/Music-Player-GO,com.iven.musicplayergo,Music Player GO
+https://github.com/enricocid/xda-feed-reader,com.iven.xdafeedreader,Xda Feed Reader
+https://github.com/jackpf/ApkDownloader,com.jackpf.apkdownloader,Apk Downloader
+https://github.com/bherrmann7/Car-Cast,com.jadn.cc,Car Cast
+https://github.com/jakebasile/hearing-saver,com.jakebasile.android.hearingsaver,Hearing Saver
+https://github.com/JakeWharton/Telecine,com.jakewharton.telecine,
+https://github.com/javierllorente/adc,com.javierllorente.adc,Diccionario castellano
+https://github.com/javiersantos/MLManager,com.javiersantos.mlmanager,ML Manager
+https://github.com/javiersantos/WhatsAppBetaUpdater,com.javiersantos.whatsappbetaupdater,Beta Updater for WhatsApp
+https://github.com/poundifdef/VirginMobileMinutesChecker,com.jaygoel.virginminuteschecker,Minutes Checker for Virgin Mobile
+https://github.com/JBirdVegas/external_jbirdvegas_mGerrit,com.jbirdvegas.mgerrit,mGerrit
+https://github.com/jecelyin/920-Text-Editor,com.jecelyin.editor,920 Text Editor
+https://github.com/jeffboody/gears2,com.jeffboody.GearsES2eclair,Gears
+https://github.com/enricocid/JellyRevenge-CM11-theme,com.jelly.theme.revenge,JellyRevenge
+https://github.com/jereksel/Bucket,com.jereksel.libresubstratum,Bucket
+https://github.com/jforce-dev/Chapel-Hill-Transit-Android,com.jforce.chapelhillnextbus,Chapel Hill Transit
+https://github.com/jeffxmn/temaki,com.jmartin.temaki,Temaki
+https://github.com/jffrymrtn/writeily,com.jmartin.writeily,Writeily
+https://github.com/chokdee/myTTR,com.jmelzer.myttr,myTTR
+https://github.com/raatmarien/chibe,com.jmstudios.chibe,Chibe
+https://github.com/raatmarien/Point-and-Hit,com.jmstudios.pointandhit.android,Point & Hit
+https://github.com/LibreShift/red-moon,com.jmstudios.redmoon,Red Moon
+https://github.com/johan12345/ls-vertretungsplan,com.johan.vertretungsplan,Vertretungsplan
+https://github.com/JoseGD/MonthCalendarWidget,com.josegd.monthcalwidget,Month Calendar Widget
+https://github.com/jatwigg/cmus-android-remote,com.joshtwigg.cmus.droid,Cmus Remote
+https://github.com/mportuesisf/ScreenInfo,com.jotabout.screeninfo,ScreenInfo
+https://github.com/OneBusAway/onebusaway-android,com.joulespersecond.seattlebusbot,OneBusAway
+https://github.com/jparkie/Aizoban,com.jparkie.aizoban,Aizōban
+https://github.com/jparkie/GivesMeHopeAndroidClient,com.jparkie.givesmehope,Anthology for Gives Me Hope
+https://github.com/jpkrause/C-Feed,com.jpkrause.c_feed,C-Feed
+https://github.com/JTechMe/JumpGo,com.jtechme.jumpgo,JumpGo
+https://github.com/jtmcn/archwiki-viewer,com.jtmcn.archwiki.viewer,ArchWiki Viewer
+https://github.com/mavidser/attendance-viewer,com.juet.attendance,Attendance
+https://github.com/jsparber/CaptivePortalAutologin,com.juliansparber.captiveportallogin,CaptivePortalLogin
+https://github.com/junjunguo/PocketMaps,com.junjunguo.pocketmaps,PocketMaps
+https://github.com/fighthawkarg/NasaApodCL,com.jvillalba.apod.classic,Apod Classic
+https://github.com/fighthawkarg/NasaApodMD,com.jvillalba.apod.md,Apod MD
+https://github.com/phishman3579/android-heart-rate-monitor,com.jwetherell.heart_rate_monitor,HeartRateMonitor
+https://github.com/KaeruCT/GLXY,com.kaeruct.glxy,GLXY
+https://github.com/kaliturin/BlackList,com.kaliturin.blacklist,Blacklist Blocker
+https://github.com/vanilla-music/vanilla-music-tag-editor,com.kanedias.vanilla.audiotag,Vanilla Tag Editor
+https://github.com/vanilla-music/vanilla-music-cover-fetch,com.kanedias.vanilla.coverfetch,Vanilla Cover Fetch
+https://github.com/vanilla-music/vanilla-music-lyrics-search,com.kanedias.vanilla.lyrics,Vanilla Lyrics Search
+https://github.com/Kennyc1012/Opengur,com.kennyc.open.imgur,Opengur
+https://github.com/tuskyapp/Tusky,com.keylesspalace.tusky,Tusky
+https://github.com/khuttun/NotificationNotes,com.khuttun.notificationnotes,Notification Notes
+https://github.com/kibab/encpasschanger,com.kibab.android.EncPassChanger,EncPassChanger
+https://github.com/knirirr/BeeCount,com.knirirr.beecount,BeeCount
+https://github.com/KodarKooperativet/NotificationStopwatch,com.kodarkooperativet.notificationstopwatch,Stopwatch
+https://github.com/iamareebjamal/Kodis,com.kodis,Kodis
+https://github.com/koush/Superuser,com.koushikdutta.superuser,Superuser
+https://github.com/Kunzisoft/KeePassDX,com.kunzisoft.keepass.libre,KeePass DX
+https://github.com/alexdantas/kure-music-player,com.kure.musicplayer,kure Music Player
+https://github.com/cknave/nectroid,com.kvance.Nectroid,Nectroid
+https://github.com/Kyakujin/TagNotepad,com.kyakujin.android.tagnotepad,TAG Notepad
+https://github.com/stanipintjuk/Silverfish,com.launcher.silverfish,Silverfish
+https://github.com/quen/kanjirecog,com.leafdigital.kanji.android,Kanji draw
+https://github.com/LeonardoCardoso/Multitouch-Test,com.leocardz.multitouch.test,Multitouch Test
+https://github.com/LeonardoCardoso/Unshorten-It,com.leocardz.url.unshortener,Unshorten It
+https://github.com/lgallard/qBittorrent-Client,com.lgallardo.qbittorrentclient,qBittorrent Client
+https://github.com/liato/android-bankdroid,com.liato.bankdroid,Bankdroid
+https://github.com/lightbox/QuickSnap,com.lightbox.android.camera,QuickSnap
+https://github.com/wanleung/ChangjieIME,com.linkomnia.android.Changjie,Changjie Input Method
+https://github.com/alexloehner/linuxcounter.android.app,com.linuxcounter.lico_update_003,Linux Counter Updater
+https://github.com/nus-mtp/worldscope,com.litmus.worldscope,WorldScope
+https://github.com/liveplayergames/UFP,com.liveplayergames.finneypoker,Uncle Finney's Poker
+https://github.com/EvanRespaut/Equate,com.llamacorp.equate,Equate
+https://github.com/YerayAlonso/LligaIntermunicipal,com.lligainterm,Lliga Intermunicipal
+https://github.com/sahan/Travis-Jr,com.lonepulse.travisjr,Travis Jr.
+https://github.com/tenaciousRas/android-hst-feed,com.longevitysoft.android.appwidget.hstfeed,HST Images Feed Widget
+https://github.com/uatach/reminders,com.lostrealm.lembretes,Reminders
+https://github.com/lucasdnd/16-bit-clock,com.lucasdnd.bitclock16,16-bit Clock Widget
+https://github.com/lucasdnd/decimal-clock-widget,com.lucasdnd.decimaltimeclockwidget,Decimal Time Clock Widget
+https://github.com/lucasdnd/unix-time-clock-widget,com.lucasdnd.unixtimeclockwidget,Unix Time Clock Widget
+https://github.com/LuK1337/TimeTable2,com.luk.timetable2,TimeTable
+https://github.com/lkorth/screen-notifications,com.lukekorth.screennotifications,Screen Notifications
+https://github.com/Luorrak/Ouroboros,com.luorrak.ouroboros,Ouroboros
+https://github.com/rtyley/agit,com.madgag.agit,Agit
+https://github.com/MajeurAndroid/Applications-Info,com.majeur.applicationsinfo,Applications Info
+https://github.com/basil2style/Sudoku-Pattern-Generator-App,com.makeinfo.sudokugenerator,Sudoku Generator
+https://github.com/Allsimon/Alldebrid,com.malek.alldebrid,Alldebrid
+https://github.com/maks/MGit,com.manichord.mgit,MGit
+https://github.com/rmanor/currentwidget/issues/57,com.manor.currentwidget,
+https://github.com/demantz/RFAnalyzer,com.mantz_it.rfanalyzer,RF Analyzer
+https://github.com/manmal/hn-android,com.manuelmaly.hn,HN
+https://github.com/relan/omim,com.mapswithme.maps.libre,MAPS.ME
+https://github.com/Maralexbar/Wifi-Key-View,com.maralexbar.wifikeyview,Wifi Key View
+https://github.com/MarcelJurtz/LifeCounter,com.marceljurtz.lifecounter,LifeCounter
+https://github.com/smarek/Simple-Dilbert,com.mareksebera.simpledilbert,Simple Dilbert
+https://github.com/mariogrip/octodroid,com.mariogrip.octoprint,OctoDroid
+https://github.com/mrksbrg/RacketGhost,com.markusborg.test,RacketGhost
+https://github.com/netmackan/ATimeTracker,com.markuspage.android.atimetracker,A Time Tracker
+https://github.com/netmackan/CertTools,com.markuspage.android.certtools,CertTools
+https://github.com/mborjesson/LG-Optimus-2X-Black-Notifications,com.martinborjesson.o2xtouchlednotifications,LG Notifications
+https://github.com/vmihalachi/turbo-editor,com.maskyn.fileeditorpro,Turbo Editor
+https://github.com/matburt/mobileorg-android,com.matburt.mobileorg,MobileOrg
+https://github.com/matejdro/PebbleDialer-Android,com.matejdro.pebbledialer,Dialer for Pebble
+https://github.com/materialos/CM12-Theme,com.materialos.cm.theme,
+https://github.com/mannyamorim/metrictime,com.mathi_amorim.emmanuel.metrictime,Metric Time
+https://github.com/ilijamt/android-adbm,com.matoski.adbm,ADB Manager
+https://github.com/matt-allen/dpixel,com.mattallen.dpixel,DPixel
+https://github.com/matt-allen/loaned-android,com.mattallen.loaned,Loaned
+https://github.com/Zi0P4tch0/Katana,com.matteopacini.katana,Katana
+https://github.com/mattermost/mattermost-android-classic,com.mattermost.mattermost,Mattermost Classic
+https://github.com/mattgmg1990/miracast-widget,com.mattgmg.miracastwidget,Miracast Shortcut
+https://github.com/mattieapps/roommates,com.mattieapps.roommates,RoomMates
+https://github.com/mrash/fwknop,com.max2idea.android.fwknop,Firewall Knock Operator
+https://github.com/maxfierke/sandwichroulette,com.maxfierke.sandwichroulette,SandwichRoulette
+https://github.com/janoliver/pOT-Droid,com.mde.potdroid,pOT-Droid
+https://github.com/mehmetakiftutuncu/eshotroid,com.mehmetakiftutuncu.eshotroid,Eshotroid
+https://github.com/mendhak/gpslogger,com.mendhak.gpslogger,GPSLogger
+https://github.com/AnySoftKeyboard/AnySoftKeyboard,com.menny.android.anysoftkeyboard,AnySoftKeyboard
+https://github.com/metinkale38/prayer-times-android,com.metinkale.prayer,Prayer Times
+https://github.com/miguelfreitas/twister-webview-app,com.mfreitas.twister,twister simpleclient
+https://github.com/MGaetan89/ShowsRage,com.mgaetan89.showsrage,ShowsRage
+https://github.com/mick88/filemanager,com.michaldabski.filemanager,File Manager Pro
+https://github.com/mikifus/padland,com.mikifus.padland,Padland
+https://github.com/tuckervento/Tinfoil-Twitter,com.mill_e.twitterwrapper,Tinfoil for Twitter
+https://github.com/mirasmithy/epochlauncher,com.mirasmithy.epochlauncher,Epoch Launcher
+https://github.com/artetxem/mitzuli,com.mitzuli,Mitzuli
+https://github.com/MizzleDK/Mizuu,com.miz.mizuu,Mizuu
+https://github.com/mkfuchs/droidsat,com.mkf.droidsat,DroidSat
+https://wrongURLDONOTUSETHIS!.com/mkulesh/microMathematics,com.mkulesh.micromath.plus,microMathematics Plus
+https://github.com/mobilepearls/com.mobilepearls.memory,com.mobilepearls.memory,Memory
+https://github.com/mobilepearls/com.mobilepearls.sokoban,com.mobilepearls.sokoban,Sokoban
+https://github.com/Mobiperf/MobiPerf,com.mobiperf,MobiPerf
+https://github.com/marin-liovic/Fast-Brightness-Control-Widget,com.mod.android.widget.fbcw,Fast Brightness Control Widget
+https://github.com/moezbhatti/qksms,com.moez.QKSMS,QKSMS
+https://github.com/MohammadAG/android-file-beam,com.mohammadag.beamfile,Beam File
+https://github.com/DaveRead/SequenceHunt,com.monead.games.android.sequence,Sequence Hunt
+https://github.com/moneymanagerex/android-money-manager-ex,com.money.manager.ex,Money Manager Ex
+https://github.com/adrianchifor/Swiftnotes,com.moonpi.swiftnotes,Swiftnotes
+https://github.com/adrianchifor/TapUnlock,com.moonpi.tapunlock,TapUnlock
+https://github.com/Morlunk/Mountie,com.morlunk.mountie,Mountie
+https://github.com/acomminos/Plumble,com.morlunk.mumbleclient,Plumble
+https://github.com/movim/movim_android,com.movim.movim,Movim
+https://github.com/MrBIMC/SELinuxModeChanger,com.mrbimc.selinux,SELinuxModeChanger
+https://github.com/mridang/dashclock-cellinfo,com.mridang.cellinfo,Dashclock Cellular Extension
+https://github.com/mridang/gasflow,com.mridang.speedo,Gasflow
+https://github.com/mridang/microchip,com.mridang.throttle,Microchip
+https://github.com/mridang/dashclock-wifiinfo,com.mridang.wifiinfo,Dashclock Wireless Extension
+https://github.com/sujithkanna/TouchDetector,com.msapps.touchdetector,TouchDetector
+https://github.com/mschlauch/comfortreader,com.mschlauch.comfortreader,Comfort Reader
+https://github.com/murraycu/android-galaxyzoo,com.murrayc.galaxyzoo.app,Galaxy Zoo
+https://github.com/mustafa01ali/SensorsSandbox,com.mustafaali.sensorssandbox,Sensors Sandbox
+https://github.com/cmykola/Lexin,com.mykola.lexinproject,LexinProject
+https://github.com/75py/DisableManager,com.nagopy.android.disablemanager2,Disable Manager
+https://github.com/naholyr/horaires-ter-sncf,com.naholyr.android.horairessncf,Horaires TER SNCF
+https://github.com/naman14/S-Tools,com.naman14.stools,S Tools+
+https://github.com/abarisain/dmix,com.namelessdev.mpdroid,MPDroid
+https://github.com/namsor/gendreapp,com.namsor.api.samples.gendre,GendRE
+https://github.com/ZorgeR/nanoConverter,com.nanoconverter.zlab,nanoConverter
+https://github.com/nathan-osman/chronosnap,com.nathanosman.chronosnap,ChronoSnap
+https://github.com/nbossard/packlist,com.nbossard.packlist,packlist
+https://github.com/Nephoapp/anarxiv,com.nephoapp.anarxiv,aNarXiv
+https://github.com/rishubil/GalbijjimSearcher,com.nesswit.galbijjimsearcher,Galbijjim Searcher
+https://github.com/alistairrutherford/noiz2-droid,com.netthreads.android.noiz2,Noiz2
+https://github.com/samuelclay/NewsBlur,com.newsblur,NewsBlur
+https://github.com/nexes/Android-File-Manager,com.nexes.manager,Open Manager
+https://github.com/nextcloud/android,com.nextcloud.android.beta,Nextcloud
+https://github.com/nextcloud/talk-android,com.nextcloud.talk2,Nextcloud Talk
+https://github.com/nextgis/android_gisapp,com.nextgis.mobile,NextGIS Mobile
+https://github.com/NHellFire/KernelAdiutor,com.nhellfire.kerneladiutor,Kernel Adiutor
+https://github.com/ndleyton/OneTwo,com.nicue.onetwo,OneTwo
+https://github.com/GodsMoon/Flashify,com.nightshadelabs.anotherbrowser,Flashify
+https://github.com/Nilhcem/frcndict-android,com.nilhcem.frcndict,Chinese French Dictionary
+https://github.com/Nilhcem/hosts-editor-android,com.nilhcem.hostseditor,Hosts Editor
+https://github.com/niparasc/papanikolis-submarine,com.niparasc.papanikolis,Papanikolis Submarine
+https://github.com/nkanaev/bubble,com.nkanaev.comics,Bubble
+https://github.com/nma83/SDCardTrac,com.nma.util.sdcardtrac,StorageTrac
+https://github.com/nolanlawson/AppTracker,com.nolanlawson.apptracker,App Tracker
+https://github.com/nolanlawson/ChordReaderRoot,com.nolanlawson.chordreader,Chord Reader
+https://github.com/nolanlawson/JapaneseNameConverterRoot,com.nolanlawson.jnameconverter,Japanese Name Converter
+https://github.com/nolanlawson/KeepScore,com.nolanlawson.keepscore,KeepScore
+https://github.com/nolanlawson/Catlog,com.nolanlawson.logcat,CatLog
+https://github.com/spacecowboy/NotePad,com.nononsenseapps.notepad,Notes
+https://github.com/ChainsDD/Superuser,com.noshufou.android.su,Superuser
+https://github.com/nostra13/Android-Universal-Image-Loader,com.nostra13.universalimageloader,Universal Image Loader
+https://github.com/RyuzakiKK/NoteCrypt,com.notecryptpro,Note Crypt Pro
+https://github.com/notriddle/budget-envelopes,com.notriddle.budget,Budget
+https://github.com/notriddle/null-launcher,com.notriddle.null_launcer,Null launcher
+https://github.com/nowsecure/android-vts,com.nowsecure.android.vts,VTS for Android
+https://github.com/PomepuyN/muzei-flickr,com.npi.muzeiflickr,Muzei Flickr
+https://github.com/mpiannucci/HackWinds,com.nucc.hackwinds,HackWinds
+https://github.com/Reepeecheep/NumberGuesser,com.numguesser.tonio_rpchp.numberguesser,Number Guesser
+https://github.com/numixproject/com.numix.calculator,com.numix.calculator,Numix Calculator
+https://github.com/numixproject/com.numix.icons_circle,com.numix.icons_circle,Numix Circle
+https://github.com/Nutomic/ensichat,com.nutomic.ensichat,Ensichat
+https://github.com/syncthing/syncthing-android,com.nutomic.syncthingandroid,Syncthing
+https://github.com/Nutomic/movecerts,com.nutomic.zertman,Move Certs!
+https://github.com/gjedeer/androidwisprclient,com.oakley.fon,Fon
+https://github.com/nathanj/ogsdroid,com.ogsdroid,OGS
+https://github.com/vishnus/Olam,com.olam,Olam
+https://github.com/omegavesko/HoloCounter,com.omegavesko.holocounter,Holo Counter
+https://github.com/omegavesko/SuTransPlus,com.omegavesko.sutransplus,Sutrans Plus
+https://github.com/kckrinke/onetimepad,com.onest8.onetimepad,OneTimePad
+https://github.com/poseidn/KungFoo,com.onetwofivegames.kungfoobarracuda,Kung Foo Barracuda
+https://github.com/jquesnelle/nds4droid,com.opendoorstudios.ds4droid,nds4droid
+https://github.com/sytolk/TaxiAndroidOpen,com.opentaxi.android,Taxi Bulgaria
+https://github.com/orgzly/orgzly-android,com.orgzly,Orgzly
+https://github.com/abeiro/amplayer.droid,com.orphan.amplayer,AMPlayer
+https://github.com/vijai1996/screenrecorder,com.orpheusdroid.screenrecorder,ScreenCam
+https://github.com/MKergall/osmbonuspack,com.osmnavigator,OSMNavigator
+https://github.com/owncloud/android,com.owncloud.android,ownCloud
+https://github.com/dannagle/PacketSender-Android,com.packetsender.android,Packet Sender
+https://github.com/jevonlongdell/nztides,com.palliser.nztides,NZ Tides
+https://github.com/dennis-sheil/commandergenius,com.panaceasupplies.android.games.toytrain,
+https://github.com/ParanoidAndroid/android_packages_apps_ParanoidWallpapers,com.paranoid.ParanoidWallpapers,ParanoidWallpapers
+https://github.com/cryptofuture/PassCard,com.passcard,PassCard
+https://github.com/MrBIMC/RunInBackgroundPermissionSetter,com.pavelsikun.runinbackgroundpermissionsetter,BackgroundRestrictor
+https://github.com/AnaelMobilia/NextINpact-Unofficial,com.pcinpact,NextINpact (Unofficial)
+https://github.com/WinterLicht/PepperAndCarrotRunningGame,com.peppercarrot.runninggame,pepper-and-carrot-running-game
+https://github.com/felixpalmer/android-visualizer,com.pheelicks.visualizer,Visualizer
+https://github.com/gituser1357/constellations,com.phg.constellations,Constellations
+https://github.com/phikal/ReGeX,com.phikal.regex,ReGeX
+https://github.com/philliphsu/ClockPlus,com.philliphsu.clock2,Clock+
+https://github.com/jeremymarch/HoplitePolytonicKeyboardAndroid,com.philolog.hoplitekeyboard,Hoplite Polytonic Greek Keyboard
+https://github.com/phpsysinfo/psiandroid,com.phpsysinfo,PSIAndroid
+https://github.com/physphil/UnitConverterUltimate,com.physphil.android.unitconverterultimate,Unit Converter Ultimate
+https://github.com/TrentPierce/DontPause,com.pierceholdings.dontpause,Dont Pause!
+https://github.com/squarrel/WrongPinShutdown,com.pikselbit.wrongpinshutdown,Wrong Pin Shutdown
+https://github.com/Pi-Developers/Pi-Locker,com.pilockerstable,Pi Locker
+https://github.com/pilot51/voicenotify,com.pilot51.voicenotify,Voice Notify
+https://github.com/maxpower47/PinDroid,com.pindroid,PinDroid
+https://github.com/tpbapp/Pirate-Proxy,com.piratebayfree,TPB Proxy
+https://github.com/dahlia/muzei-pixiv,com.pixiv.muzei.pixivsource,Pixiv for Muzei
+https://github.com/pjuu/droidotter,com.pjuu.droidotter,Pjuu
+https://github.com/plusonelabs/calendar-widget,com.plusonelabs.calendar,Calendar Widget
+https://github.com/stephanepoinsart/votar,com.poinsart.votar,VotAR
+https://github.com/splondike/polipoid,com.polipoid,Polipoid
+https://github.com/miguelvps/PoliteDroid,com.politedroid,Polite Droid
+https://github.com/poloure/rss,com.poloure.simplerss,Simple Rss
+https://github.com/AdrienPoupa/VinylMusicPlayer,com.poupa.vinylmusicplayer,Vinyl Music Player
+https://github.com/powerje/NyanDroid,com.powerje.nyan,Nyan
+https://github.com/powerpoint45/Lucid-Browser,com.powerpoint45.lucidbrowser,Lucid Browser
+https://github.com/jeppsson/Arduino-Communicator,com.primavera.arduino.listener,Arduino Uno Communicator
+https://github.com/projectsexception/MyAppList,com.projectsexception.myapplist.open,My App List
+https://github.com/ehcloninger/pf-public,com.purplefoto.pfdock,PurpleDock
+https://github.com/quaap/AudioMeter,com.quaap.audiometer,AudioMeter
+https://github.com/quaap/BookyMcBookface,com.quaap.bookymcbookface,Booky McBookface
+https://github.com/quaap/ComputationalDemonology,com.quaap.computationaldemonology,Computational Demonology
+https://github.com/quaap/DodaTheExploda,com.quaap.dodatheexploda,Doda The Exploda
+https://github.com/quaap/SeafoodBerserker,com.quaap.fishberserker,Seafood Berserker!
+https://github.com/quaap/LaunchTime,com.quaap.launchtime,LaunchTime
+https://github.com/quaap/PhoneFoneFun,com.quaap.phonefonefun,PhoneFoneFun
+https://github.com/quaap/Primary,com.quaap.primary,Primary
+https://github.com/zostay/CPAN-Sidekick,com.qubling.sidekick,CPAN Sidekick
+https://github.com/ahmedre/quran_android,com.quran.labs.androidquran,Quran
+https://github.com/chris-blay/radio-reddit-for-Android,com.radioreddit.android,radio reddit
+https://github.com/RadioStudent/RadioStudent-Android,com.radiostudent.radiostudentstream,Radio Študent
+https://github.com/redfish64/TinyTravelTracker,com.rareventure.gps2,Tiny Travel Tracker
+https://github.com/rascarlo/AURdroid,com.rascarlo.aurdroid,AURdroid
+https://github.com/rastating/DroidBeard,com.rastating.droidbeard,DroidBeard
+https://github.com/erickok/ratebeer,com.ratebeer.android,RateBeer
+https://github.com/jgilfelt/GhostLog,com.readystatesoftware.ghostlog,Ghost Log
+https://github.com/gustavomondron/twik,com.reddyetwo.hashmypass.app,Twik
+https://github.com/42SK/TVKILL,com.redirectapps.tvkill,TV KILL
+https://github.com/ikew0ng/Dribbo,com.refactech.driibo,Driibo
+https://github.com/manuelsc/Lunary-Ethereum-Wallet,com.rehanced.lunary,Lunary
+https://github.com/reicast/reicast-emulator,com.reicast.emulator,reicast
+https://github.com/renard314/textfairy,com.renard.ocr,Text Fairy
+https://github.com/matt-allen/repay-android,com.repay.android,Repay
+https://github.com/libretro/RetroArch,com.retroarch,RetroArch
+https://github.com/ibinshoid/LASKmobile,com.rfo.basic,LASKmobile
+https://github.com/Bubu/android-dice-game,com.ridgelineapps.resdicegame,Catan Dice Game
+https://github.com/rigid/Birthdroid,com.rigid.birthdroid,Birthdroid
+https://github.com/google/ringdroid,com.ringdroid,Ringdroid
+https://github.com/rjmarsan/Pixelesque,com.rj.pixelesque,DevmilColor
+https://github.com/RobertDeveloper/RMaps.0.9.x,com.robert.maps,RMaps
+https://github.com/lopespm/arxiv-papers-mobile,com.rockbyte.arxiv,arXiv Papers
+https://github.com/rubenroy/Minimal-Todo,com.rubenroy.minimaltodo,Minimal
+https://github.com/rubenwardy/mtmods4android,com.rubenwardy.minetestmodmanager,Minetest Mods
+https://github.com/jruesga/PhotoPhase,com.ruesga.android.wallpapers.photophase,PhotoPhase
+https://github.com/aravindsagar/ScreenShift,com.sagar.screenshift2,Screen Shift
+https://github.com/sarbajitsaha/Batch-Uninstaller,com.saha.batchuninstaller,Batch Uninstaller
+https://github.com/spriyan/CricScoreApp,com.sakthipriyan.cricscore,Cricscore
+https://github.com/Antonis427/veterondo,com.saladdressing.veterondo,Veterondo
+https://github.com/Xlythe/HexGame_Android,com.sam.hex,Hex
+https://github.com/vitas/beaconloc,com.samebits.beacon.locator,Beacon Locator
+https://github.com/loisaidasam/mta-fare-buster-android,com.samsandberg.mtafarebuster,MTA Fare Buster
+https://github.com/sandeel/Bushido-Blocks,com.sandeel.bushidoblocks,Bushido Blocks
+https://github.com/bkueng/clash_of_balls,com.sapos_aplastados.game.clash_of_balls,Clash of Balls
+https://github.com/scar45/aokp-co-webviewer,com.scar45.aokp.co.webviewer,AOKP.co
+https://github.com/haiwen/seadroid,com.seafile.seadroid,Seafile
+https://github.com/SecUSo/privacy-friendly-qr-scanner,com.secuso.privacyFriendlyCodeScanner,QR Scanner
+https://github.com/SecUSo/privacy-friendly-torchlight,com.secuso.torchlight2,Torchlight
+https://github.com/jselbie/wrekonline,com.selbie.wrek,WREK Online
+https://github.com/vipsy/xkcd-muzei,com.selesca.xkcdmuzei,xkcdMuzei
+https://github.com/Semche/Invasion-Android,com.semche.invasion,Invasion
+https://github.com/Sensirion/SmartGadget-Android,com.sensirion.smartgadget,Smart Gadget
+https://github.com/lexica/lexica,com.serwylo.lexica,Lexica
+https://github.com/pserwylo/msjviewer,com.serwylo.msjviewer,Mobile MSJ
+https://github.com/sevagh/Pitcha,com.sevag.pitcha,Pitcha
+https://github.com/sevagh/UnrealTracker,com.sevag.unrealtracker,Unreal Tracker
+https://github.com/x942/secdroid,com.shadcat.secdroid,SecDroid
+https://github.com/Shahul3D/IndiaSatelliteWeather,com.shahul3d.indiasatelliteweather,India Satellite Weather
+https://github.com/smiller393/GoreCompanion,com.shanewmiller.gorecompanion,Gore Companion
+https://github.com/imshyam/mintube,com.shapps.mintubeapp,MinTube
+https://github.com/00-Evan/shattered-pixel-dungeon,com.shatteredpixel.shatteredpixeldungeon,Shattered Pixel Dungeon
+https://github.com/shkcodes/Lyrically,com.shkmishra.lyrically,Lyrically
+https://github.com/ShowMeHills/ShowMeHills,com.showmehills,Show Me Hills
+https://github.com/alkom/droidzebra,com.shurik.droidzebra,DroidZebra
+https://github.com/Circle-Of-Music-Makers/com-android,com.sidzi.circleofmusic,Circle of Music
+https://github.com/johnnylambada/WorldMap,com.sigseg.android.worldmap,@string/app_name
+https://github.com/dodyg/AndroidRivers,com.silverkeytech.android_rivers,Android Rivers
+https://github.com/SimpleMobileTools/Simple-App-Launcher,com.simplemobiletools.applauncher,App Launcher
+https://github.com/SimpleMobileTools/Simple-Calculator,com.simplemobiletools.calculator,Calculator
+https://github.com/SimpleMobileTools/Simple-Calendar,com.simplemobiletools.calendar,Calendar
+https://github.com/SimpleMobileTools/Simple-Camera,com.simplemobiletools.camera,Camera
+https://github.com/SimpleMobileTools/Simple-Clock,com.simplemobiletools.clock,Clock
+https://github.com/SimpleMobileTools/Simple-Contacts,com.simplemobiletools.contacts,Contacts
+https://github.com/SimpleMobileTools/Simple-Draw,com.simplemobiletools.draw,Draw
+https://github.com/SimpleMobileTools/Simple-File-Manager,com.simplemobiletools.filemanager,File Manager
+https://github.com/SimpleMobileTools/Simple-Flashlight,com.simplemobiletools.flashlight,Flashlight
+https://github.com/SimpleMobileTools/Simple-Gallery,com.simplemobiletools.gallery,Gallery
+https://github.com/SimpleMobileTools/Simple-Music-Player,com.simplemobiletools.musicplayer,Music Player
+https://github.com/SimpleMobileTools/Simple-Notes,com.simplemobiletools.notes,Notes
+https://github.com/SimpleMobileTools/Simple-Thank-You,com.simplemobiletools.thankyou,Thank You
+https://github.com/sinpolib/nfcard,com.sinpo.xnfc,NFCard
+https://github.com/sismics/reader,com.sismics.reader,Sismics Reader
+https://github.com/sriharshaarangi/BatteryChargeLimit,com.slash.batterychargelimit,Battery Charge Limit
+https://github.com/sli/juicy-mobile,com.sli.juicymobile,Juicy
+https://github.com/sli/ohmcalc,com.sli.ohmcalc,Ohm Calc
+https://github.com/efarraro/deckerino,com.slothwerks.hearthstone.compendiumforhearthstone,Deckerino
+https://github.com/Smerty/ham.android,com.smerty.ham,Ham
+https://github.com/smithdtyler/prettygoodmusicplayer,com.smithdtyler.prettygoodmusicplayer.launchermode,Pretty Good Music Player Launcher Mode
+https://github.com/jpriebe/hotdeath,com.smorgasbork.hotdeath,Hot Death
+https://github.com/snaheth/TrulyRandom,com.snaheth.trulyrandom,Truly Random
+https://github.com/Dejvino/amdroid,com.sound.ampache,
+https://github.com/soynerdito/BlueSound,com.soyblue.bluesound,Blue Mono Sound
+https://github.com/SpazeDog/mounts2sd,com.spazedog.mounts2sd,Mounts2SD
+https://github.com/jfisbein/androidwisprclient,com.sputnik.wispr,FON Access
+https://github.com/AleixDev/AppSpecificOrientation_FOSS,com.spydiko.rotationmanager_foss,Rotation Manager
+https://github.com/ssaurel/android-clock-livewallpaper,com.ssaurel.clocklw,Clock Live Wallpaper
+https://github.com/DSteve595/Put.io,com.stevenschoen.putionew,Put.io
+https://github.com/louffoster/FlickIt,com.studio332.flickit.android,flickit
+https://github.com/stwalkerster/strobelight,com.stwalkerster.android.apps.strobelight,Strobe Light
+https://github.com/sfilmak/MakiLite,com.sunshine.makilite,Maki Lite
+https://github.com/SunyataZero/KindMind,com.sunyata.kindmind,KindMind
+https://github.com/sweetiepiggy/Every-Locale,com.sweetiepiggy.everylocale,Every Locale
+https://github.com/JhilanAlkarawi/Swiss-Tournament,com.swiss.tournament,Swiss Chess Tournament
+https://github.com/SyncedSynapse/Kore,com.syncedsynapse.kore2,Kore
+https://github.com/helsinki-city-library/pocketlibrary,com.taiste.lainari_en,Pocket Library
+https://github.com/tananaev/rootless-logcat,com.tananaev.logcat,Logcat
+https://github.com/tasomaniac/hackdash,com.tasomaniac.dashclock.hackerspace.floss,
+https://github.com/tasomaniac/OpenLinkWith,com.tasomaniac.openwith.floss,Open Link With
+https://github.com/Tasssadar/MultiROMMgr,com.tassadar.multirommgr,MultiROM Manager
+https://github.com/ambrice/timesheet,com.tastycactus.timesheet,Timesheet
+https://github.com/DizzyThermal/Auto-Away,com.teamdc.stephendiniz.autoaway,Auto-Away
+https://github.com/telecapoland/jamendo-android,com.teleca.jamendo,Jamendo
+https://github.com/sussman/androidomatic-keyer,com.templaro.opsiz.aka,AKA
+https://github.com/awilliams/fish,com.ten15.diyfish,Fish
+https://github.com/tengusw/share_to_clipboard,com.tengu.sharetoclipboard,Share to Clipboard
+https://github.com/termux/termux-api,com.termux.api,Termux:API
+https://github.com/termux/termux-boot,com.termux.boot,Termux:Boot
+https://github.com/termux/termux-styling,com.termux.styling,Termux:Styling
+https://github.com/termux/termux-tasker,com.termux.tasker,Termux:Task
+https://github.com/termux/termux-app,com.termux,Termux
+https://github.com/termux/termux-widget,com.termux.widget,Termux:Widget
+https://github.com/termux/termux-float,com.termux.window,Termux:Float
+https://github.com/TeamHorizon/android_packages_apps_XenonWallpapers,com.th.XenonWallpapers,XenonHD Wallpapers
+https://github.com/SmokeyMcBong/ED_Tool,com.thefonz.ed_tool,ED_Tool
+https://github.com/asommer70/evergreen-wishlist,com.thehoick.evergreenwishlist,Evergreen Wishlist
+https://github.com/theksmith/CarBusInterface,com.theksmith.android.car_bus_interface,Car Bus Interface
+https://github.com/thermatk/FakeGApps,com.thermatk.android.xf.fakegapps,FakeGapps
+https://github.com/ThibaudM/timelapse-sony,com.thibaudperso.sonycamera,TimeLapse
+https://github.com/threedliteguy/threedlite,com.threedlite.livePolys,ThreeDLite
+https://github.com/threedliteguy/urforms,com.threedlite.urforms,URforms Database
+https://github.com/threedliteguy/UhLocationReportingService,com.threedlite.userhash.location,UserHash Location Reporting Service
+https://github.com/MPieter/Notification-Analyser,com.tierep.notificationanalyser,Notification Analyser
+https://github.com/timvdalen/gizmooi,com.timvdalen.gizmooi,Gizmooi
+https://github.com/tinkerlog/PongTime,com.tinkerlog.android.pongtime,Pong Time
+https://github.com/tjmolinski/crushr,com.tjm.crushr,crushr
+https://github.com/tjmolinski/stripepaper,com.tjm.stripepaper,Stripepaper
+https://github.com/TKJElectronics/BalanduinoAndroidApp,com.tkjelectronics.balanduino,Balanduino
+https://github.com/tmarki/android-rage-maker,com.tmarki.comicmaker,Rage Maker
+https://github.com/tjoelsson/graphitoid,com.tnc.android.graphite,Graphitoid
+https://github.com/alterechtschreibung/MonthCalendarWidget2FOSS,com.tobiaskuban.android.monthcalendarwidgetfoss,Month Calendar Widget
+https://github.com/tobykurien/BatteryFu,com.tobykurien.batteryfu,BatteryFu
+https://github.com/tobykurien/GoogleApps,com.tobykurien.google_news,GApps Browser
+https://github.com/tobykurien/webapps,com.tobykurien.webapps,WebApps
+https://github.com/ctodobom/OpenNoteScanner,com.todobom.opennotescanner,Open Note Scanner
+https://github.com/tmarzeion/drawable-notepad,com.tomaszmarzeion.notepad,Notepad
+https://github.com/hoffimar/timerdroid,com.tomatodev.timerdroid,TimerDroid
+https://github.com/rosenpin/AlwaysOnDisplayAmoled,com.tomer.alwayson,Always On AMOLED
+https://github.com/rosenpin/DBZ-Battery-Widget,com.tomer.dbz.widget,DBZ Battery Widget
+https://github.com/rosenpin/QuickDrawEverywhere,com.tomer.draw,Quick Draw Everywhere
+https://github.com/rosenpin/More-For-GO,com.tomer.poke.notifier,More for GO
+https://github.com/rosenpin/Screenshot-Sharer,com.tomer.screenshotsharer,Screenshot sharer
+https://github.com/Tortel/SysLog,com.tortel.syslog,SysLog
+https://github.com/tortuca/holoken-alpha,com.tortuca.holoken,HoloKen
+https://github.com/charlieCollins/and-bookworm,com.totsp.bookworm,BookWorm
+https://github.com/kebernet/shortyz,com.totsp.crossword.shortyz,Shortyz
+https://github.com/toxtox/SimplePhilosopherstoneWidget,com.toxtox.philosopherstonewidget,Simple Philosopherstone Widget
+https://github.com/TTTDevs/NextCloudBookmarksAndroid,com.tttdevs.stncbookmarks,Save to Nextcloud Bookmarks
+https://github.com/MichaelE1000/yahtzee4android,com.tum.yahtzee,Yahtzee
+https://github.com/eddturtle/TurtlePlayer,com.turtleplayerv2,TurtlePlayer
+https://github.com/twinone/AppLocker,com.twinone.locker,App Locker
+https://github.com/vishesh/sealnote,com.twistedplane.sealnote,SealNote
+https://github.com/2buntu/2buntu-android-app,com.twobuntu.twobuntu,2buntu
+https://github.com/zoff99/surespot-android,com.twofours.surespot,surespot
+https://github.com/johncarpenter/Android-GPX-Mock-Location-Provider,com.twolinessoftware.android,AndroidMockGpx
+https://github.com/rmack/TwistedHomeManager,com.twsitedapps.homemanager,Twisted Home Manager
+https://github.com/adrian/upm-android,com.u17od.upm,UPM
+https://github.com/ubergeek42/weechat-android,com.ubergeek42.WeechatAndroid,Weechat-Android
+https://github.com/uberspot/2048-android,com.uberspot.a2048,2048
+https://github.com/ultrafunk/netinfo,com.ultrafunk.network_info,NetInfo Widget
+https://github.com/ultramega/flavordex,com.ultramegasoft.flavordex2,Flavordex
+https://github.com/ultramega/elementary,com.ultramegatech.ey,Elementary
+https://github.com/umanx/DashNotifier,com.umang.dashnotifier,DashNotifier
+https://github.com/gpodder/GpodRoid,com.unitedcoders.android.gpodroid,GpodRoid
+https://github.com/patrick-schweizer/smashwords-access-for-android,com.unleashyouradventure.swaccess,Smashwords Access
+https://github.com/dmashuda/networkScanner,com.unwind.networkmonitor,Network Scanner
+https://github.com/dennis-sheil/GLWallpaperService,com.unwrappedapps.android.wallpaper.creative,Truly Creative live wallpaper
+https://github.com/phw/Android-PwdHash,com.uploadedlobster.PwdHash,Password Hash
+https://github.com/yhirano/Mp3VoiceRecorderSampleForAndroid,com.uraroji.garage.android.mp3recvoice,MP3 Voice Recorder Sample
+https://github.com/ushahidi/Ushahidi_Android,com.ushahidi.android.app,Ushahidi
+https://github.com/Utyff/pMetro,com.utyf.pmetro,pMetro
+https://github.com/fralik/Duorem,com.vadimfrolov.duorem,Duorem
+https://github.com/joeyvanderbie/android-heart-rate-monitor,com.vanderbie.heart_rate_monitor,Heart rate
+https://github.com/veken0m/bitcoinium,com.veken0m.bitcoinium,Bitcoinium Prime
+https://github.com/veniosg/Dir,com.veniosg.dir,Dir
+https://github.com/vvviperrr/SimpleRT,com.viper.simplert,SimpleRT
+https://github.com/VladThodo/behe-explorer,com.vlath.beheexplorer,BeHe ExploreR
+https://github.com/VladThodo/behe-keyboard,com.vlath.keyboard,BeHe Keyboard
+https://github.com/ojacquemart/vlilleChecker,com.vlille.checker,Vlille Checker
+https://github.com/datjandra/Daytripper,com.vocifery.daytripper,Daytripper
+https://github.com/voidcode/Diaspora-Webclient,com.voidcode.diasporawebclient,Diaspora Webclient
+https://github.com/ivanvolosyuk/wifikeyboard,com.volosyukivan,WiFiKeyboard
+https://github.com/mvglasow/satstat,com.vonglasow.michael.satstat,SatStat
+https://github.com/VREMSoftwareDevelopment/WifiAnalyzer,com.vrem.wifianalyzer,WiFiAnalyzer
+https://github.com/frankmorgner/vsmartcard,com.vsmartcard.acardemulator,Smart Card Emulator
+https://github.com/vuze/vuze-remote-for-android,com.vuze.android.remote,Vuze Remote
+https://github.com/shymmq/librus-client-kotlin,com.wabadaba.dziennik,Dziennik
+https://github.com/davidhealey/waistline,com.waist.line,Waistline
+https://github.com/bhubie/Expander,com.wanderfar.expander,Expander
+https://github.com/WangDaYeeeeee/Mysplash,com.wangdaye.mysplash,Mysplash
+https://github.com/watabou/pixel-dungeon,com.watabou.pixeldungeon,Pixel Dungeon
+https://github.com/wbrenna/GTFSOffline,com.wbrenna.gtfsoffline,GTFSOffline
+https://github.com/roadriverrail/elloshare,com.weatherlight.elloshare,ElloShare
+https://github.com/wentam/DefCol,com.wentam.defcol,DefCol
+https://github.com/afwang/ogame-android-app,com.wikaba.ogapp,Ogame on Android
+https://github.com/WikiJourney/wikijourney_app,com.wikijourney.wikijourney,WikiJourney
+https://github.com/hauckwill/linconnect-client,com.willhauck.linconnectclient,LinConnect
+https://github.com/willianveiga/CountdownTimer,com.willianveiga.countdowntimer,Countdown Timer
+https://github.com/wistein/TourCount,com.wmstein.tourcount,TourCount
+https://github.com/wistein/TransektCount,com.wmstein.transektcount,TransektCount
+https://github.com/woefe/ShoppingList,com.woefe.shoppinglist,Shopping List
+https://github.com/vvolas/Awesome-Live-Wallpaper,com.wolas.awesomewallpaper,AwesomeWallpaper
+https://github.com/chislon/LegacyLauncher,com.wordpress.chislonchow.legacylauncher,Legacy Launcher
+https://github.com/fenimore/DemocracyDroid,com.workingagenda.democracydroid,Democracy Droid
+https://github.com/fenimore/devinettes-android,com.workingagenda.devinettes,Devinettes
+https://github.com/fenimore/fissure-android,com.workingagenda.fissure,Fissure
+https://github.com/redsolution/xabber-android,com.xabber.android.classic,Xabber Classic
+https://github.com/xargsgrep/PortKnocker,com.xargsgrep.portknocker,Port Knocker
+https://github.com/enricocid/ChocoUI---XDA-Colors,com.xda.theme.cyanogenmod,ChocoUI (XDA colors)
+https://github.com/xenris/liquid-wars-android,com.xenris.liquidwarsos,Liquid Wars OS
+https://github.com/Xlythe/MinecraftClock,com.xlythe.minecraftclock,Minecraft Clock
+https://github.com/xperia64/timidity-ae,com.xperia64.timidityae,Timidity AE
+https://github.com/IanEH/YASFA1,com.yasfa.views,YASFA
+https://github.com/yassirh/digital-ocean-swimmer,com.yassirh.digitalocean,DO Swimmer
+https://github.com/Yubico/yubiclip-android,com.yubico.yubiclip,YubiClip
+https://github.com/Yubico/yubioath-android,com.yubico.yubioath,Yubico Authenticator
+https://github.com/Yubico/yubitotp-android,com.yubico.yubitotp,YubiTOTP
+https://github.com/zachrattner/pockettalk,com.zachrattner.pockettalk,Pocket Talk
+https://github.com/zagayevskiy/Pacman,com.zagayevskiy.pacman,Pyroman: Jaws of Fire
+https://github.com/zaren678/Hdhomerun-signal-meter,com.zaren,Hdhomerun Signal Meter
+https://github.com/zeapo/Android-Password-Store,com.zeapo.pwdstore,Password Store
+https://github.com/jberkel/gist-it,com.zegoggles.gist,
+https://github.com/jberkel/sms-backup-plus,com.zegoggles.smssync,SMS Backup+
+https://github.com/tbouron/WlpprforMuzei,com.zenstyle.muzei.wlppr,Wlppr for Muzei
+https://github.com/zoff99/ToxAndroidRefImpl,com.zoffcc.applications.trifa,TRIfA
+https://github.com/zoff99/zanavi,com.zoffcc.applications.zanavi,
+https://github.com/zikalify/BMI_Calculator,com.zola.bmi,BMI Calculator
+https://github.com/WeAreFairphone/FP2-Launcher,community.fairphone.fplauncher3,Fairphone 2 Launcher
+https://github.com/WeAreFairphone/FP1-Launcher,community.fairphone.launcher,Fairphone 1 Launcher
+https://github.com/awaken/sanity,cri.sanity,Sanity
+https://github.com/jasonycw/MemeCreator,cs4295.memecreator,Meme Creator
+https://github.com/Coolcord/Squeez,csci567.squeez,Squeez
+https://github.com/vamartid/Minesweeper,csd.qtproject.minesweeper,Minesweeper
+https://github.com/neurodroid/cryptonite,csh.cryptonite,Cryptonite
+https://github.com/mpietrzak/apv,cx.hell.android.pdfview,APV PDF Viewer
+https://github.com/chr15m/PdDroidParty,cx.mccormick.pddroidparty,PdDroid Party
+https://github.com/tantecky/android,cz.antecky.netswitch,NetSwitch
+https://github.com/xmikos/SnooperStopper,cz.eutopia.snooperstopper,SnooperStopper
+https://github.com/JiriSko/amixer-webui-android,cz.jiriskorpil.amixerwebui,ALSA Mixer WebUI
+https://github.com/martykan/forecastie,cz.martykan.forecastie,Forecastie
+https://github.com/martykan/webTube,cz.martykan.webtube,WebTube
+https://github.com/romario333/opensudoku,cz.romario.opensudoku,OpenSudoku
+https://github.com/TomasValenta/WebCamViewer,cz.yetanotherview.webcamviewer.app,WebCams
+https://github.com/DamienOReilly/PrepayCredit,damo.three.ie,Prepay Credit
+https://github.com/danielmeek32/FlexibleWallpaper,daniel_32.flexiblewallpaper,Flexible Wallpaper
+https://github.com/acl33/AndroidDasher,dasher.android,Dasher
+https://github.com/Cherubin7th/BlackSCREENpREsENtAtIONremote,de.Cherubin7th.blackscreenpresentationremote,BlackSCREENremote
+https://github.com/antonwolf/antons-apps,de.antonwolf.agendawidget,Anton's Calendar Widget
+https://github.com/arnef/bewegungsmelder-android,de.arnefeil.bewegungsmelder,Bewegungsmelder
+https://github.com/arnowelzel/periodical,de.arnowelzel.android.periodical,Periodical
+https://github.com/yacy/yacy_search_androidclient,de.audioattack.yacy32c3search,32c3 Search
+https://github.com/MirakelX/mirakel-android,de.azapps.mirakel.dashclock,Mirakel-Dashclock
+https://github.com/badaix/snapcast,de.badaix.snapcast,Snapcast
+https://github.com/bashtian/dashclock-sunrise,de.bashtian.dashclocksunrise,DashClock Sunrise Extension
+https://github.com/scoute-dich/browser,de.baumann.browser,FOSS Browser
+https://github.com/scoute-dich/Diaspora,de.baumann.diaspora,Diaspora
+https://github.com/scoute-dich/HHSMoodle,de.baumann.hhsmoodle,HHS Moodle
+https://github.com/scoute-dich/PDFCreator,de.baumann.pdfcreator,PDF Creator
+https://github.com/scoute-dich/QuitSmoking,de.baumann.quitsmoking,Quit Smoking
+https://github.com/scoute-dich/Sieben,de.baumann.sieben,Seven
+https://github.com/scoute-dich/Blue-Minimal,de.baumann.thema,Blue Minimal
+https://github.com/scoute-dich/Weather,de.baumann.weather,Weather
+https://github.com/kenCode-de/smartcoins-wallet,de.bitsharesmunich.smartcoinswallet,Smartcoins Wallet
+https://github.com/kenCode-de/bitshares-wallet,de.bitsharesmunich.wallet,BitShares Wallet
+https://github.com/MarcusWolschon/osmeditor4android,de.blau.android,Vespucci
+https://github.com/schwabe/ics-openvpn,de.blinkt.openvpn,OpenVPN for Android
+https://github.com/mboesling/HydroMemo,de.boesling.hydromemo,HydroMemo
+https://github.com/c3nav/c3nav-android,de.c3nav.droid,c3nav
+https://github.com/chaosdorf/meteroid,de.chaosdorf.meteroid,meteroid
+https://github.com/cemrich/zapp,de.christinecoenen.code.zapp,Zapp
+https://github.com/cketti/DashClock_K-9,de.cketti.dashclock.k9,K-9 Mail DashClock Extension
+https://github.com/clemensbartz/essential-launcher,de.clemensbartz.android.launcher,Essential Launcher
+https://github.com/knilch0r/freeshisen,de.cwde.freeshisen,FreeShisen
+https://github.com/cweiske/headphoneindicator,de.cweiske.headphoneindicator,Headphone indicator
+https://github.com/d120/Kistenstapeln-Android,de.d120.ophasekistenstapeln,Ophase :: Kistenstapeln
+https://github.com/weisserd/LDAP-Sync,de.danielweisser.android.ldapsync,LDAP Sync
+https://github.com/danieloeh/AntennaPod,de.danoeh.antennapod,AntennaPod
+https://github.com/yashima/droidweight,de.delusions.measure,DroidWeight
+https://github.com/devisnik/slider,de.devisnik.android.sliding,Slider
+https://github.com/devmil/muzei-bingimageoftheday,de.devmil.muzei.bingimageofthedayartsource,Muzei - Bing Image of the Day
+https://github.com/devmil/PaperLaunch,de.devmil.paperlaunch,PaperLaunch
+https://github.com/no-go/AnotherRSS,de.digisocken.anotherrss,Another RSS
+https://github.com/no-go/Wortschatz,de.digisocken.openwort,OpenWort
+https://github.com/no-go/ReoTwe,de.digisocken.reotwe,ReoTwé
+https://github.com/dotWee/MicroPinner,de.dotwee.micropinner,MicroPinner
+https://github.com/ge0rg/gamemasterdice,de.duenndns.gmdice,GM Dice
+https://github.com/eidottermihi/rpicheck,de.eidottermihi.raspicheck,RasPi Check
+https://github.com/msemm/Keypad-Mapper-3,de.enaikoon.android.keypadmapper3,Keypad-Mapper 3
+https://github.com/as4565683/WordValueCalculator,de.feisar.wordvalue,Word Value
+https://github.com/jfilter/frag-den-staat-app,de.fragdenstaat.app,FragDenStaat
+https://github.com/raphaelm/opacclient,de.geeksfactory.opacclient,Web Opac
+https://github.com/grote/BlitzMail,de.grobox.blitzmail,BlitzMail
+https://github.com/grote/Transportr,de.grobox.liberario,Liberario
+https://github.com/guerda/Matekarte,de.guerda.matekarte,Matekarte
+https://github.com/DecentralizedAmateurPagingNetwork/DAPNETApp,de.hampager.dapnetmobile,DAPNET
+https://github.com/crysxd/Studiportal-Checker,de.hfu.funfpunktnull,Studiportal
+https://github.com/michaelachmann/LnkShortener,de.hirtenstrasse.michael.lnkshortener,LnkShortener
+https://github.com/meyerd/funktrainer,de.hosenhasser.funktrainer,Funktrainer
+https://github.com/diedricm/MapEver,de.hu_berlin.informatik.spws2014.mapever,MapEver
+https://github.com/j4velin/Pedometer,de.j4velin.pedometer,Pedometer
+https://github.com/j4velin/SystemAppMover,de.j4velin.systemappmover,/system/app mover
+https://github.com/j4velin/WiFi-Automatic,de.j4velin.wifiAutoOff,WiFi Automatic
+https://github.com/jfreax/OpenLaw,de.jdsoft.law,OpenLaw
+https://github.com/jklmnn/ParkenDD,de.jkliemann.parkendd,ParkenDD
+https://github.com/jurihock/voicesmith,de.jurihock.voicesmith,Voicesmith
+https://github.com/k3b/APhotoManager,de.k3b.android.androFotoFinder,A Photo Manager (dev)
+https://github.com/k3b/CalendarIcsAdapter,de.k3b.android.calendar.ics.adapter,android.calendar.ics.adapter
+https://github.com/k3b/ContentProviderHelper,de.k3b.android.contentproviderhelper,Content Provider Helper
+https://github.com/k3b/intent-intercept,de.k3b.android.intentintercept,Intent Intercept
+https://github.com/k3b/locationMapViewer,de.k3b.android.locationMapViewer,Location Map Viewer
+https://github.com/k3b/toGoZip,de.k3b.android.toGoZip,ToGoZip
+https://github.com/CarstenKarbach/MoTAC,de.karbach.tac,MoTAC
+https://github.com/kodejak/Hashr,de.kodejak.hashr,Hashr
+https://github.com/koelleChristian/trickytripper,de.koelle.christian.trickytripper,Tricky Tripper
+https://github.com/tran-khoa/ANNO1404-Warenrechner-App,de.ktran.anno1404warenrechner,ANNO 1404 - Calculator
+https://github.com/langerhans/dogecoin-wallet-new,de.langerhans.wallet,Dogecoin Wallet
+https://github.com/allo-/NachtlagerDownloader,de.laxu.apps.nachtlagerdownloader,Nachtlager Downloader
+https://github.com/lukaslihotzki/pixelflood,de.lihotzki.pixelflood,Pixelflut
+https://github.com/gsantner/cherrymusic-android,de.live.gdev.cherrymusic,Cherry
+https://github.com/gsantner/kimai-android,de.live.gdev.timetracker,Kimai
+https://github.com/locked-fg/signalcoverage,de.locked.cellmapper,SignalCoverage
+https://github.com/lsubel/amam-cordova,de.lsubel.amam,Ask me anything meaningful
+https://github.com/nextcloud/news-android,de.luhmer.owncloudnewsreader,Nextcloud News
+https://github.com/scheich/Balance,de.mangelow.balance,Balance
+https://github.com/scheich/debDroid,de.mangelow.debdroid,debDroid
+https://github.com/scheich/Network,de.mangelow.network,Network
+https://github.com/scheich/SlideItLoud,de.mangelow.slideitloud,SlideItLoud
+https://github.com/scheich/SyncWifi,de.mangelow.syncwifi,SyncWifi
+https://github.com/scheich/Throughput,de.mangelow.throughput,Throughput
+https://github.com/markusfisch/ShaderEditor,de.markusfisch.android.shadereditor,Shader Editor
+https://github.com/markusfisch/WaveLinesWallpaper,de.markusfisch.android.wavelines,Wave Lines
+https://github.com/rtreffer/ContactMerger,de.measite.contactmerger,Contact Merger
+https://github.com/meonwax/soundboard,de.meonwax.soundboard,Soundboard
+https://github.com/MPDL/LabCam,de.mpg.mpdl.labcam,LabCam
+https://github.com/sal0max/muzei-nationalgeographic,de.msal.muzei.nationalgeographic,
+https://github.com/Natureshadow/Zahnarztgeraeusche,de.naturalnet.zahnarztgeraeusche,Dental Sounds
+https://github.com/onyxbits/Droidentify,de.onyxbits.droidentify,Droidentify
+https://github.com/onyxbits/Drudgery,de.onyxbits.drudgery,Drudgery
+https://github.com/onyxbits/geobookmark,de.onyxbits.geobookmark,Geo Bookmark
+https://github.com/onyxbits/listmyaps,de.onyxbits.listmyapps,List My Apps
+https://github.com/onyxbits/photobookmark,de.onyxbits.photobookmark,Photo Bookmark
+https://github.com/onyxbits/pocketbandit,de.onyxbits.pocketbandit,Pocket Bandit
+https://github.com/onyxbits/remotekeyboard,de.onyxbits.remotekeyboard,Remote Keyboard
+https://github.com/onyxbits/sensorreadout,de.onyxbits.sensorreadout,Sensor Readout
+https://github.com/onyxbits/TextFiction,de.onyxbits.textfiction,Text Fiction
+https://github.com/Perflyst/BatteryCalibration,de.perflyst.batterycalibration,BatteryCalibration
+https://github.com/PaulWoitaschek/Voice,de.ph1b.audiobook,Voice
+https://github.com/xn--nding-jua/PC_DIMMER_Android,de.phoenixstudios.pc_dimmer,PC_DIMMER
+https://github.com/Yonjuni/ExaltedDicer,de.pinyto.exalteddicer,Exalted Dicer
+https://github.com/clementine-player/Android-Remote,de.qspool.clementineremote,Clementine Remote
+https://github.com/quaddy-services/DynamicNightLight,de.quaddyservices.dynamicnightlight,Dynamic Night Light
+https://github.com/ramack/ActivityDiary,de.rampro.activitydiary,Activity Diary
+https://github.com/rdoeffinger/Dictionary,de.reimardoeffinger.quickdic,QuickDic
+https://github.com/repat/mosf,de.repat.mosf,Flashlight
+https://github.com/rovo89/XposedInstaller,de.robv.android.xposed.installer,Xposed Installer
+https://github.com/shlusiak/Freebloks-Android,de.saschahlusiak.freebloks,Freebloks
+https://github.com/FairCoinTeam/faircoin-wallet,de.schildbach.wallet.faircoin,FairCoin
+https://github.com/bitcoin-wallet/bitcoin-wallet,de.schildbach.wallet,Bitcoin Wallet
+https://github.com/Serverfrog/FrogPw,de.serverfrog.pw.android,Frog Password Generator
+https://github.com/handschuh/Slight-backup,de.shandschuh.slightbackup,Slight backup
+https://github.com/cody82/sigfood,de.sigfood,Sigfood
+https://github.com/Chessmasterrr/SimpleStatsWidget,de.simplestatswidget,SimpleStatsWidget
+https://github.com/chaosbastler/opentraining,de.skubware.opentraining,Open Training
+https://github.com/lordi/tickmate,de.smasi.tickmate,Tickmate
+https://github.com/StefanOltmann/FallingBlocks,de.stefan_oltmann.falling_blocks,Falling Blocks
+https://github.com/StefanOltmann/Kaesekaestchen,de.stefan_oltmann.kaesekaestchen,Käsekästchen
+https://github.com/jufickel/rdt,de.steinpfeffer.rdt,Rule of Three
+https://github.com/CriticalMaps/criticalmaps-android,de.stephanlindauer.criticalmaps,Critical Maps
+https://github.com/SDEagle/SudoQ,de.sudoq,SudoQ
+https://github.com/ikarus23/MifareClassicTool,de.syss.MifareClassicTool,MIFARE Classic Tool
+https://github.com/butzist/ActivityLauncher,de.szalkowski.activitylauncher,Activity Launcher
+https://github.com/Fr4gorSoftware/SecScanQR,de.t_dankworth.secscanqr,SecScanQR
+https://github.com/T-Rex96/Easy_xkcd,de.tap.easy_xkcd,Easy xkcd
+https://github.com/TobiasBielefeld/Simple-Brick-Games,de.tobiasbielefeld.brickgames,Simple Brick Games
+https://github.com/TobiasBielefeld/Simple-Search,de.tobiasbielefeld.searchbar,Simple Search
+https://github.com/TobiasBielefeld/Simple-Solitaire,de.tobiasbielefeld.solitaire,Simple Solitaire Collection
+https://github.com/TCA-Team/TumCampusApp,de.tum.in.tumcampus,TUM Campus App
+https://github.com/felixb/callmeter,de.ub0r.android.callmeter,Call Meter 3G
+https://github.com/felixb/clipboard-beam,de.ub0r.android.clipboardbeam,Clipboard Beam
+https://github.com/felixb/otpdroid,de.ub0r.android.otpdroid,OTPdroid
+https://github.com/felixb/portal-timer,de.ub0r.android.portaltimer,Portal Timer
+https://github.com/felixb/smsdroid,de.ub0r.android.smsdroid,SMSdroid
+https://github.com/felixb/websms-connector-gmx,de.ub0r.android.websms.connector.gmx,WebSMS Connector: GMX
+https://github.com/felixb/websms-connector-smspilot-ru,de.ub0r.android.websms.connector.smspilotru,WebSMS Connector: smspilot.ru
+https://github.com/felixb/websms,de.ub0r.android.websms,WebSMS
+https://github.com/domoritz/open-mensa-android,de.uni_potsdam.hpi.openmensa,OpenMensa
+https://github.com/vanitasvitae/EnigmAndroid,de.vanitasvitae.enigmandroid,EnigmAndroid
+https://github.com/no-go/ViboraFeed,de.vibora.viborafeed,Single-Feed
+https://github.com/vbier/habpanelviewer,de.vier_bier.habpanelviewer,HABPanelViewer
+https://github.com/ennswi/AndroidCaldavSyncAdapater,de.we.acaldav,aCalDAV
+https://github.com/westnordost/StreetComplete,de.westnordost.streetcomplete,Street­Complete
+https://github.com/max-weller/friendica-for-android,de.wikilab.android.friendica01,Friendica
+https://github.com/rnauber/xskat-android,de.xskat,XSkat
+https://github.com/jakobwenzel/MensaGuthaben,de.yazo_games.mensaguthaben,Mensa-Guthaben
+https://github.com/zieren/rot13translator,de.zieren.rot13,ROT13 Translator
+https://github.com/dentex/ytdownloader,dentex.youtube.downloader,
+https://github.com/ukanth/afwall,dev.ukanth.ufirewall,AFWall+
+https://github.com/jensstein/oandbackup,dk.jens.backup,oandbackup
+https://github.com/ibikecph/ibikecph-android,dk.kk.ibikecph,I Bike CPH
+https://github.com/JanmanX/EncryptTextApp,dk.meznik.jan.encrypttext,Encrypt Text
+https://github.com/fasmide/app-cm-nightlies,dk.mide.fas.cmnightlies,cm-nightlies
+https://github.com/MrFlyingToasterman/Pijaret,dmusiolik.pijaret,Pijaret
+https://github.com/douzifly/clear-todolist,douzifly.list,Clear List
+https://github.com/dulleh/akhyou,dulleh.akhyou.fdroid,Akhyou!
+https://github.com/happyalu/Flite-TTS-Engine-for-Android,edu.cmu.cs.speech.tts.flite,Flite TTS Engine
+https://github.com/SafeSlingerProject/SafeSlinger-Android,edu.cmu.cylab.starslinger.demo,SafeSlinger Exchange for Security Developers
+https://github.com/cmusphinx/pocketsphinx-android-demo,edu.cmu.pocketsphinx.demo,PocketSphinx Demo
+https://github.com/bencebeky/MMSKeeper,edu.harvard.android.mmskeeper,MMSKeeper
+https://github.com/wkillerud/hiofenigma-android,edu.killerud.kitchentimer,OpenTimer
+https://github.com/rmtheis/android-ocr,edu.sfsu.cs.orange.ocr,OCR Test
+https://github.com/Kaljurand/K6nele,ee.ioc.phon.android.speak,Kõnele
+https://github.com/smkv/android-simple-loan-calculator,ee.smkv.calc.loan,Simple Loan Calculator
+https://github.com/schaal/ocreader,email.schaal.ocreader,OCReader
+https://github.com/AbdulGh/WhereAmINext,errorc2146.whereaminext,Where Am I Next?
+https://github.com/cesarvaliente/quitesleep,es.cesar.quitesleep,QuiteSleep
+https://github.com/citiususc/calendula,es.usc.citius.servando.calendula,Calendula
+https://github.com/ET-CS/EZ-Wifi-Notification,et.nWifiManager,EZ Wifi Notification
+https://github.com/sebastianrakel/fb-client-android,eu.devunit.fb_client,fb-client
+https://github.com/oshepherd/Impeller,eu.e43.impeller,Impeller
+https://github.com/M66B/FineGeotag,eu.faircode.finegeotag,FineGeotag
+https://github.com/M66B/NetGuard,eu.faircode.netguard,NetGuard
+https://github.com/M66B/XPrivacyLua,eu.faircode.xlua,XPrivacyLua
+https://github.com/marcopar/SliderSynth,eu.flatworld.android.slider,SliderSynth
+https://github.com/geopaparazzi/geopaparazzi,eu.hydrologis.geopaparazzi,Geopaparazzi
+https://github.com/inmite/android-grid-wichterle,eu.inmite.android.gridwichterle,GridWichterle
+https://github.com/jcasson/MeerkatChallenge,eu.johncasson.meerkatchallenge,Meerkat Challenge
+https://github.com/inorichi/tachiyomi,eu.kanade.tachiyomi,Tachiyomi
+https://github.com/ericzolf/pmtd,eu.lavarde.pmtd,PlusMinusTimesDivide
+https://github.com/mafik/echo,eu.mrogalski.saidit,Background Recorder
+https://github.com/beriain/PolarClock,eu.polarclock,Polar Clock
+https://github.com/pretix/pretixdroid,eu.pretix.pretixdroid,pretixdroid
+https://github.com/prismsw/Lampshade,eu.prismsw.lampshade,Lampshade
+https://github.com/siacs/Conversations,eu.siacs.conversations.legacy,Conversations Legacy
+https://github.com/siacs/VoiceRecorder,eu.siacs.conversations.voicerecorder,Voice Recorder Plugin
+https://github.com/robert7k/sipswitch,eu.siebeck.sipswitch,SIP Switch
+https://github.com/VelbazhdSoftwareLLC/ColorsOverflow,eu.veldsoft.colors.overflow,Colors Overflow
+https://github.com/VelbazhdSoftwareLLC/Complica4,eu.veldsoft.complica4,Complica4
+https://github.com/VelbazhdSoftwareLLC/FishRingsForAndroid,eu.veldsoft.fish.rings,Fish Rings for Android
+https://github.com/VelbazhdSoftwareLLC/FreeKlondike,eu.veldsoft.four.row.solitaire,Free Klondike
+https://github.com/VelbazhdSoftwareLLC/HungarianRingsForAndroid,eu.veldsoft.hungarian.rings,Hungarian Rings for Android
+https://github.com/VelbazhdSoftwareLLC/IthakaBoardGame,eu.veldsoft.ithaka.board.game,Ithaka Board Game
+https://github.com/VelbazhdSoftwareLLC/Politrics,eu.veldsoft.politrics,Politrics
+https://github.com/VelbazhdSoftwareLLC/Scribe4,eu.veldsoft.scribe4,Scribe4
+https://github.com/VelbazhdSoftwareLLC/SvarkaOddsCalculator,eu.veldsoft.svarka.odds.calculator,Svarka Odds Calculator
+https://github.com/VelbazhdSoftwareLLC/tuty-fruty-slot-for-android,eu.veldsoft.tuty.fruty.slot,Tuty Fruty Slot for Android
+https://github.com/VelbazhdSoftwareLLC/VitoshaDM,eu.veldsoft.vitoshadm,VitoshaDM
+https://github.com/woju/hud,eu.woju.android.packages.hud,HUD
+https://github.com/felixwiemuth/LinCal,felixwiemuth.lincal,LinCal
+https://github.com/harism/android_wallpaper_flier,fi.harism.wallpaper.flier,Flier
+https://github.com/harism/android_wallpaper_flowers,fi.harism.wallpaper.flowers,Peppy Flowers
+https://github.com/harism/android_wallpaper_yinyang,fi.harism.wallpaper.yinyang,Yin Yang
+https://github.com/Mikuz/Boarder,fi.mikuz.boarder,Boarder
+https://github.com/mvestola/helsinki-testbed2-android,fi.testbed2,Helsinki Testbed Viewer 2.0
+https://github.com/flyingrub/SpeedMeter,fly.speedmeter.grub,Speedmeter
+https://github.com/mikereidis/spirit2_free,fm.a2d.sf,SpiritF
+https://github.com/foocorp/gnu-fm,fm.libre.droid,Libre Droid
+https://github.com/dzmanto/foehnix,foehnix.widget,Föhnix
+https://github.com/mathbellev/StdAtmosphere,fr.bellev.stdatmosphere,Std Atmosphere
+https://github.com/commons-app/apps-android-commons,fr.free.nrw.commons,Commons
+https://github.com/wallabag/android-app,fr.gaulupeau.apps.InThePoche,wallabag
+https://github.com/herverenault/DirectDictaphone,fr.herverenault.directdictaphone,Direct Dictaphone
+https://github.com/herverenault/Self-Hosted-GPS-Tracker,fr.herverenault.selfhostedgpstracker,Self-Hosted GPS Tracker
+https://github.com/mdecorde/BABYNAME,fr.hnit.babyname,BabyName
+https://github.com/mdecorde/BAC76,fr.hnit.riverferry,RiverFerry
+https://github.com/kyriog/rights-alert,fr.keuse.rightsalert,Rights alert
+https://github.com/JusticeRage/ApkTrack,fr.kwiatkowski.ApkTrack,ApkTrack
+https://github.com/e-venement/eve-control2,fr.librinfo.evecontrol2,Eve-control
+https://github.com/a-tsioh/TaigIME-android,fr.magistry.taigime,TaigIME
+https://github.com/amasciul/Drinks,fr.masciulli.drinks,Drinks
+https://github.com/thibault/Napply,fr.miximum.napply,Napply
+https://github.com/Neamar/KISS,fr.neamar.kiss,KISS launcher
+https://github.com/nicopico-dev/dashclock-birthday,fr.nicopico.dashclock.birthday,DashClock Birthday Extension
+https://github.com/giletvin/ornidroid,fr.ornidroid,Ornidroid
+https://github.com/conchyliculture/wikipoff,fr.renzo.wikipoff,WikipOff
+https://github.com/PhotoBackup/client-android,fr.s13d.photobackup,PhotoBackup
+https://github.com/alandais/Pointeuse_S3I,fr.s3i.pointeuse,Pointage
+https://github.com/sileht/SeeksWidget,fr.seeks,Seeks
+https://github.com/SimonMarquis/Android-PreferencesManager,fr.simon.marquis.preferencesmanager,Preferences Manager
+https://github.com/SimonMarquis/Android-SecretCodes,fr.simon.marquis.secretcodes,Secret Codes
+https://github.com/npmiller/syncarnet,fr.syncarnet,SynCarnet
+https://github.com/tvbarthel/CameraColorPicker,fr.tvbarthel.apps.cameracolorpicker,Camera Color Picker
+https://github.com/tvbarthel/SimpleThermometerProject,fr.tvbarthel.apps.simplethermometer,SimpleThermometer
+https://github.com/tvbarthel/SimpleWeatherForecast,fr.tvbarthel.apps.simpleweatherforcast,SimpleWeatherForecast
+https://github.com/tvbarthel/GooglyZoo,fr.tvbarthel.attempt.googlyzooapp,GooglyZoo
+https://github.com/nerzhul/ownCloud-SMS-App,fr.unix_experience.owncloud_sms,Nextcloud SMS
+https://github.com/xgouchet/Stanley,fr.xgouchet.packageexplorer,Stanley
+https://github.com/xgouchet/Ted,fr.xgouchet.texteditor,Ted
+https://github.com/xplodwild/android_packages_apps_Focal,fr.xplod.focal,Focal
+https://github.com/cerisara/DragonGoApp,fr.xtof54.dragonGoApp,DragonGoApp
+https://github.com/cerisara/mousetodon,fr.xtof54.mousetodon,MouseApp
+https://github.com/cerisara/Scrabble,fr.xtof54.scrabble,scrabble
+https://github.com/ram-on/NetcfgWidget,free.rm.netcfgwidget,Netcfg Widget
+https://github.com/ram-on/SkyTube,free.rm.skytube.oss,SkyTube
+https://github.com/yhcting/feedhive,free.yhc.feeder,FeedHive
+https://github.com/yhcting/netmbuddy,free.yhc.netmbuddy,NetMBuddy
+https://github.com/chschtsch/milon-android,ga.chschtsch.milonhapashut,Milon Hapashut
+https://github.com/MohammadAdib/FloatingStickies,genius.mohammad.floating.stickies,Floating Stickies
+https://github.com/mwgg/passera,gg.mw.passera,Passera
+https://github.com/giraffine/Android-Project,giraffine.dimmer,Dimmer
+https://github.com/daneren2005/Subsonic,github.daneren2005.dsub,DSub
+https://github.com/yaa110/Memento,github.yaa110.memento,Memento
+https://github.com/yaa110/Piclice,github.yaa110.piclice,Piclice
+https://github.com/ralphleon/TeaTimer,goo.TeaTimer,Tea Timer
+https://github.com/WSDOT/wsdot-android-app,gov.wa.wsdot.android.wsdot,WSDOT
+https://github.com/null-dev/animeopenings-android,gq.nulldev.animeopenings.app,Anime Openings
+https://github.com/ilesinge/scuttloid,gr.ndre.scuttloid,Scuttloid
+https://github.com/ratmole/Mach3Pendant,gr.ratmole.android.Mach3Pendant,Mach3Pendant
+https://github.com/tsagi/jekyll-client-for-android,gr.tsagi.jekyllforandroid,Jekyll for Android
+https://github.com/grmpl/StepandHeightcounter,grmpl.mk.stepandheightcounter,Step and Height counter
+https://github.com/Groomiac/crocodilenote,groomiac.crocodilenote,CrocodileNote
+https://github.com/HashEngineering/dash-wallet,hashengineering.darkcoin.wallet,Dash Wallet
+https://github.com/headrevision/BehatReporter,headrevision.BehatReporter,Behat Reporter
+https://github.com/jochem88/clean-calculator,home.jmstudios.calc,Calculator
+https://github.com/Valodim/Stratum0Widget,horse.amazin.my.stratum0.statuswidget,Stratum 0 Widget
+https://github.com/subchannel13/EnchantedFortress,hr.kravarscan.enchantedfortress,Enchanted Fortress
+https://github.com/hsaito/hstempo_android,hsware.HSTempo,HSTempo
+https://github.com/dnet/adsdroid,hu.vsza.adsdroid,ADSdroid
+https://github.com/actorapp/actor-android-open,im.actor.cloud.free,Actor
+https://github.com/richardchien/clear-weather-android,im.r_c.android.clearweather,清心天气
+https://github.com/richardchien/jigsaw-android,im.r_c.android.jigsaw,J Puzzle
+https://github.com/subliun/Antox,im.tox.antox,Antox
+https://github.com/vector-im/riot-android,im.vector.alpha,Riot.im
+https://github.com/zom/zom-android,im.zom.messenger,Zom
+https://github.com/teamOSC/SubtleNews_Android_App,in.ac.dtu.subtlenews,Subtle News
+https://github.com/carts-uiet/cartsbusboarding,in.ac.iitb.cse.cartsbusboarding,Carts Bus Boarding
+https://github.com/andresth/Kandroid,in.andres.kandroid,Kandroid
+https://github.com/Arjun-sna/android-permission-checker-app,in.arjsna.permissionchecker,Android Permissions
+https://github.com/anselm94/Torchie-Android,in.blogspot.anselmbros.torchie,Torchie
+https://github.com/indiandragon/Shellshock-Vulnerability-Scan,in.indiandragon.shellshock.shellshockvulnerabilityscan,Shellshock Vulnerability Scan
+https://github.com/w84death/Tanks-of-Freedom,in.p1x.tanks_of_freedom,
+https://github.com/zagaberoo/diode,in.shick.diode,Diode
+https://github.com/zagaberoo/lockpatterngenerator,in.shick.lockpatterngenerator,Lock Pattern Generator
+https://github.com/DevelopFreedom/logmein-android,in.shubhamchaudhary.logmein,LogMeIn
+https://github.com/omerjerk/RemoteDroid,in.tosc.remotedroid,Remote Droid
+https://github.com/indrora/Atomic,indrora.atomic,Atomic
+https://github.com/aario/killcamera,info.aario.killcamera,Kill Camera
+https://github.com/aario/snotepad,info.aario.snotepad,SNotepad
+https://github.com/dkrivoruchko/ScreenStream,info.dvkr.screenstream,Screen Stream
+https://github.com/guardianproject/Orweb,info.guardianproject.browser,Orweb
+https://github.com/guardianproject/cacert,info.guardianproject.cacert,CACertMan
+https://github.com/guardianproject/securereader,info.guardianproject.courier,Courier
+https://github.com/n8fr8/gilgamesh,info.guardianproject.gilga,Gilga
+https://github.com/guardianproject/gnupg-for-android,info.guardianproject.gpg,GnuPrivacyGuard
+https://github.com/guardianproject/lildebi,info.guardianproject.lildebi,Lil' Debi
+https://github.com/guardianproject/LocationPrivacy,info.guardianproject.locationprivacy,LocationPrivacy
+https://github.com/guardianproject/notecipher,info.guardianproject.notepadbot,NoteCipher
+https://github.com/guardianproject/Orfox,info.guardianproject.orfox,
+https://github.com/guardianproject/ChatSecureAndroid,info.guardianproject.otr.app.im,ChatSecure
+https://github.com/guardianproject/PixelKnot,info.guardianproject.pixelknot,PixelKnot
+https://github.com/guardianproject/ripple,info.guardianproject.ripple,Ripple
+https://github.com/kesavanm/malartoon,info.kesavan.malartoon,Malar Toon
+https://github.com/rorist/android-network-discovery,info.lamatricexiste.network,Network Discovery
+https://github.com/meoblast001/thugaim,info.meoblast001.thugaim,Thugaim
+https://github.com/EventFahrplan/EventFahrplan,info.metadude.android.congress.schedule,34c3 FahrPlan
+https://github.com/fython/Blackbulb,info.papdt.blackblub,Night Screen
+https://github.com/schnatterer/nusic,info.schnatterer.nusic,
+https://github.com/xxv/SuperGenPass,info.staticfree.SuperGenPass,SuperGenPass
+https://github.com/xxv/Units,info.staticfree.android.units,Units
+https://github.com/zamojski/TowerCollector,info.zamojski.soft.towercollector,Tower Collector
+https://github.com/otaconix/caffeinetile,info.zwanenburg.caffeinetile,Caffeine Tile
+https://github.com/davidar/tensor,io.davidar.tensor,Tensor
+https://github.com/alketii/mighty-knight,io.github.alketii.mightyknight,
+https://github.com/engSERGIU/React,io.github.baiatbun.react,React
+https://github.com/BenoitDuffez/AndroidCupsPrint,io.github.benoitduffez.cupsprint,Android CUPS Print
+https://github.com/droidapps/pdfreader4Android,io.github.droidapps.pdfreader,PDF Reader
+https://github.com/froodyapp/froody-android,io.github.froodyapp,Froody
+https://github.com/fvasco/pinpoi,io.github.fvasco.pinpoi,PinPoi
+https://github.com/fxthomas/sshbeam,io.github.fxthomas.sshbeam,SSH Beam
+https://github.com/gsantner/memetastic,io.github.gsantner.memetastic,MemeTastic
+https://github.com/hidroh/materialistic,io.github.hidroh.materialistic,Materialistic
+https://github.com/HopEdia/android-client,io.github.hopedia,Hop'Edia
+https://github.com/KOBUGE-Games/minilens,io.github.kobuge.games.minilens,
+https://github.com/LonamiWebs/Klooni1010,io.github.lonamiwebs.klooni,1010! Klooni
+https://github.com/LonamiWebs/Stringlate,io.github.lonamiwebs.stringlate,Stringlate
+https://github.com/mthli/Ninja,io.github.mthli.Ninja,Ninja
+https://github.com/phora/AeonDroid,io.github.phora.aeondroid,AeonDroid
+https://github.com/phora/AndroPTPB,io.github.phora.androptpb,AndroPTPB
+https://github.com/mo3rfan/ScrollSocket,io.github.powerinside.scrollsocket,ScrollSocket
+https://github.com/mo3rfan/syncplayer,io.github.powerinside.syncplay,SyncPlayer
+https://github.com/sanbeg/flashlight,io.github.sanbeg.flashlight,Open Flashlight
+https://github.com/tjg1/nori,io.github.tjg1.nori,Nori
+https://github.com/tompreuss/APNSettings,io.github.tompreuss.apnsettings,APN Settings
+https://github.com/tryton-vanmeer/LibreTrivia,io.github.trytonvanmeer.libretrivia,LibreTrivia
+https://github.com/whirish/Tri-Valley-Buses,io.github.whirish.tvbuses,Tri-Valley Buses
+https://github.com/FEDE0D/Planet-Rider,io.githubfede0d.planetrider,
+https://github.com/HugoGresse/Anecdote,io.gresse.hugo.anecdote,Anecdote
+https://github.com/Maxr1998/home-assistant-Android,io.homeassistant.android,Home Assistant
+https://github.com/mapsquare/osm-contributor,io.mapsquare.osmcontributor,Osm Contributor
+https://github.com/MCMrARM/revolution-irc,io.mrarm.irc,Revolution IRC
+https://github.com/tiphedor/SMS-Spammer-Android,io.tiph.smsspammer,SMS Spammer
+https://github.com/trezor/trezor-android,io.trezor.app,TREZOR Manager
+https://github.com/HassanHeydariNasab/defendo,ir.hsn6.defendo,
+https://github.com/HassanHeydariNasab/k2,ir.hsn6.k2,
+https://github.com/HassanHeydariNasab/trans,ir.hsn6.trans,
+https://github.com/HassanHeydariNasab/turo,ir.hsn6.turo,
+https://github.com/jannispinter/jaws,is.pinterjann.jaws,JAWS
+https://github.com/mpv-android/mpv-android,is.xyz.mpv,mpv
+https://github.com/ilpianista/forvodroid,it.andreascarpino.forvodroid,ForvoDroid
+https://github.com/pettarin/epub3reader,it.angrydroids.epub3reader,EPUB3 Reader
+https://github.com/Eco80/dudo,it.ecosw.dudo,Dudo
+https://github.com/RCasatta/EternityWallAndroid,it.eternitywall.eternitywall,Eternity Wall
+https://github.com/fabmazz/triesteinbus,it.fabmazz.triestebus,TriesteinBus
+https://github.com/faerbit/android-crond,it.faerb.crond,${applicationLabel}
+https://github.com/federicoiosue/Omni-Notes,it.feio.android.omninotes.foss,Omni Notes
+https://github.com/gabrielemariotti/dashclockbattery,it.gmariotti.android.apps.dashclock.extensions.battery,Battery Extension for DashClock
+https://github.com/greenaddress/WalletCordova,it.greenaddress.cordova,GreenAddress.It
+https://github.com/aroblu94/langolonerd_android,it.langolonerd.app,L'angolo nerd
+https://github.com/0iras0r/ils-companion-android,it.linuxday.torino,LDTO Companion
+https://github.com/gabrielelucci/greyscale-cmte,it.lucci.cm.greyscaletheme,Greyscale
+https://github.com/DocSalvi/LinuxDayAppAndroid,it.mn.salvi.linuxDayOSM,LinuxDayOSM
+https://github.com/mobimentum/dualsimreminder,it.mobimentum.dualsimwidget,DualSim Reminder
+https://github.com/stefan-niedermann/nextcloud-notes,it.niedermann.owncloud.notes,Notes
+https://github.com/rignaneseleo/SlimSocial-for-Facebook,it.rignanese.leo.slimfacebook,SlimSocial for Facebook
+https://github.com/rignaneseleo/SlimSocial-for-Twitter,it.rignanese.leo.slimtwitter,SlimSocial for Twitter
+https://github.com/SASAbus/SASAbus,it.sasabz.android.sasabus,SASAbus
+https://github.com/hrk/no-frills-cpu-classic,it.sineo.android.noFrillsCPUClassic,No-frills CPU Control CLASSIC
+https://github.com/Skarafaz/mercury,it.skarafaz.mercury,Mercury-SSH
+https://github.com/francescosoave/TIS_android,italian.said.fran.theitaliansaid,The Italian Said
+https://github.com/itkach/aard2-android,itkach.aard2,Aard 2
+https://github.com/inguin/moneybalance,ivl.android.moneybalance,MoneyBalance
+https://github.com/jackpal/Android-Terminal-Emulator,jackpal.androidterm,Terminal Emulator
+https://github.com/jackpal/droid-examiner,jackpal.droidexaminer,Droid Examiner
+https://github.com/JonasCz/save-for-offline,jonas.tool.saveForOffline,Save For Offline
+https://github.com/jonan/ForkHub,jp.forkhub,ForkHub
+https://github.com/ksksue/Android-USB-Serial-Monitor-Lite,jp.ksksue.app.terminal,Android USB Serial Monitor Lite
+https://github.com/indication/OpenRedmine,jp.redmine.redmineclient,OpenRedmine
+https://github.com/jiro-aqua/aGrep,jp.sblo.pandora.aGrep,aGrep
+https://github.com/biochem-fan/NDKmol,jp.sfjp.webglmol.NDKmol,NDKmol
+https://github.com/soft-studio/NFC_DriversLicenseReader,jp.softstudio.DriversLicenseReader,運転免許証リーダー
+https://github.com/takke/cpustats,jp.takke.cpustats,CPU Stats
+https://github.com/takke/DataStats,jp.takke.datastats,DataStats
+https://github.com/YasuakiHonda/Maxima-on-Android-AS,jp.yhonda,MaximaOnAndroid
+https://github.com/julianwi/javainstaller,julianwi.javainstaller,Java installer
+https://github.com/ShaneQful/Jupiter-Broadcasting-Android-App,jupiter.broadcasting.live.tv,Jupiter Broadcasting
+https://github.com/jcarolus/android-chess,jwtc.android.chess,Chess
+https://github.com/ka-ba/yucata.envoy,kaba.yucata.envoy,Yucata Envoy
+https://github.com/Kaljurand/Diktofon,kaljurand_at_gmail_dot_com.diktofon,Diktofon
+https://github.com/rootkiwi/an2linuxclient,kiwi.root.an2linuxclient,AN2Linux
+https://github.com/m0ppers/ElpeEfpeAndroid,koeln.mop.elpeefpe,Elpe Efpe
+https://github.com/sukso96100/SidePanel,kr.hybdms.sidepanel,SidePanel
+https://github.com/softgearko/MultiPing-for-Android,kr.softgear.multiping,MultiPing
+https://github.com/Lanchon/sigspoof-checker,lanchon.sigspoof.checker,Signature Spoofing Checker
+https://github.com/klassm/andFHEM,li.klass.fhem,andFHEM
+https://github.com/biotinker/LibreTasks,libretasks.app,LibreTasks
+https://github.com/ScreamingHawk/fate-sheets,link.standen.michael.fatesheets,Fate Sheets
+https://github.com/ScreamingHawk/phone-saver,link.standen.michael.phonesaver,Phone Saver
+https://github.com/ScreamingHawk/android-slideshow,link.standen.michael.slideshow,Slideshow
+https://github.com/basil2style/getid,makeinfo.com.getid,Get ID
+https://github.com/mancio/Volume-Control,mancioboxblog.altervista.it.volumecontrol,Volume Control
+https://github.com/martinmarinov/rtl_tcp_andro-,marto.rtl_tcp_andro,Rtl-sdr driver
+https://github.com/mavonst/easyLight,mavonst.app.easylight,EasyLight
+https://github.com/maxammann/music-cyclon,max.music_cyclon,music-cyclon
+https://github.com/MazeChaZer/WoT-Tank-Quiz,mazechazer.android.wottankquiz,WoT Tank Quiz
+https://github.com/mbmb5/Eylca,mbmb5.lumixextendedcontrolapp,Eylca
+https://github.com/alexghr/bulkshare,me.alexghr.android.bulkshare,Bulk Share
+https://github.com/hackathoner/Gradr,me.anuraag.grader,Gradr
+https://github.com/hackathoner/LoveGame,me.anuraag.loveactualized,Love Game
+https://github.com/bpear96/ARChon-Packager,me.bpear.archonpackager,ARChon Packager
+https://github.com/bpear96/Chrome-APK-Packager,me.bpear.chromeapkpackager,ARChon Packager
+https://github.com/ccrama/Slide,me.ccrama.redditslide,
+https://github.com/DanielBarnett714/AddressToGPS,me.danielbarnett.addresstogps,AddressToGPS
+https://github.com/DanielBarnett714/Acastus,me.dbarnett.acastus,Acastus
+https://github.com/disconnectme/disconnect-mobile-android,me.disconnect.mobile2,Disconnect
+https://github.com/arkon/CDFLabs,me.echeung.cdflabs,CS Teaching Labs
+https://github.com/LISTEN-moe/android-app,me.echeung.moemoekyun.fdroid,LISTEN.moe
+https://github.com/labexp/osmtracker-android,me.guillaumin.android.osmtracker,OSMTracker for Android™
+https://github.com/cryptofuture/urlhda-android,me.hda.urlhda,HDA URL
+https://github.com/JakeLane/Toffeed,me.jakelane.wrapperforfacebook,Toffeed
+https://github.com/JamesFrost/SimpleDo,me.jamesfrost.simpledo,SimpleDo
+https://github.com/JohnMH/BoogDroid,me.johnmh.boogdroid,BoogDroid
+https://github.com/mvsastry/dashcricket,me.malladi.dashcricket,DashCricket - DashClock Live Cricket Scores Extension
+https://github.com/zouroboros/filmchecker,me.murks.filmchecker,FilmChecker
+https://github.com/phhusson/Superuser,me.phh.superuser,Superuser
+https://github.com/sheimi/SGit,me.sheimi.sgit,SGit
+https://github.com/SpEcHiDe/WhatsAppTransmitter,me.shrimadhavuk.watransmitter,WATransmitter
+https://github.com/TripSit/tripmobile,me.tripsit.tripmobile,TripSit
+https://github.com/gentlecat/Simple-Counter,me.tsukanov.counter,Counter
+https://github.com/jffrymrtn/writeily-pro,me.writeily.pro,Writeily Pro
+https://github.com/plafue/writeily-pro,me.writeily,Writeily Pro
+https://github.com/ZeeRooo/MaterialFBook,me.zeeroooo.materialfb,MaterialFBook
+https://github.com/biylda/WhereYouGo,menion.android.whereyougo,WhereYouGo
+https://github.com/jason17055/micropolis-android,micropolis.android,Micropolis
+https://github.com/wrr/speech_trainer,mixedbit.speechtrainer,Speech Trainer
+https://github.com/apiote/Bimba,ml.adamsprogs.bimba,Bimba
+https://github.com/drpout/boilr,mobi.boilr.boilr,Boilr
+https://github.com/arifhn/NSTools,mobi.cyann.nstools,NSTools
+https://github.com/arpruss/perapp,mobi.omegacentauri.PerApp,PerApp
+https://github.com/arpruss/sendreduced,mobi.omegacentauri.SendReduced,Send Reduced Free
+https://github.com/NHMoeDev/NHentai-android,moe.feng.nhentai,NHBooks
+https://github.com/MartiniMoe/MIDICtrl,moe.martini.midictrl,MIDICtrl
+https://github.com/Mnkai/PGPClipper,moe.minori.pgpclipper,PGPClipper
+https://github.com/MohammadAdib/Roundr,mohammad.adib.roundr,RoundR
+https://github.com/monakhv/samlib-Info,monakhv.android.samlib,SamLib Инфо
+https://github.com/naman14/Timber,naman14.timber,Timber
+https://github.com/bagilevi/android-pedometer,name.bagi.levente.pedometer,Pedometer
+https://github.com/chrisboyle/sgtpuzzles,name.boyle.chris.sgtpuzzles,Puzzles
+https://github.com/juodumas/android-lithuanian-layouts,name.juodumas.ext_kbd_lithuanian,Lithuanian Layouts - Ext. Keyboards
+https://github.com/StanLivitski/n-puzzle,name.livitski.games.puzzle.android,n-Puzzle
+https://github.com/marfl/android-bulgarian-phonetic-layout,name.marfl.ext_kbd_bulgarian_phonetic,Bulgarian Phonetic Layout - Ext. Keyboards
+https://github.com/MyIgel/EH17Fahrplan,name.myigel.fahrplan.eh17,EH17 FahrPlan
+https://github.com/seguri/GetForegroundActivity,name.seguri.android.getforegroundactivity,Get Foreground Activity
+https://github.com/seguri/IsPhoneEncrypted,name.seguri.android.isphoneencrypted,IsPhoneEncrypted
+https://github.com/seguri/lock,name.seguri.android.lock,Lock
+https://github.com/dsoulayrol/android-sholi,name.soulayrol.rhaa.sholi,ShoLi
+https://github.com/gstarnberger/CBW,name.starnberger.guenther.android.cbw,Citybike Stations Vienna
+https://github.com/namlit/siteswap_generator,namlit.siteswapgenerator,Siteswap Generator
+https://github.com/tuxmobil/CampFahrplan,nerd.tuxmobil.fahrplan.camp,
+https://github.com/hoihei/Silectric,net.alaindonesia.silectric,Silectric
+https://github.com/gehaxelt/Android-AltcoinfaucetApp,net.altcoinfaucet.app,Altcoinfaucet.net - Overview
+https://github.com/VanirAOSP/packages_apps_SpeakerProximity,net.androcom.dho.speakerproximity,SpeakerProximity
+https://github.com/avianey/Level,net.androgames.level,Bubble
+https://github.com/robotmedia/droid-comic-viewer,net.androidcomics.acv,ACV
+https://github.com/elek/osmgpxuploader,net.anzix.osm.upload,OsmGpxUploader
+https://github.com/andybalaam/rabbit-escape,net.artificialworlds.rabbitescape,Rabbit Escape
+https://github.com/mjdenham/and-bible,net.bible.android.activity,And Bible
+https://github.com/0xbb/otp-authenticator,net.bierbaumer.otp_authenticator,OTP Authenticator
+https://github.com/bitplane/Microphone,net.bitplane.android.microphone,Microphone
+https://github.com/janosgyerik/bluetoothviewer,net.bluetoothviewer,Bluetooth Viewer (LITE)
+https://github.com/eMerzh/OpenFixMap,net.bmaron.openfixmap,OpenFixMap
+https://github.com/tcoxon/XkcdViewer,net.bytten.xkcdviewer,xkcdViewer
+https://github.com/yourealwaysbe/teacup,net.chilon.matt.teacup,TeaCup
+https://github.com/jpeddicord/speedofsound,net.codechunk.speedofsound,Speed of Sound
+https://github.com/opentechinstitute/commotion-android,net.commotionwireless.meshtether,Mesh Tether
+https://github.com/cyclestreets/android,net.cyclestreets,CycleStreets
+https://github.com/czlee/debatekeeper,net.czlee.debatekeeper,Debatekeeper
+https://github.com/anthonydahanne/ReGalAndroid,net.dahanne.android.regalandroid,ReGalAndroid
+https://github.com/SoupeauCaillou/heriswap,net.damsy.soupeaucaillou.heriswap,0sac test only
+https://github.com/SoupeauCaillou/recursive-runner,net.damsy.soupeaucaillou.recursiveRunner,Recursive Runner
+https://github.com/daverix/urlforwarder,net.daverix.urlforward,Url forwarder
+https://github.com/mlsoft/Trycorder5,net.ddns.mlsoftlaberge.trycorder,Trycorder
+https://github.com/eboudrant/net.ebt.muzei.miyazaki,net.ebt.muzei.miyazaki,Muzei Ghibli
+https://github.com/Etuldan/spaRSS,net.etuldan.sparss.floss,spaRSS
+https://github.com/everythingandroid/android-smspopup,net.everythingandroid.smspopup,SMS Popup
+https://github.com/CaptainSpam/geohashdroid,net.exclaimindustries.geohashdroid,Geohash Droid
+https://github.com/bfabiszewski/ulogger-android,net.fabiszewski.ulogger,μlogger
+https://github.com/FredJul/Flym,net.fred.feedex,Flym
+https://github.com/Wilm0r/giggity,net.gaast.giggity,Giggity
+https://github.com/gwhiteside/abstract-art,net.georgewhiteside.android.abstractart,Abstract Art
+https://github.com/gsantner/markor,net.gsantner.markor,Markor
+https://github.com/tarka/Anode,net.haltcondition.anode,Anode
+https://github.com/i2p/i2p.android.base,net.i2p.android.router,I2P
+https://github.com/iexos/BipolAlarm,net.iexos.musicalarm,BipolAlarm
+https://github.com/MarcDufresne/BetterWeather,net.imatruck.betterweather,BetterWeather
+https://github.com/itprojects/InboxPager,net.inbox.pager,Inbox Pager
+https://github.com/agwells/dotdash-keyboard-android,net.iowaline.dotdash,DotDash Keyboard
+https://github.com/JJC1138/scrobbledroid,net.jjc1138.android.scrobbler,Scrobble Droid
+https://github.com/justdave/nwsweatheralertswidget,net.justdave.nwsweatheralertswidget,NWS Weather Alerts Widget
+https://github.com/michaelkourlas/voipms-sms-client,net.kourlas.voipms_sms,VoIP.ms SMS
+https://github.com/nfd/KeePassNFC,net.lardcave.keepassnfc,KeePass NFC
+https://github.com/SLoeuillet/WIFI_EAP_SIM_Conf,net.loeuillet.wifi_eap_sim_conf,WIFI_EAP_SIM_Conf
+https://github.com/logomancer/dashquotes-civ5,net.logomancy.dashquotes.civ5,
+https://github.com/logomancer/diedroid,net.logomancy.diedroid,DieDroid
+https://github.com/gitdode/inetify,net.luniks.android.inetify,Inetify
+https://github.com/SteamGifts/SteamGifts,net.mabako.steamgifts,
+https://github.com/mafrosis/Wake-On-Lan,net.mafro.android.wakeonlan,Wake On Lan
+https://github.com/fyhertz/spydroid-ipcamera,net.majorkernelpanic.spydroid,Spydroid
+https://github.com/mcarolan/when-ze-bus,net.mcarolan.whenzebus,When Ze Bus
+https://github.com/MiCode/Compass,net.micode.compass,Compass
+https://github.com/MiCode/FileExplorer,net.micode.fileexplorer,File Explorer
+https://github.com/MiCode/SoundRecorder,net.micode.soundrecorder,Sound Recorder
+https://github.com/minetest/minetest,net.minetest.minetest,
+https://github.com/momodalo/vimtouch,net.momodalo.app.vimtouch,
+https://github.com/gjedeer/mylocation,net.mypapit.mobile.myposition,My Position
+https://github.com/NightWhistler/PageTurner,net.nightwhistler.pageturner,PageTurner
+https://github.com/nitroshare/nitroshare-android,net.nitroshare.android,NitroShare
+https://github.com/jersten/reminder,net.noio.Reminder,Reminder
+https://github.com/nvllsvm/Audinaut,net.nullsum.audinaut,Audinaut
+https://github.com/romannurik/muzei,net.nurik.roman.muzei,Muzei
+https://github.com/olejon/mdapp-fdroid,net.olejon.mdapp,LegeAppen
+https://github.com/olejon/spotcommander-fdroid,net.olejon.spotcommander,SpotCommander
+https://github.com/OpenArchive/openarchive-android,net.opendasharchive.openarchive.release,OpenArchive
+https://github.com/oschina/android-app,net.oschina.app,开源中国
+https://github.com/osmandapp/Osmand,net.osmand.nauticalPlugin,OsmAnd Nautical
+https://github.com/pagekite/AndroidPageKiteApp,net.pagekite.app,PageKite
+https://github.com/pejic/EasyDice-AndroidAssets,net.pejici.easydice,Easy Dice
+https://github.com/pejic/Summation,net.pejici.summation,Summation
+https://github.com/vIiRuS/Omnomagon,net.pherth.omnomagon,Omnomagon
+https://github.com/phunehehe/fooCam,net.phunehehe.foocam,fooCam beta
+https://github.com/pmarks-net/chromadoze,net.pmarks.chromadoze,Chroma Doze
+https://github.com/segler-alex/RadioDroid,net.programmierecke.radiodroid2,RadioDroid
+https://github.com/ProgVal/AndQuote,net.progval.android.andquote,AndQuote
+https://github.com/ralphje/muzei-unsplash,net.ralphbroenink.muzei.unsplash,Unsplash (Muzei plugin)
+https://github.com/rocboronat/NullBlackWallpaper,net.rocboronat.android.wallpaper.npe,Null Black Wallpaper
+https://github.com/screenfreeze/deskcon-android,net.screenfreeze.deskcon,DeskCon
+https://github.com/balesz/android-WebSearch,net.solutinno.websearch,WebSearch
+https://github.com/AnimeNeko/Atarashii,net.somethingdreadful.MAL,Atarashii!
+https://github.com/stephenjust/stkaddons-viewer,net.stkaddons.viewer,STK Addon Viewer
+https://github.com/sylvek/sharemyposition,net.sylvek.sharemyposition,My position
+https://github.com/syncthing/syncthing-lite,net.syncthing.lite,Syncthing Lite
+https://github.com/SyntaxBlitz/PluckLock,net.syntaxblitz.plucklock,PluckLock
+https://github.com/szym/barnacle,net.szym.barnacle,Barnacle Wifi Tether
+https://github.com/atd/HandyNotes,net.tapi.handynotes,HandyNotes
+https://github.com/tstein/AndroSS,net.tedstein.AndroSS,AndroSS
+https://github.com/teknoraver/andhrystone,net.teknoraver.andhrystone,Andhrystone
+https://github.com/palfrey/postcode,net.tevp.postcode,Postcode
+https://github.com/ethauvin/NoUSSD,net.thauvin.erik.android.noussd,NoUSSD
+https://github.com/tejado/Authorizer,net.tjado.passwdsafe,Authorizer
+https://github.com/blurpy/kouchat-android,net.usikkert.kouchat.android,KouChat
+https://github.com/wiglenet/wigle-wifi-wardriving,net.wigle.wigleandroid,WiGLE WiFi Wardriving FOSS
+https://github.com/oe1rfc/CampFahrplan,net.wireloss.android.fahrplan.pw16,
+https://github.com/xenotropic/quizzn,net.xenotropic.quizznworldcap,Quizz'n World Capitals
+https://github.com/yolosec/routerkeygenAndroid,net.yolosec.routerkeygen2,
+https://github.com/amiryal/misbotheringsms,net.yxejamir.misbotheringsms,Misbothering SMS Receiver
+https://github.com/forman/frex,nf.frex.android,Frex
+https://github.com/niteshpatel/ministocks,nitezh.ministock,Ministocks
+https://github.com/ltGuillaume/DroidShows,nl.asymmetrics.droidshows,DroidShows
+https://github.com/frankkienl/BronyLiveWallpaper,nl.frankkie.bronylivewallpaper,BronyLiveWallpaper
+https://github.com/sanderbaas/rainalarm-android,nl.implode.regenalarm,RainTime
+https://github.com/mpcjanssen/simpletask-android,nl.mpcjanssen.simpletask,Simpletask donation key
+https://github.com/rcgroot/open-gpstracker,nl.sogeti.android.gpstracker,Open GPS Tracker
+https://github.com/roelb/Simple-C25K,nl.ttys0.simplec25k,Simple C25K
+https://github.com/YoeriNijs/NoteBuddy,nl.yoerinijs.notebuddy,NoteBuddy
+https://github.com/salvadorp2001/Inventory_Taker,nodom.darkfm.inventoryguimobile,InventoryGUI Mobile
+https://github.com/Freeyourgadget/Gadgetbridge,nodomain.freeyourgadget.gadgetbridge,Gadgetbridge
+https://github.com/firetech/PactrackDroid,nu.firetech.android.pactrack,PactrackDroid
+https://github.com/firetech/wifiwarning,nu.firetech.android.wifiwarning,WiFi Warning
+https://github.com/miku-nyan/Overchan-Android,nya.miku.wishmaster,Overchan
+https://github.com/ldo/ObjViewer_Android,nz.gen.geek_central.ObjViewer,ObjViewer
+https://github.com/fAndreuzzi/TUI-ConsoleLauncher,ohi.andre.consolelauncher,T-UI
+https://github.com/Ohmnibus/quick-dice-roller,ohm.quickdice,Quick Dice Roller
+https://github.com/openfoodfacts/openfoodfacts-androidapp,openfoodfacts.github.scrachx.openbeauty,Open Beauty Facts
+https://github.com/PuZZleDucK/Orbital-Live-Wallpaper,orbitlivewallpaperfree.puzzleduck.com,OrbitalLiveWallpaper
+https://github.com/shagr4th/droid48,org.ab.x48,Droid48
+https://github.com/AdAway/AdAway,org.adaway,AdAway
+https://github.com/ushahidi/SMSSync,org.addhen.smssync,SMSsync
+https://github.com/AnderWeb/android_packages_apps_Launcher,org.adw.launcher,ADW.Launcher
+https://github.com/daktak/afh_downloader,org.afhdownloader,AFH Downloader
+https://github.com/ajaapps/flightmode,org.aja.flightmode,Flight Mode
+https://github.com/akvo/akvo-rsr-up,org.akvo.rsr.up,Akvo RSR Up
+https://github.com/OpenWatch/OpenWatch-Android,org.ale.openwatch,OpenWatch
+https://github.com/jmschanck/Scanner-For-Zotero,org.ale.scanner.zotero,Scanner For Zotero
+https://github.com/RomanGolovanov/ametro,org.ametro,aMetro
+https://github.com/aminb/mathtools,org.aminb.mathtools.app,MATHTools
+https://github.com/retrobits/son_of_hunkypunk,org.andglkmod.hunkypunk,Hunky Punk
+https://github.com/hmrocha/batterywidget,org.androidappdev.batterywidget,Battery Widget
+https://github.com/hmrocha/wifiwidget,org.androidappdev.wifiwidget,Wi-Fi Widget
+https://github.com/Lesik/open-archnews,org.androidfromfrankfurt.archnews,Linux News
+https://github.com/daktak/androidpn-client,org.androidpn.client,AndroidPN Client
+https://github.com/androidsoft-org/androidsoft-permission,org.androidsoft.app.permission,Permission Friendly Apps
+https://github.com/androidsoft-org/androidsoft-coloring,org.androidsoft.coloring,Coloring for Kids
+https://github.com/androidsoft-org/androidsoft-memory,org.androidsoft.games.memory.kids,Memory
+https://github.com/androidsoft-org/androidsoft-tuxmemory,org.androidsoft.games.memory.tux,Memory
+https://github.com/androidsoft-org/androidsoft-puzzle,org.androidsoft.games.puzzle.kids,Puzzle
+https://github.com/androidsoft-org/androidsoft-slowit,org.androidsoft.games.slowit,Slow It!
+https://github.com/androidsoft-org/androidsoft-remarkable-trees,org.androidsoft.opendata.remarkabletrees,Paris' Remarkable Trees
+https://github.com/andstatus/andstatus,org.andstatus.app,AndStatus
+https://github.com/WhisperSystems/Flock,org.anhonesteffort.flock,Flock
+https://github.com/AntonioRedondo/AnotherMonitor,org.anothermonitor,AnotherMonitor
+https://github.com/yaa110/Effects-Pro,org.appsroid.fxpro,Effects Pro
+https://github.com/ge0rg/aprsdroid,org.aprsdroid.app,APRSdroid
+https://github.com/qqq3/inventum,org.asdtm.fas,Inventum
+https://github.com/qqq3/good-weather,org.asdtm.goodweather,Good Weather
+https://github.com/asnelt/derandom,org.asnelt.derandom,Derandom
+https://github.com/AsteroidOS/AsteroidOSSync,org.asteroidos.sync,AsteroidOS Sync
+https://github.com/aykit/MyOwnNotes,org.aykit.MyOwnNotes,MyOwnNotes
+https://github.com/balau/fakedawn,org.balau.fakedawn,Fake Dawn
+https://github.com/daktak/basketbuild_downloader,org.basketbuilddownloader,BasketBuild Downloader
+https://github.com/sophiehuiberts/Bomber-for-android,org.beide.bomber,Bomber
+https://github.com/beide/Droidgain,org.beide.droidgain,Droidgain
+https://github.com/Berlin-Vegan/berlin-vegan-guide,org.berlin_vegan.bvapp,Berlin-Vegan
+https://github.com/Renard1911/BaiApp,org.bienvenidoainternet.app,Bienvenido a Internet
+https://github.com/billthefarmer/accordion,org.billthefarmer.accordion,Accordion
+https://github.com/billthefarmer/crossword,org.billthefarmer.crossword,Crossword
+https://github.com/billthefarmer/currency,org.billthefarmer.currency,Currency
+https://github.com/billthefarmer/diary,org.billthefarmer.diary,Diary
+https://github.com/billthefarmer/editor,org.billthefarmer.editor,Editor
+https://github.com/billthefarmer/melodeon,org.billthefarmer.melodeon,Melodeon
+https://github.com/billthefarmer/scope,org.billthefarmer.scope,Oscilloscope
+https://github.com/billthefarmer/shorty,org.billthefarmer.shorty,Shorty
+https://github.com/billthefarmer/sig-gen,org.billthefarmer.siggen,Signal Generator
+https://github.com/billthefarmer/tuner,org.billthefarmer.tuner,Tuner
+https://github.com/PrivacyApps/birthday-calendar,org.birthdayadapter,Birthday Adapter
+https://github.com/vocollapse/Blockinger,org.blockinger.game,Blockinger
+https://github.com/blokadaorg/blokada,org.blokada.alarm,
+https://github.com/bobthekingofegypt/BobBall,org.bobstuff.bobball,BobBall
+https://github.com/BombusMod/BombusMod,org.bombusmod,BombusMod
+https://github.com/bottiger/SoundWaves,org.bottiger.podcast,SoundWaves
+https://github.com/BrandroidTools/OpenExplorer,org.brandroid.openmanager,Open Explorer Beta
+https://github.com/c-base/c-beam-droid,org.c_base.c_beam,c-beam
+https://github.com/chrispbailey/ToDo-List-Widget,org.chrisbailey.todo,ToDo List Widget
+https://github.com/ciasaboark/Tacere,org.ciasaboark.tacere,Tacere
+https://github.com/jp-bennett/fwknop2,org.cipherdyne.fwknop2,Fwknop2
+https://github.com/cmotc/RotationLock,org.cmotc.tools.rotationlockpp,Rotation Lock+Landscape
+https://github.com/congresointeractivo/elegilegimobile,org.congresointeractivo.elegilegi,ElegiLegi
+https://github.com/connectbot/connectbot,org.connectbot,ConnectBot
+https://github.com/cprados/wifimatic-android,org.cprados.wificellmanager,Wi-Fi Matic
+https://github.com/creativecommons/list,org.creativecommons.thelist,The List
+https://github.com/chrismiceli/motp,org.cry.otp,mOTP
+https://github.com/cSploit/android,org.csploit.android,cSploit
+https://github.com/elelinux/GreatFreedom,org.cyanogenmod.great.freedom,Great Freedom
+https://github.com/cyngn/OneClickAndroid,org.cyanogenmod.oneclick,CyanogenMod Installer
+https://github.com/CyanogenMod/android_packages_apps_WundergroundWeatherProvider,org.cyanogenmod.wundergroundcmweatherprovider,Weather Underground
+https://github.com/DaylightingSociety/WhereAreTheEyes,org.daylightingsociety.wherearetheeyes,WhereAreTheEyes
+https://github.com/jhmgbl/learnforandroidfragAS,org.de.jmg.learn,Learnforandroid
+https://github.com/eugmes/headingcalculator,org.debian.eugen.headingcalculator,Heading Calculator
+https://github.com/shubhamchaudhary/ccdroid,org.developfreedom.ccdroid.app,CCDroid
+https://github.com/ylogx/wordpowermadeeasy,org.developfreedom.wordpowermadeeasy,Word Power Made Easy
+https://github.com/danielegobbetti/ICSImport,org.dgtale.icsimport,Add to calendar
+https://github.com/Marlinski/Rumble,org.disrupted.rumble,Rumble
+https://github.com/lablogga/DIYgenomics_Android,org.diygenomics.pg,DIYgenomics
+https://github.com/dmfs/opentasks,org.dmfs.tasks,OpenTasks
+https://github.com/dolphin-emu/dolphin,org.dolphinemu.dolphinemu,Dolphin Emulator
+https://github.com/domogik/domodroid,org.domogik.domodroid13,Domodroid
+https://github.com/DoubangoTelecom/imsdroid,org.doubango.imsdroid,IMSDroid
+https://github.com/dpadgett/Timer,org.dpadgett.timer,Timer
+https://github.com/yanchenko/droidparts-battery-widget,org.droidparts.battery_widget,Battery Widget
+https://github.com/trishika/DroidUPnP,org.droidupnp,DroidUPnP
+https://github.com/dsandler/markers,org.dsandler.apps.markers,Markers
+https://github.com/durka/HallMonitor,org.durka.hallmonitor,Hall Monitor
+https://github.com/dynalogin/dynalogin-android,org.dynalogin.android,dynalogin
+https://github.com/gsimon75/compass-keyboard,org.dyndns.fules.ck,Compass Keyboard
+https://github.com/EFForg/actioncenter-mobile,org.eff.actioncenter,
+https://github.com/emergentdotorg/shaman,org.emergent.android.weave,Shaman
+https://github.com/btimofeev/UniPatcher,org.emunix.unipatcher,UniPatcher
+https://github.com/youngj/EnvayaSMS,org.envaya.sms,EnvayaSMS
+https://github.com/mannd/epmobile,org.epstudios.epmobile,EP Mobile
+https://github.com/mannd/morbidmeter-android,org.epstudios.morbidmeter,MorbidMeter
+https://github.com/equeim/tremotesf-android,org.equeim.tremotesf,Tremotesf
+https://github.com/estearg/android-piano,org.esteban.piano,Piano
+https://github.com/EthACKdotOrg/orWall,org.ethack.orwall,orWall
+https://github.com/Exodus-Privacy/exodus-android-app,org.eu.exodus_privacy.exodusprivacy,Exodus Privacy
+https://github.com/devonjones/PathfinderOpenReference,org.evilsoft.pathfinder.reference,Masterwork Tools: Pathfinder Open Reference
+https://github.com/Kwamecorp/Fairphone,org.fairphone.launcher,Fairphone OS
+https://github.com/Free-Software-for-Android/FasterGPS,org.fastergps,FasterGPS
+https://github.com/n76/DejaVu,org.fitchfamily.android.dejavu,Déjà Vu Location Service
+https://github.com/n76/Local-GSM-Backend,org.fitchfamily.android.gsmlocation,GSM Location Service
+https://github.com/n76/Symphony,org.fitchfamily.android.symphony,Symphony
+https://github.com/n76/wifi_backend,org.fitchfamily.android.wifi_backend,WiFi Location Service
+https://github.com/Floens/Clover,org.floens.chan,Clover
+https://github.com/flyve-mdm/android-inventory-agent,org.flyve.inventory.agent,Inventory
+https://github.com/orrc/fosdem-android,org.fosdem,FOSDEM
+https://github.com/fossasia/open-event-android,org.fossasia.openevent,Open Event
+https://github.com/fossasia/pslab-android,org.fossasia.pslab,PSLab
+https://github.com/gothfox/Tiny-Tiny-IRC-for-Honeycomb,org.fox.ttirc,Tiny Tiny IRC
+https://github.com/gothfox/Tiny-Tiny-RSS-for-Honeycomb,org.fox.ttrss,Tiny Tiny RSS
+https://github.com/freeminer/freeminer,org.freeminer.freeminer,
+https://github.com/Alkarex/EasyRSS,org.freshrss.easyrss,EasyRSS
+https://github.com/derpeter/FrOSCon,org.froscon.schedule,FrOSCon
+https://github.com/gateship-one/odyssey,org.gateshipone.odyssey,Odyssey
+https://github.com/gggard/AndroidCaldavSyncAdapater,org.gege.caldavsyncadapter,CalDAV Sync Adapter
+https://github.com/geometer/FBReaderJ-plugin-local-opds-scanner,org.geometerplus.fbreader.plugin.local_opds_scanner,FBReader Calibre connector
+https://github.com/geometer/FBReaderJ-plugin-tts,org.geometerplus.fbreader.plugin.tts,FBReader TTS plugin
+https://github.com/geometer/FBReaderJ,org.geometerplus.zlibrary.ui.android,FBReader
+https://github.com/rtreffer/LocalGSMLocationProvider,org.gfd.gsmlocation,GSMLocationBackend
+https://github.com/nicolas-raoul/OxygenGuide-Android,org.github.OxygenGuide,Wikivoyage offline
+https://github.com/Gittner/OSMBugs,org.gittner.osmbugs,OSMBugs
+https://github.com/Glucosio/glucosio-android,org.glucosio.android,Glucosio
+https://github.com/codinguser/gnucash-android,org.gnucash.android,GnuCash
+https://github.com/oaken-source/exceer,org.grapentin.apps.exceer,Exceer
+https://github.com/gringer/ColourClock,org.gringene.colourclock,Colour Clock
+https://github.com/gringer/ConcentricClock,org.gringene.concentricclock,Concentric Clock
+https://github.com/shinohane/onscripter,org.hanenoshino.onscripter,
+https://github.com/evgenyzinoviev/gravitydefied,org.happysanta.gd,Gravity Defied
+https://github.com/guardianproject/haven,org.havenapp.main,Haven
+https://github.com/esahekmat/ChessWatch,org.hekmatof.chesswatch,ChessWatch
+https://github.com/herrlado/GeorgianFonts,org.herrlado.geofonts,Georgian Fonts Installer
+https://github.com/bfix/ringcode-android,org.hoi_polloi.android.ringcode,RingCode
+https://github.com/holylobster/nuntius-android,org.holylobster.nuntius,Nuntius
+https://github.com/richsmith/sexytopo,org.hwyl.sexytopo,SexyTopo
+https://github.com/icasdri/Mather,org.icasdri.mather,Mather
+https://github.com/iilab/openmentoring-mobile,org.iilab.openmentoring,openmentoring-mobile
+https://github.com/iilab/PanicButton,org.iilab.pb,Calculate!
+https://github.com/indywidualny/FaceSlim,org.indywidualni.fblite,Face Slim
+https://github.com/iSoron/uhabits,org.isoron.uhabits,Habits
+https://github.com/Tishka17/Point.im-Android,org.itishka.pointim,Point.im
+https://github.com/julian-klode/dns66,org.jak_linux.dns66,DNS66
+https://github.com/jamienicol/episodes,org.jamienicol.episodes,Episodes
+https://github.com/GroundApps/ShoppingList,org.janb.shoppinglist,ShoppingList
+https://github.com/JesusFreke/Penroser,org.jf.Penroser,Penroser
+https://github.com/videogameboy76/frozenbubbleandroid,org.jfedor.frozenbubble,Frozen Bubble
+https://github.com/jfedor2/nxt-remote-control,org.jfedor.nxtremotecontrol,NXT Remote Control
+https://github.com/kwantam/batsHIIT,org.jfet.batsHIIT,Bats! HIIT
+https://github.com/js-labs/ShellsMP,org.jsl.shmp,ShellsMP
+https://github.com/js-labs/WalkieTalkie,org.jsl.wfwt,WiFi Walkie Talkie
+https://github.com/blastrock/kaqui,org.kaqui,KaQui
+https://github.com/nciric/NDFilter,org.kaziprst.android.ndfilter,ND Filter
+https://github.com/kiwix/kiwix-xulrunner,org.kiwix.kiwixmobile,Kiwix
+https://github.com/KOBUGE-Games/Ninja-Training,org.kobuge.ninjatraining,
+https://github.com/kontalk/androidclient,org.kontalk,Kontalk
+https://github.com/konradrenner/kolabnotes-android,org.kore.kolabnotes.android,Kolab Notes
+https://github.com/kost/external-ip,org.kost.externalip,External IP
+https://github.com/kost/NetworkMapper,org.kost.nmap.android.networkmapper,NetworkMapper
+https://github.com/kreed/vanilla,org.kreed.vanilla,Vanilla Music
+https://github.com/316k/android-fortune,org.legtux.m_316k.fortune,Fortunes
+https://github.com/316k/android-tap-the-black-tiles,org.legtux.m_316k.taptheblacktiles,Tap the black tiles
+https://github.com/lenchan139/NCBookmark,org.lenchan139.ncbookmark,NC Bookmark Viewer
+https://github.com/PGPAuth/PGPAuth_Android,org.lf_net.pgpunlocker,PGPAuth
+https://github.com/helloworld1/AnyMemo,org.liberty.android.fantastischmemo,AnyMemo
+https://github.com/helloworld1/FreeOTPPlus,org.liberty.android.freeotpplus,FreeOTP Plus
+https://github.com/LibreSignal/LibreSignal,org.libresignal,LibreSignal
+https://github.com/ligi/AJShA,org.ligi.ajsha,AJShA Android Java Shell App
+https://github.com/ligi/BLExplorer,org.ligi.blexplorer,BLExplorer
+https://github.com/ligi/etheremote,org.ligi.etheremote,ΞtheRemotΞ
+https://github.com/ligi/CampFahrplan,org.ligi.fahrplan,33c3 FahrPlan
+https://github.com/ligi/FAST,org.ligi.fast,FAST App Search Tool
+https://github.com/ligi/gobandroid,org.ligi.gobandroid_hd,Gobandroid
+https://github.com/ligi/IPFSDroid,org.ligi.ipfsdroid,IPFSDroid
+https://github.com/ligi/MaterialTeaTimer,org.ligi.materialteatimer,Material Tea Timer
+https://github.com/ligi/PassAndroid,org.ligi.passandroid,PassAndroid
+https://github.com/ligi/SatoshiProof,org.ligi.satoshiproof,Satoshi Proof
+https://github.com/ligi/SCR,org.ligi.scr,33c3 SCR
+https://github.com/ligi/Solar-Activity-Monitor,org.ligi.solar_activity_monitor,Solar Activity Monitor
+https://github.com/ligi/SurvivalManual,org.ligi.survivalmanual,Survival Manual
+https://github.com/ligi/VaporizerControl,org.ligi.vaporizercontrol,Vaporizer Control Crafty
+https://github.com/jagossel/MovingPolygons,org.logicallycreative.movingpolygons,Moving Polygons
+https://github.com/shlomif/PySolFC,org.lufebe16.pysolfc,
+https://github.com/opentelecoms-org/lumicall,org.lumicall.android,Lumicall
+https://github.com/marcus905/android-wifi-ace,org.marcus905.wifi.ace,WiFi Advanced Configuration Editor
+https://github.com/mariotaku/twidere.extension.twitlonger,org.mariotaku.twidere.extension.twitlonger,Twidere TwitLonger Extension
+https://github.com/TwidereProject/Twidere-Android,org.mariotaku.twidere,Twidere
+https://github.com/benetech/Martus-Project,org.martus.android,Martus
+https://github.com/materialos/android-icon-pack,org.materialos.icons,MaterialOS
+https://github.com/MBach/LeMondeRssReader,org.mbach.lemonde,LeMonde
+https://github.com/ianmcxa/vortaro,org.mcxa.vortaro,Senreta Vortaro
+https://github.com/ianmcxa/ZephyrLogger,org.mcxa.zephyrlogger,ZephyrLogger
+https://github.com/john-tornblom/TVHGuide,org.me.tvhguide,TVHGuide
+https://github.com/MBach/AutoAirplaneMode,org.miamplayer.autoairplanemode,Auto Airplane Mode
+https://github.com/MichaelEvans/NightModeEnabler,org.michaelevans.nightmodeenabler,Night Mode Enabler
+https://github.com/microg/AppleWifiNlpBackend,org.microg.nlp.backend.apple,Apple UnifiedNlp Backend
+https://github.com/microg/IchnaeaNlpBackend,org.microg.nlp.backend.ichnaea,Mozilla UnifiedNlp Backend
+https://github.com/microg/NominatimGeocoderBackend,org.microg.nlp.backend.nominatim,Nominatim Geocoder Backend
+https://github.com/microg/OpenWlanMapNlpBackend,org.microg.nlp.backend.openwlanmap,OpenWlanMapNlpBackend
+https://github.com/ogarcia/opensudoku,org.moire.opensudoku,Open Sudoku
+https://github.com/ultrasonic/ultrasonic,org.moire.ultrasonic,UltraSonic
+https://github.com/mmathieum/montrealtransit-for-android,org.montrealtransit.android.schedule.stmbus,
+https://github.com/moparisthebest/AppBak,org.moparisthebest.appbak,AppBak
+https://github.com/moparisthebest/PagePlusBalance,org.moparisthebest.pageplus,Page Plus Balance
+https://github.com/teneighty/moss,org.mosspaper,Moss
+https://github.com/mozilla-mobile/focus-android,org.mozilla.klar,Firefox Focus
+https://github.com/mozilla/MozStumbler,org.mozilla.mozstumbler,Mozilla Stumbler
+https://github.com/mrpdaemon/encdroid,org.mrpdaemon.android.encdroid,Encdroid
+https://github.com/kromonos/Mustard-Mod,org.mumod.android,Mustard {MOD}
+https://github.com/mupen64plus-ae/mupen64plus-ae,org.mupen64plusae.v3.alpha,Mupen64Plus
+https://github.com/phw/PicardBarcodeScanner,org.musicbrainz.picard.barcodescanner,Picard Barcode Scanner
+https://github.com/mysociety/fixmystreet-mobile,org.mysociety.FixMyStreet,FixMyStreet
+https://github.com/marfnk/sosmobileclient,org.n52.sosmobileclient,MobileSWC
+https://github.com/nathanpc/Build.prop-Editor,org.nathan.jf.build.prop.editor,build.prop Editor
+https://github.com/navit-gps/navit,org.navitproject.navit,
+https://github.com/nekromant/NetTTS,org.ncrmnt.nettts,Necromant's NetTTS
+https://github.com/skjolber/ndef-tools-for-android,org.ndeftools.boilerplate,NDEF Tools for Android
+https://github.com/nelenkov/cryptfs-password-manager,org.nick.cryptfs.passwdmanager,Cryptfs Password
+https://github.com/nelenkov/wwwjdic,org.nick.wwwjdic,WWWJDIC for Android
+https://github.com/paride/CopperPDF,org.ninthfloor.copperpdf,CuprumPDF
+https://github.com/free-software-for-android/NTPSync,org.ntpsync,NTPSync
+https://github.com/numixproject/org.numixproject.iconsubmit,org.numixproject.iconsubmit,Icon Request for Numix
+https://github.com/nutritionfactsorg/daily-dozen-android,org.nutritionfacts.dailydozen,Daily Dozen
+https://github.com/nv95/OpenManga,org.nv95.openmanga,OpenManga
+https://github.com/OGRECave/ogre,org.ogre.browser,
+https://github.com/okfn/product-browser-android,org.okfn.pod,Product Open Data
+https://github.com/rnauber/pipepanic-android,org.olgsoft.apipepanic,PipePanic
+https://github.com/llaske/sugarizer_android_build,org.olpc_france.sugarizer,Sugarizer
+https://github.com/openbmap/radiocells-scanner-android,org.openbmap,RadioBeacon
+https://github.com/openbmap/radiocells-nlp-android,org.openbmap.unifiedNlp,org.openbmap.unifiedNlpProvider
+https://github.com/DroidPHP/DroidPHP,org.opendroidphp,DroidPHP
+https://github.com/EchoSystem-CH/openfoodfacts-android,org.openfoodfacts.scanner,Open Food Facts
+https://github.com/daktak/opengapps_downloader,org.opengappsdownloader,OpenGapps Downloader
+https://github.com/openhab/openhab-android,org.openhab.habdroid.beta,
+https://github.com/openintents/aboutapp,org.openintents.about,OI About
+https://github.com/openintents/filemanager,org.openintents.filemanager,OI File Manager
+https://github.com/openintents/flashlight,org.openintents.flashlight,OI Flashlight
+https://github.com/openintents/notepad,org.openintents.notepad,OI Notepad
+https://github.com/openintents/safe,org.openintents.safe,OI Safe
+https://github.com/openintents/shoppinglist,org.openintents.shopping,Shopping
+https://github.com/TheTorProject/ooniprobe-android,org.openobservatory.ooniprobe,OONI Probe
+https://github.com/OpenOrienteering/mapper,org.openorienteering.mapper,OpenOrienteering
+https://github.com/fossasia/ots15-companion,org.opentech,OpenTechSummit
+https://github.com/osmdroid/osmdroid,org.osmdroid,OpenStreetMap
+https://github.com/pacien/tincapp,org.pacien.tincapp,Tinc
+https://github.com/JohnLines/mediclog,org.paladyn.mediclog,Medic Log
+https://github.com/tasermonkey/android-passwordmaker,org.passwordmaker.android,PasswordMaker Pro
+https://github.com/paulmach/Text-Edit-for-Android,org.paulmach.textedit,Text Edit
+https://github.com/phuang/RotationLock,org.penghuang.tools.rotationlock,Rotation Lock
+https://github.com/peterosterlund2/droidfish,org.petero.droidfish,DroidFish
+https://github.com/Dariasteam/Cows-Revenge,org.pipoypipagames.cows_revenge.id,
+https://github.com/piwik/piwik-mobile-2,org.piwik.mobile2,
+https://github.com/gilbsgilbs/freemobilenetstat,org.pixmob.freemobile.netstat,Free Mobile Netstat
+https://github.com/klausw/hackerskeyboard,org.pocketworkstation.pckeyboard,Hacker's Keyboard
+https://github.com/Vilbrekin/tinc_gui,org.poirsouille.tinc_gui,Tinc
+https://github.com/fistons/TinyTinyFeed,org.poopeeland.tinytinyfeed,Tiny Tiny Feed
+https://github.com/hrydgard/ppsspp,org.ppsspp.ppsspp,PPSSPP
+https://github.com/wolpi/prim-ftpd,org.primftpd,primitive ftpd
+https://github.com/project-voodoo/audio-measurements-player-app,org.projectvoodoo.audiomeasurementsplayer,Voodoo Audio Measurements Player
+https://github.com/project-voodoo/ota-rootkeeper-app,org.projectvoodoo.otarootkeeper,Voodoo OTA RootKeeper
+https://github.com/project-voodoo/screen-test-patterns-app,org.projectvoodoo.screentestpatterns,Voodoo Screen Test Patterns
+https://github.com/project-voodoo/simple_carrieriq_detector_app,org.projectvoodoo.simplecarrieriqdetector,Voodoo CarrierIQ Detector
+https://github.com/pyload/pyload-android,org.pyload.android.client,pyLoad
+https://github.com/emdete/tabulae,org.pyneo.maps,Tabulae
+https://github.com/qii/weiciyuan,org.qii.weiciyuan,四次元
+https://github.com/QuantumBadger/RedReader,org.quantumbadger.redreader,RedReader
+https://github.com/posm/OpenMapKitAndroid,org.redcross.openmapkit,OpenMapKit
+https://github.com/RetroShare/RetroShare,org.retroshare.android.qml_app,RetroShare
+https://github.com/RMLL/droidrmll,org.rmll,RMLL/LSM
+https://github.com/jonasoreland/runnerup,org.runnerup,
+https://github.com/SaferMobile/intheclear,org.safermobile.intheclear,InTheClear
+https://github.com/sagemath/android,org.sagemath.droid,Sage
+https://github.com/TeamNewPipe/NewPipe,org.schabi.newpipe,NewPipe
+https://github.com/TeamNewPipe/ShareWithNewPipe,org.schabi.sharewithnewpipe,Share With NewPipe
+https://github.com/gkalab/scidonthego,org.scid.android,Scid on the go
+https://github.com/scoutant/blokish,org.scoutant.blokish,Blokish
+https://github.com/scoutant/rpn,org.scoutant.rpn,RPN
+https://github.com/scummvm/scummvm,org.scummvm.scummvm,
+https://github.com/marcoM32/SeaMapDroid,org.seamapdroid,SeaMapDroid
+https://github.com/SecUSo/privacy-friendly-pedometer,org.secuso.privacyfriendlyactivitytracker,Pedometer
+https://github.com/SecUSo/privacy-friendly-werewolf,org.secuso.privacyfriendlycardgameone,Werewolf
+https://github.com/SecUSo/privacy-friendly-dame,org.secuso.privacyfriendlydame,Checkers
+https://github.com/SecUSo/privacy-friendly-dicer,org.secuso.privacyfriendlydicer,Dicer
+https://github.com/SecUSo/privacy-friendly-interval-timer,org.secuso.privacyfriendlyintervaltimer,Interval Timer
+https://github.com/SecUSo/privacy-friendly-ludo,org.secuso.privacyfriendlyludo,Ludo
+https://github.com/SecUSo/privacy-friendly-memo-game,org.secuso.privacyfriendlymemory,Memo Game
+https://github.com/SecUSo/privacy-friendly-netmonitor,org.secuso.privacyfriendlynetmonitor,Net Monitor
+https://github.com/SecUSo/privacy-friendly-notes,org.secuso.privacyfriendlynotes,Notes
+https://github.com/SecUSo/privacy-friendly-pain-diary,org.secuso.privacyfriendlypaindiary,Pain Diary
+https://github.com/SecUSo/privacy-friendly-passwordgenerator,org.secuso.privacyfriendlypasswordgenerator,Password Generator
+https://github.com/SecUSo/privacy-friendly-pin-mnemonic,org.secuso.privacyfriendlypin,PIN Mnemonic
+https://github.com/SecUSo/privacy-friendly-reckoning-skills,org.secuso.privacyfriendlyrecknoningskills,Reckoning Skills
+https://github.com/SecUSo/privacy-friendly-ruler,org.secuso.privacyfriendlyruler,Ruler
+https://github.com/SecUSo/privacy-friendly-sudoku,org.secuso.privacyfriendlysudoku,Sudoku
+https://github.com/SecUSo/privacy-friendly-todo-list,org.secuso.privacyfriendlytodolist,To-Do List
+https://github.com/SecUSo/privacy-friendly-weather,org.secuso.privacyfriendlyweather,Weather
+https://github.com/SecUSo/privacy-friendly-dice-game,org.secuso.privacyfriendlyyahtzeedicer,Dice Game
+https://github.com/segin/BFInterpreter,org.segin.bfinterpreter,BF Interpreter
+https://github.com/segin/TTLEditor,org.segin.ttleditor,TTL Editor
+https://github.com/SensorApps/Sensors2OSC,org.sensors2.osc,Sensors2OSC
+https://github.com/SensorApps/Sensors2Pd,org.sensors2.pd,Sensors2Pd
+https://github.com/joanpuigsanz/servdroid,org.servDroid.web,ServDroid
+https://github.com/servalproject/ServalMaps,org.servalproject.maps,Serval Maps
+https://github.com/servalproject/batphone,org.servalproject,Serval Mesh
+https://github.com/andOTP/andOTP,org.shadowice.flocke.andotp,andOTP
+https://github.com/Shirakumo/ocelot,org.shirakumo.ocelot,Ocelot
+https://github.com/PrivacyApps/calendar-contacts-shortcuts,org.shortcuts,Shortcuts for Calendar/Contacts
+https://github.com/Buttink/sick-stache,org.sickstache,SickStache
+https://github.com/i-p-tel/sipdroid,org.sipdroid.sipua,Sipdroid
+https://github.com/smblott-github/intent_radio,org.smblott.intentradio,IntentRadio
+https://github.com/Smerty/zooborns.android,org.smerty.zooborns,ZooBorns
+https://github.com/SilenceIM/Silence,org.smssecure.smssecure,Silence
+https://github.com/Softcatala/TraductorSoftcatalaAndroid,org.softcatala.traductor,Traductor Softcatalà
+https://github.com/slartus/4pdaClient-plus,org.softeg.slartus.forpdaplus,ForPDA
+https://github.com/sorz/TinyKeePass,org.sorz.lab.tinykeepass,TinyKeePass
+https://github.com/NewProggie/SparkleShare-Android,org.sparkleshare.android,SparkleShare
+https://github.com/huckleberrypie/pollywog,org.strawberryforum.pollywog,Pollywog
+https://github.com/sudowars/sudowars,org.sudowars,Sudowars
+https://github.com/SufficientlySecure/calendar-import-export,org.sufficientlysecure.ical,Calendar Import-Export
+https://github.com/open-keychain/open-keychain,org.sufficientlysecure.keychain,OpenKeychain
+https://github.com/SufficientlySecure/offline-calendar,org.sufficientlysecure.localcalendar,Offline Calendar
+https://github.com/free-software-for-android/Standalone-Calendar,org.sufficientlysecure.standalonecalendar,Standalone Calendar
+https://github.com/open-keychain/termbot,org.sufficientlysecure.termbot,TermBot
+https://github.com/SufficientlySecure/document-viewer-fontpack,org.sufficientlysecure.viewer.fontpack,DV FontPack
+https://github.com/SufficientlySecure/document-viewer,org.sufficientlysecure.viewer,Document Viewer
+https://github.com/urandom/gearshift,org.sugr.gearshift,Gear Shift
+https://github.com/supertuxkart/stk-code,org.supertuxkart.stk,SuperTuxKart
+https://github.com/gsurrel/FacebookNotifications,org.surrel.facebooknotifications,Notifications for Facebook
+https://github.com/gsurrel/MessengerBypasser,org.surrel.messengerbypasser,Messenger bypasser
+https://github.com/Sw24Softwares/StarkeVerben,org.sw24softwares.starkeverben,Starke Verben
+https://github.com/symless/synergy-cyanogen,org.synergy,Synergy
+https://github.com/rengolin/cardgamescores,org.systemcall.scores,Card Game Scores
+https://github.com/Kadabash/SyncOnWifi,org.t2.synconwifi,SyncOnWifi
+https://github.com/lllllT/AtmosphereLogger,org.tamanegi.atmosphere,AtmosphereLogger
+https://github.com/lllllT/MultiPictureLiveWallpaper,org.tamanegi.wallpaper.multipicture.dnt,MultiPicture Live Wallpaper (donation)
+https://github.com/tasks/tasks,org.tasks,Tasks
+https://github.com/Telegram-FOSS-Team/Telegram-FOSS,org.telegram.messenger,Telegram
+https://github.com/kconger/org.thecongers.mtpms,org.thecongers.mtpms,mTPMS
+https://github.com/thialfihar/apg,org.thialfihar.android.apg,APG
+https://github.com/thuryn/your-local-weather,org.thosp.yourlocalweather,Your local weather
+https://github.com/WhisperSystems/Signal-Android,org.thoughtcrime.securesms,Signal
+https://github.com/TilelessMap/TilelessMap,org.tilelessmap.app,TilelessMap
+https://github.com/Anasthase/TintBrowserAdblockAddon,org.tint.adblock,Tint Browser Adblock Addon
+https://github.com/Anasthase/TintBrowser,org.tint,Tint Browser
+https://github.com/Plux7MMxGiLYmoJY/presentationtimer-android,org.tmurakam.presentationtimer,Presentation Timer
+https://github.com/mtotschnig/MyExpenses,org.totschnig.myexpenses,${appName}
+https://github.com/mtotschnig/SendWithFtp,org.totschnig.sendwithftp,Send With FTP
+https://github.com/capitoledulibre/cdl-companion-android,org.toulibre.capitoledulibre,Capitole du Libre
+https://github.com/toulibre/cdl-companion-android,org.toulibre.cdl,
+https://github.com/traccar/traccar-client-android,org.traccar.client,Traccar Client
+https://github.com/erickok/transdroid,org.transdroid.full,ColorPickerPreference
+https://github.com/erickok/transdroid-search,org.transdroid.search,Torrent Search (by Transdroid)
+https://github.com/nilsbraden/ttrss-reader-fork,org.ttrssreader,TTRSS-Reader
+https://github.com/tux4kids/Tuxpaint-Android,org.tuxpaint,Tux Paint
+https://github.com/ds10git/tvbrowserandroid,org.tvbrowser.tvbrowser,TV-Browser
+https://github.com/andviane/prism,org.us.andriod,Prism
+https://github.com/valos/Isolmoa,org.valos.isolmoa,Isolmoa
+https://github.com/vi/redscreen.apk,org.vi_server.red_screen,RedScreenActivity
+https://github.com/err4nt/SwpieView,org.voidptr.swpieview,SwpieView
+https://github.com/marunjar/anewjkuapp,org.voidsink.anewjkuapp,JKU App
+https://github.com/Zanshinmu/Wifi-Fixer,org.wahtod.wififixer,Wifi Fixer
+https://github.com/walleth/walleth,org.walleth,WallΞTH
+https://github.com/kogmbh/WebODF,org.webodf,WebODF
+https://github.com/sozialhelden/wheelmap-android,org.wheelmap.android.online,Wheelmap
+https://github.com/whitequark/SIPCaller,org.whitequark.sipcaller,SIP Caller
+https://github.com/wikimedia/WLMMobile,org.wikilovesmonuments,Wiki Loves Monuments
+https://github.com/ebraminio/WikimediaCommonsForMuzei,org.wikimedia.commons.muzei,Wikimedia Commons for Muzei (extension)
+https://github.com/wikimedia/apps-android-commons,org.wikimedia.commons,Wikimedia Commons
+https://github.com/wikimedia/apps-android-wikipedia,org.wikipedia,Wikipedia
+https://github.com/wikimedia/WiktionaryMobile,org.wiktionary,Wiktionary
+https://github.com/wingy/Exodus,org.wingy.chan,Exodus
+https://github.com/guardianproject/InformaCam,org.witness.informacam,InformaCam
+https://github.com/guardianproject/ObscuraCam,org.witness.sscphase1,ObscuraCam
+https://github.com/irssiconnectbot/irssiconnectbot,org.woltage.irssiconnectbot,Irssi ConnectBot
+https://github.com/wordpress-mobile/WordPress-Android,org.wordpress.android,WordPress
+https://github.com/jseidl/GoldenEye-Mobile,org.wroot.android.goldeneye,GoldenEye
+https://github.com/freezy/android-xbmcremote,org.xbmc.android.remote,XBMC Remote
+https://github.com/xbmc/Kore,org.xbmc.kore,Kore
+https://github.com/XCSoar/XCSoar,org.xcsoar,XCSoar
+https://github.com/daktak/xposed_downloader,org.xposeddownloader,Xposed Downloader
+https://github.com/y20k/trackbook,org.y20k.trackbook,Trackbook
+https://github.com/y20k/transistor,org.y20k.transistor,Transistor
+https://github.com/pocmo/Yaaic,org.yaaic,Yaaic
+https://github.com/pfleidi/yaxim,org.yaxim.androidclient,yaxim
+https://github.com/yuttadhammo/BodhiTimer,org.yuttadhammo.BodhiTimer,Bodhi Timer
+https://github.com/yuttadhammo/E-Tipitaka-for-Android,org.yuttadhammo.tipitaka,Android Tipitaka
+https://github.com/zaki50/MemoPad,org.zakky.memopad,MemoPad
+https://github.com/restorer/gloomy-dungeons-3d,org.zamedev.gloomydungeons1hardcore.opensource,
+https://github.com/restorer/gloomy-dungeons-2,org.zamedev.gloomydungeons2.opensource,
+https://github.com/mathisdt/checknetwork,org.zephyrsoft.checknetwork,Check Network
+https://github.com/mathisdt/trackworktime,org.zephyrsoft.trackworktime,Track Work Time
+https://github.com/1C3/ICEcons,ovh.ice.icecons,ICEcons
+https://github.com/paulscode/mupen64plus-ae,paulscode.android.mupen64plusae,Mupen64 Plus AE
+https://github.com/vomitcuddle/nori,pe.moe.nori,Nori
+https://github.com/goexle/peanutEncryption,peanutencryption.peanutencryption,Peanut Encryption
+https://github.com/hypeapps/Endoscope,pl.hypeapp.endoscope,Endoscope
+https://github.com/hypeapps/episodie,pl.hypeapp.episodie,Episodie
+https://github.com/shymmq/librus-client,pl.librus.client,Dziennik
+https://github.com/mateuszbuda/ThermometerExtended2,pl.narfsoftware.thermometer,Thermometer Extended
+https://github.com/mateusz-szafraniec/NFC-Key,pl.net.szafraniec.NFCKey,NFC Key
+https://github.com/mateusz-szafraniec/NFCTagmaker,pl.net.szafraniec.NFCTagmaker,NFC Tag maker
+https://github.com/JSandomierz/pcis,pl.sanszo.pcis,Poland can into Space
+https://github.com/Strimoid/Lara,pl.strimoid.lara,Strimoid
+https://github.com/ninelima/kwikEFIS,player.efis.data.eur.rus,Kwik DataPac (eur.rus)
+https://github.com/0xPoly/Strongbox,poly.darkdepths.strongbox,Strongbox
+https://github.com/tillwoerner/BrightnessWidget,priv.twoerner.brightnesswidget,Brightness Widget
+https://github.com/SecUSo/privacy-friendly-shopping-list,privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist,Shopping List
+https://github.com/OnlyInAmerica/BART,pro.dbro.bart,Open BART
+https://github.com/OnlyInAmerica/OpenSpritz-Android,pro.dbro.openspritz,Glance
+https://github.com/tsapree/L9Droid,pro.oneredpixel.l9droid,L9Droid
+https://github.com/Rudloff/openvegemap-cordova,pro.rudloff.openvegemap,OpenVegeMap
+https://github.com/Rudloff/PaperCraft,pro.rudloff.papercraft,PaperCraft
+https://github.com/brarcher/protect-baby-monitor,protect.babymonitor,Protect Baby Monitor
+https://github.com/brarcher/baby-sleep-sounds,protect.babysleepsounds,Baby Sleep Sounds
+https://github.com/brarcher/budget-watch,protect.budgetwatch,Budget Watch
+https://github.com/brarcher/loyalty-card-locker,protect.card_locker,Loyalty Card Keychain
+https://github.com/brarcher/gift-card-guard,protect.gift_card_guard,Gift Card Guard
+https://github.com/brarcher/rental-calc,protect.rentalcalc,Rental Calc
+https://github.com/brarcher/video-transcoder,protect.videoeditor,Video Transcoder
+https://github.com/joaomneto/TitanCompanion,pt.joaomneto.titancompanion,Titan Companion
+https://github.com/mosmetro-android/mosmetro-android,pw.thedrhax.mosmetro,Moscow Wi-Fi autologin
+https://github.com/playmusicexporter/playmusicexporter,re.jcg.playmusicexporter,Play Music Exporter
+https://github.com/RinatKurmaev/Tether-companion,rino.org.tethercompanion,Tether companion
+https://github.com/rkkr/simple-keyboard,rkr.simplekeyboard.inputmethod,Simple Keyboard
+https://github.com/ciubex/dscautorename,ro.ciubex.dscautorename,DSC Auto Rename
+https://github.com/MihaiBalint/TimisoaraPublicTransport,ro.mihai.tpt,Public Transport Timisoara
+https://github.com/loadrunner/Facebook-Contact-Sync,ro.weednet.contactssync,UberSync for Facebook
+https://github.com/pedja1/aLogcatRoot,rs.pedjaapps.alogcatroot.app,aLogcat ROOT
+https://github.com/bronydell/Android-MGKEapp,ru.equestriadev.mgke,Расписание МГКЭ
+https://github.com/EXL/Snooder21,ru.exlmoto.snood21,Snooder 21
+https://github.com/glesik/nostrangersms,ru.glesik.nostrangersms,No Stranger SMS
+https://github.com/HenriDellal/emerald,ru.henridellal.emerald,Emerald Launcher
+https://github.com/meefik/busybox,ru.meefik.busybox,BusyBox
+https://github.com/meefik/tzupdater,ru.meefik.tzupdater,Timezone Updater
+https://github.com/sergey-tuzlukov/WeatherLogAndroid,ru.moscow.tuzlukov.sergey.weatherlog,WeatherLog
+https://github.com/yankovskiy/SilentNight,ru.neverdark.silentnight,Silent Night
+https://github.com/o2genum/CoreGame,ru.o2genum.coregame,Core
+https://github.com/nikita36078/J2ME-Loader,ru.playsoftware.j2meloader,J2ME Loader
+https://github.com/2Ra66it/updater-for-spotify,ru.ra66it.updaterforspotify,Updater for Spotify
+https://github.com/Sash0k/bluetooth-spp-terminal,ru.sash0k.bluetooth_terminal,Bluetooth terminal
+https://github.com/subprogram/ParanoidSmsBlocker,ru.subprogram.paranoidsmsblocker,Paranoid Sms Blocker
+https://github.com/ValleZ/Paper-Wallet,ru.valle.btc,Paper Wallet
+https://github.com/zxalexis/guess,ru.zxalexis.ugaday,Guess
+https://github.com/illarionov/RtkGps,ru0xdc.rtkgps,RtkGps
+https://github.com/renyuneyun/CamCov,ryey.camcov,CamCov
+https://github.com/renyuneyun/Easer,ryey.easer,Easer
+https://github.com/renyuneyun/FLock,ryey.flock,FLock
+https://github.com/saschpe/BirthdayCalendar,saschpe.contactevents,Birthday Calendar
+https://github.com/saschpe/PlanningPoker,saschpe.poker,
+https://github.com/Nyubis/Pomfshare,science.itaintrocket.pomfshare,Pomfshare
+https://github.com/nadam/nfc-reader,se.anyro.nfc_reader,NFC Reader
+https://github.com/MaTachi/geometri-destroyer,se.danielj.geometridestroyer,Geometri Destroyer
+https://github.com/mikljohansson/retroboy,se.embargo.retroboy,Retroboy
+https://github.com/johanhil/copy-to-clipboard,se.johanhil.clipboard,Copy to Clipboard
+https://github.com/johanhil/ddg-android,se.johanhil.duckduckgo,Duck Duck Go
+https://github.com/norenh/RKFRead,se.norenh.rkfread,RKFRead
+https://github.com/zeldin/Gerberoid,se.pp.mc.android.Gerberoid,Gerberoid
+https://github.com/tube42/drumon,se.tube42.drum.android,Drum On!
+https://github.com/tube42/candymem,se.tube42.kidsmem.android,Candy Memory
+https://github.com/tube42/9p,se.tube42.p9.android,9P
+https://github.com/blaztriglav/did-i,si.modrajagoda.didi,Did I?
+https://github.com/slightlywobbly/adbwireless,siir.es.adbWireless,adbWireless
+https://github.com/franciscofranco/Simple-Reboot-app,simple.reboot.com,Simple Reboot
+https://github.com/mvysny/aedict,sk.baka.aedict,
+https://github.com/videogameboy76/FBEditPlus,sk.halmi.fbeditplus,Frozen Bubble LevelEditor plus
+https://github.com/Chemik/logcatudp,sk.madzik.android.logcatudp,Logcat to UDP
+https://github.com/vx/connectbot,sk.vx.connectbot,VX ConnectBot
+https://github.com/amiga/sonorox,sonoroxadc.garethmurfin.co.uk,Sonorox
+https://github.com/LeoChirkov/Service-Menu,sony.hidden.servicemenu,Service Menu
+https://github.com/Starcommander/StreamRadio,starcom.snd,WebRadio
+https://github.com/easytiger/dotty,steele.gerry.dotty,Dotty
+https://github.com/Streetwalrus/android_usb_msd,streetwalrus.usbmountr,USB Mountr
+https://github.com/d4rken/reddit-android-appstore,subreddit.android.appstore,/r/Android App store
+https://github.com/PuffOpenSource/Puff-Android,sun.bob.leela,Puff
+https://github.com/Swati4star/Images-to-PDF,swati4star.createpdf,PDF Converter
+https://github.com/benjaminaigner/aiproute,systems.byteswap.aiproute,AIProute
+https://github.com/szelok/twister-android,szelok.app.twister,Twister
+https://github.com/Team-Unguided/BrightTime,teamunguided.brighttime,BrightTime
+https://github.com/Teaonly/android-eye,teaonly.droideye,Wifi Camera
+https://github.com/jlelse/teleposter,telegra.ph,Teleposter
+https://github.com/paulasiimwe/Android-ImageMagick,teste.ndk,ImageMagick
+https://github.com/eqvinox/wifisetup,tf.nox.wifisetup,33c3 Wifi Setup
+https://github.com/SibDev/BadPixels,tk.al54.dev.badpixels,Bad Pixels
+https://github.com/jpkrause/DailybRead,tk.elevenk.dailybread,DailybRead
+https://github.com/beegee-tokyo/phoenix,tk.giesecke.phoenix,Phoenix
+https://github.com/thelinuxgeekcommunity/simpleirc,tk.jordynsmediagroup.simpleirc.fdroid,Simple IRC
+https://github.com/waelk10/Metronome,tk.radioactivemineral.metronome,Metronome
+https://github.com/pot8oe/mythmote,tkj.android.homecontrol.mythmote,mythmote
+https://github.com/obale/divedroid,to.networld.android.divedroid,DiveDroid
+https://github.com/iRail/BeTrains-for-Android,tof.cv.mpp,BeTrains
+https://github.com/rosenpin/AlwaysOnAmoledPlugin,tomer.com.alwaysonamoledplugin,Always On AMOLED Plugin
+https://github.com/tranquvis/SimpleSmsRemote,tranquvis.simplesmsremote,Simple sms remote
+https://github.com/trikita/obsqr,trikita.obsqr,Obsqr
+https://github.com/trikita/slide,trikita.slide,Slide
+https://github.com/trikita/talalarmo,trikita.talalarmo,Talalarmo
+https://github.com/TobiasSchwirten/tuiodroid,tuioDroid.impl,TUIOdroid
+https://github.com/eliotstocker/Light-Controller,tv.piratemedia.lightcontroler,Light controller
+https://github.com/Palatis/danbooru-gallery-android,tw.idv.palatis.danboorugallery,
+https://github.com/pinetum/AirUnlock-for-Android,tw.qtlin.mac.airunlocker,AirUnlock
+https://github.com/ucam-cl-dtg/barcodebox,uk.ac.cam.cl.dtg.android.barcodebox,Barcode Box 2
+https://github.com/withad/Mandelbrot-Maps-on-Android,uk.ac.ed.inf.mandelbrotmaps,Mandelbrot Maps
+https://github.com/intrications/intent-intercept,uk.co.ashtonbrsc.android.intentintercept,Intent Intercept
+https://github.com/markmcavoy/androidtoken,uk.co.bitethebullet.android.token,Android Token
+https://github.com/bpeel/catverbs,uk.co.busydoingnothing.catverbs,Catverbs
+https://github.com/bpeel/prevo,uk.co.busydoingnothing.prevo,
+https://github.com/daj/flashback,uk.co.danieljarvis.android.flashback,Flashback
+https://github.com/jarofgreen/Just-A-Damn-Compass,uk.co.jarofgreen.JustADamnCompass,Just A Damn Compass
+https://github.com/Cj-Malone/Screens,uk.co.keepawayfromfire.screens,Screens
+https://github.com/rparkins999/CalendarTrigger,uk.co.yahoo.p1rpp.calendartrigger,Calendar Trigger
+https://github.com/JohnPersano/CrimeTalk-Reader,uk.org.crimetalk,CrimeTalk
+https://github.com/nikclayton/android-squeezer,uk.org.ngo.squeezer,Squeezer
+https://github.com/uobikiemukot/yaft-android,uobikiemukot.yaft,yaft
+https://github.com/achromaticmetaphor/agram,us.achromaticmetaphor.agram,agram
+https://github.com/achromaticmetaphor/IMCKTG,us.achromaticmetaphor.imcktg,IMCKTG
+https://github.com/dbravender/korean_conjugation,us.bravender.android.dongsa,Dongsa
+https://github.com/falnatsheh/MarkdownView,us.feras.mdv.demo,MarkdownView Demo
+https://github.com/kollerlukas/Camera-Roll-Android-App,us.koller.cameraroll,
+https://github.com/rmceoin/cidrcalculator,us.lindanrandy.cidrcalculator,CIDR Calculator
+https://github.com/PaperAirplane-Dev-Team/BlackLight,us.shandian.blacklight,BlackLight
+https://github.com/PaperAirplane-Dev-Team/GigaGet,us.shandian.giga,GigaGet
+https://github.com/ReeceStevens/ut_ewh_audiometer_2014,ut.ewh.audiometrytest,Audiometry Made Easy
+https://github.com/vyaban/Stormify,vik.linx.stormify,Stormify
+https://github.com/prrt714/Kaleidoscope,vnd.blueararat.kaleidoscope6,Kaleidoscope
+https://github.com/0xpr03/VocableTrainer-Android,vocabletrainer.heinecke.aron.vocabletrainer,VocableTrainer Beta
+https://github.com/himmele/quickdroid,vu.de.urpool.quickdroid,Quickdroid
+https://github.com/wbaumann/SmartReceiptsLibrary,wb.receiptspro,Smart Receipts Plus
+https://github.com/GrahamBlanshard/WiseRadar,wiseguys.radar,WiseRadar
+https://github.com/Etar-Group/Etar-Calendar,ws.xsoh.etar,Etar
+https://github.com/wsdfhjxc/taponium,wsdfhjxc.taponium,Taponium
+https://github.com/wseemann/RoMote,wseemann.media.romote,RoMote
+https://github.com/x1125/initd-light,x1125io.initdlight,Init.d Light
+https://github.com/2048bit/ByteLauncher,yazilimcikoala.bytelauncher,ByteLauncher
+https://github.com/hhroc/yellr-android,yellr.net.yellr_android,Yellr
+https://github.com/youten/iBeaconDetector,youten.redo.ble.ibeacondetector,iBeaconDetector
+https://github.com/fs1995/FlashlightWidget,z4pp3r.flashlightwidget,Flashlight Widget
+https://github.com/LukeStonehm/LogicalDefence,za.co.lukestonehm.logicaldefence,Logical Defence
+https://github.com/SheldonNeilson/Android-Alarm-Clock,za.co.neilson.alarm,Alarm Clock

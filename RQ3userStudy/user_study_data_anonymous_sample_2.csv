@@ -1,0 +1,7 @@
+person,package,e1,completed?,Time,difficulty,Usefulness,e2,completed?,Time,difficulty,Usefulness,e3,completed?,Time,difficulty,Usefulness,e4,completed?,Time,difficulty,e5,completed?,Time,difficulty,e6,completed?,Time,difficulty
+pro4,1J,e1,Y,107,2,3,e2,Y,50,1,5,e3,Y,233,2,5,e4,Y,529,4,e5,Y,122,1,e6,Y,69,2
+pro5,1I,e1,Y,459,3,4,e2,Y,25,1,5,e3,Y,181,3,5,e4,Y,648,4,e5,Y,60,2,e6,Y,256,3
+researcher7,1C,e1,Error in timing,,,5,e2,Error in timing,,,5,e3,Error in timing,,,4,e4,Error in timing,,5,e5,Error in timing,,,e6,Error in timing,,
+pro6,1D,e1,Y,345,3,4,e2,Y,106,1,5,e3,Y,92,1,5,e4,Y,975,4,e5,Y,234,1,e6,Y,205,2
+researcher8,1H,e1,Y,363,3,4,e2,Y,278,1,4,e3,y,187,2,5,e4,Y,412,3,e5,Y,226,2,e6,Y,189,1
+researcher9,1G,e1,Y,60,1,5,e2,Y,120,1,3,e3,Y,180,2,5,e4,Y,300,3,e5,y,120,2,e6,,,
